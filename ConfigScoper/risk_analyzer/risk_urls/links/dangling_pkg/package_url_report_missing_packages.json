@@ -1,0 +1,1038 @@
+[
+  {
+    "source_file": "data/links/github_hijack_account/pipfile/dead_urls_other.txt",
+    "original_url": "https://eece-223-185-128-251.ngrok-free.app/browserstack-sdk.tar.gz",
+    "domain": "eece-223-185-128-251.ngrok-free.app",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/pyproject/dead_urls_other.txt",
+    "original_url": "http://lemon.cs.elte.hu/pub/sources/lemon-1.3.1.tar.gz;",
+    "domain": "lemon.cs.elte.hu",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/pyproject/dead_urls_other.txt",
+    "original_url": "https://example.com/model.zip",
+    "domain": "example.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/pyproject/dead_urls_other.txt",
+    "original_url": "https://golang.org/dl/go1.24.5.linux-amd64.tar.gz;tar",
+    "domain": "golang.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/pyproject/dead_urls_other.txt",
+    "original_url": "https://example.com/foo.zip",
+    "domain": "example.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/pyproject/dead_urls_other.txt",
+    "original_url": "https://example.com/package-0.0.1.tar.gz",
+    "domain": "example.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/pyproject/dead_urls_other.txt",
+    "original_url": "https://python-poetry.org/distributions/demo-0.1.0-py2.py3-none-any.whl",
+    "domain": "python-poetry.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/pyproject/dead_urls_other.txt",
+    "original_url": "https://example.com/foo-1.2.3-py3-none-any.whl",
+    "domain": "example.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://google-visualization-python.googlecode.com/files/gviz_api_py-1.8.2.tar.gz",
+    "domain": "google-visualization-python.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://www.secdev.org/projects/scapy/files/scapy-latest.tar.gz",
+    "domain": "www.secdev.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://effbot.org/media/downloads/Imaging-1.1.7.tar.gz",
+    "domain": "effbot.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/prologic/pydot/get/ac76697320d6.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://hg.q-continuum.net/libloader/archive/tip.tar.gz",
+    "domain": "hg.q-continuum.net",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://pyodbc.googlecode.com/files/pyodbc-3.0.7.zip",
+    "domain": "pyodbc.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/whitie/python-barcode/get/2126bc402643.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://gdata-python-client.googlecode.com/files/gdata-2.0.17.tar.gz",
+    "domain": "gdata-python-client.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/zikzakmedia/trytond-sale_shop/get/c08a55a96f605e96c72253ce22a24251c86c5bb9.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://s3-us-west-2.amazonaws.com/packages.dualspark.com/dev/cfn-environment-base/cfn-environment-base-0.3.3.tar.gz",
+    "domain": "s3-us-west-2.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/wkornewald/django-filetransfers/get/32ddeac.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://dev.gentoo.org/~dolsen/releases/ssl-fetch/ssl-fetch-0.4.tar.gz",
+    "domain": "dev.gentoo.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/onepercentclub/django-registration/get/ae9e9ed265ed.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/zalew/django-online-status/get/tip.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://conda.anaconda.org/conda-forge/linux-64/matplotlib-2.2.2-py36_1.tar.bz2",
+    "domain": "conda.anaconda.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://typogrify.googlecode.com/files/typogrify-1.0.tar.gz",
+    "domain": "typogrify.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/jespern/django-piston/get/5b3ef294fe89.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://hg.q-continuum.net/sound_lib/archive/tip.tar.gz",
+    "domain": "hg.q-continuum.net",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.0.3.zip",
+    "domain": "cdn.mysql.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://www.tornadoweb.org/static/tornado-0.2.tar.gz",
+    "domain": "www.tornadoweb.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://s3.amazonaws.com/finddeps/PySAL-1.10.0-py2-none-any.whl",
+    "domain": "s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/psam/django-postman/get/fdb69dfc44a4.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://ci.appveyor.com/api/buildjobs/giqh0g5x2wfolu9r/artifacts/dist/pygame-1.9.2.dev1-cp35-cp35m-win_amd64.whl",
+    "domain": "ci.appveyor.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "git+https://bitbucket.org/absolwenciifpw/django-mailhide/master.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://opendesk-packages.herokuapp.com/cornice-0.17.tar.gz",
+    "domain": "opendesk-packages.herokuapp.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://closure-linter.googlecode.com/files/closure_linter-latest.tar.gz",
+    "domain": "closure-linter.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://effbot.org/downloads/Imaging-1.1.6.tar.gz",
+    "domain": "effbot.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/bdauvergne/django-registration-1.5/get/tip.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://s3-us-west-2.amazonaws.com/artifacts.numenta.org/numenta/nupic.core/releases/nupic.bindings/nupic.bindings-0.4.0-cp27-none-linux_x86_64.whl",
+    "domain": "s3-us-west-2.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://conda.anaconda.org/conda-forge/linux-64/libxml2-2.9.8-0.tar.bz2",
+    "domain": "conda.anaconda.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/bjornswift/django-requestlogging/get/tip.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://cntk.ai/PythonWheel/CPU-Only/cntk-2.1-cp35-cp35m-win_amd64.whl",
+    "domain": "cntk.ai",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://s3.amazonaws.com/finddeps/scipy-0.16.0-cp27-none-win_amd64.whl",
+    "domain": "s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/zamboni/django-helper-forms/get/tip.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://conda.anaconda.org/conda-forge/linux-64/libiconv-1.15-0.tar.bz2",
+    "domain": "conda.anaconda.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://www.colorado.edu/conflict/peace/download/peace_essay.ZIP",
+    "domain": "www.colorado.edu",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://downloads.sourceforge.net/project/pyaiml/PyAIML%20%28unstable%29/0.8.6/PyAIML-0.8.6.zip",
+    "domain": "downloads.sourceforge.net",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/jone_eide/django-localeurl/get/tip.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.1.3.zip",
+    "domain": "cdn.mysql.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://yapgvb.googlecode.com/files/yapgvb-1.2.3-source.tar.gz",
+    "domain": "yapgvb.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/schinckel/django-postgres/get/ada11ed1caef.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/spirit/guess_language/downloads/guess_language-spirit-0.5a4.tar.bz2",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://dl.dropboxusercontent.com/u/165239/sm-0.4.tgz",
+    "domain": "dl.dropboxusercontent.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://opendesk-packages.herokuapp.com/colander-1.0b3.tar.gz",
+    "domain": "opendesk-packages.herokuapp.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://effbot.org/downloads/Imaging-1.1.7.tar.gz",
+    "domain": "effbot.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://dl.dropboxusercontent.com/u/165239/mcn_cc_sdk.tgz",
+    "domain": "dl.dropboxusercontent.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://www.dropbox.com/static/developers/dropbox-python-sdk-1.5.1.zip",
+    "domain": "www.dropbox.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://pefile.googlecode.com/files/pefile-1.2.10-139.tar.gz",
+    "domain": "pefile.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://hg.q-continuum.net/accessible_output2/archive/tip.tar.gz",
+    "domain": "hg.q-continuum.net",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://sites.google.com/site/nmftool/home/source-code/nmfv1_4.zip",
+    "domain": "sites.google.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/zikzakmedia/trytond-sale_shop/get/default.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://python-graph.googlecode.com/files/python-graph-core-1.8.2.tar.gz",
+    "domain": "python-graph.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://microfluidics.utoronto.ca/git/python___path.git/snapshot/da43890764f1ee508fe6c32582acd69b87240365.zip",
+    "domain": "microfluidics.utoronto.ca",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/marekbrzoska/django-registration/get/fd14433.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://s3-us-west-2.amazonaws.com/com.mybasis.deployment-binaries/dex-0.6.1.zip",
+    "domain": "s3-us-west-2.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://pythonfutures.googlecode.com/archive/168453acb1ee.zip",
+    "domain": "pythonfutures.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://dist.repoze.org/PIL-1.1.6.tar.gz",
+    "domain": "dist.repoze.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://py-editdist.googlecode.com/files/py-editdist-0.3.tar.gz",
+    "domain": "py-editdist.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://ipaddr-py.googlecode.com/files/ipaddr-2.1.10.tar.gz",
+    "domain": "ipaddr-py.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://dpkt.googlecode.com/files/dpkt-1.8.tar.gz",
+    "domain": "dpkt.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://www.reportlab.org/ftp/ReportLab_2_3.tar.gz",
+    "domain": "www.reportlab.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://opendesk-packages.herokuapp.com/ntorque-0.3.2.tar.gz",
+    "domain": "opendesk-packages.herokuapp.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://dist.repoze.org/PIL-1.1.6.tar.gz",
+    "domain": "dist.repoze.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/absolwenciifpw/django-mailhide/master.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://invenio-software.org/download/python/pyRXP-1.16-daily-unix.tar.gz",
+    "domain": "invenio-software.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/onepercentclub/suds/get/afe727f50704.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://effbot.org/downloads/Imaging-1.1.7.tar.gz",
+    "domain": "effbot.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://tmrc.mit.edu/mirror/twisted/Twisted/10.1/Twisted-10.1.0.tar.bz2",
+    "domain": "tmrc.mit.edu",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/axiacore/django-autoslug/get/d163a44269a0.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://pyfilesystem.googlecode.com/files/fs-0.4.0.tar.gz",
+    "domain": "pyfilesystem.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://gevent.googlecode.com/files/gevent-1.0rc2.tar.gz",
+    "domain": "gevent.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://effbot.org/media/downloads/PIL-1.1.7.tar.gz",
+    "domain": "effbot.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://invenio-software.org/download/python/py-editdist-0.3.tar.gz",
+    "domain": "invenio-software.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://www.aeracode.org/releases/south/south-0.6.1.tar.gz",
+    "domain": "www.aeracode.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://wxpython.org/Phoenix/snapshot-builds/wxPython_Phoenix-3.0.3.dev1820+49a8884-cp34-none-win_amd64.whl",
+    "domain": "wxpython.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/brandon/backports.ssl_match_hostname/get/tip.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://scapy.net/scapy-latest.zip",
+    "domain": "scapy.net",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://jon.es/other/txJSON-RPC-fluidinfo.tar.gz",
+    "domain": "jon.es",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://gcc.cybermirror.org/releases/gcc-4.4.0/gcc-core-4.4.0.tar.bz2",
+    "domain": "gcc.cybermirror.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://conda.anaconda.org/conda-forge/linux-64/qt-5.6.2-7.tar.bz2",
+    "domain": "conda.anaconda.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://download.lfd.uci.edu/pythonlibs/s2jqpv5t/cp27/pycairo-1.18.2-cp27-cp27m-win32.whl",
+    "domain": "download.lfd.uci.edu",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://s3.amazonaws.com/finddeps/numpy-1.9.2%2Bmkl-cp27-none-win_amd64.whl",
+    "domain": "s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/sybren/flickrapi/get/9d209fd.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://files.dimagi.com/pygooglechart-0.3.0.tar.gz",
+    "domain": "files.dimagi.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://pyglet.googlecode.com/files/pyglet-1.2alpha1.tar.gz",
+    "domain": "pyglet.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://conda.anaconda.org/conda-forge/noarch/nbconvert-5.3.1-py_1.tar.bz2",
+    "domain": "conda.anaconda.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://download.qt.io/snapshots/ci/pyside/5.11/latest/pyside2/PySide2-5.11.0a1.dev1525359714-5.11.0-cp36-cp36m-win_amd64.whl",
+    "domain": "download.qt.io",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "http://thirdparty-packages.braincorporation.net/pytest-xdist-2013-bc-b.tar.gz",
+    "domain": "thirdparty-packages.braincorporation.net",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/erikrose/pygments-main/get/1081-pragmatic-fix.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.1.3.tar.gz",
+    "domain": "cdn.mysql.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/david/django-oauth-plus/get/4fee88daa413.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://fuxi.googlecode.com/hg/layercake-python.tar.bz2",
+    "domain": "fuxi.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://conda.anaconda.org/conda-forge/linux-64/jpeg-9b-2.tar.bz2",
+    "domain": "conda.anaconda.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://s3.amazonaws.com/finddeps/psycopg2-2.6.1-cp27-none-win_amd64.whl",
+    "domain": "s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://py-editdist.googlecode.com/files/py-editdist-0.3.tar.gz",
+    "domain": "py-editdist.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://download.lfd.uci.edu/pythonlibs/s2jqpv5t/cp27/pycairo-1.18.2-cp27-cp27m-win32.whl",
+    "domain": "download.lfd.uci.edu",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/zikzakmedia/trytond-sale_shop/get/default.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/requirements/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/zikzakmedia/trytond-sale_shop/get/c08a55a96f605e96c72253ce22a24251c86c5bb9.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://aigarius-gdata.googlecode.com/archive/tip.zip",
+    "domain": "aigarius-gdata.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://p4-phylogenetics.googlecode.com/archive/4491de464e68fdb49c7a11e06737cd34a98143ec.tar.gz",
+    "domain": "p4-phylogenetics.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/tino/pyfirmata/get/0.9.4.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://launchpad.net/dkimpy/trunk/0.5.4/+download/dkimpy-0.5.4.tar.gz",
+    "domain": "launchpad.net",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/denis/gevent/get/82f623ff862a.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://lapels.googlecode.com/files/pysam-0.6b.tar.gz",
+    "domain": "lapels.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://sk1project.org/downloads/uniconvertor/v1.1.4/uniconvertor-1.1.4.tar.gz",
+    "domain": "sk1project.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://dist.repoze.org/PIL-1.1.6.tar.gz",
+    "domain": "dist.repoze.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://django-swingtime.googlecode.com/files/django-swingtime-0.2.1.tar.gz",
+    "domain": "django-swingtime.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/simplecodes/wtforms/get/tip.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/spirit/guess_language/downloads/guess_language-spirit-0.5a4.tar.bz2",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/twanschik/django-autoload/get/tip.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/mirnylab/mirnylib/get/tip.tar.bz2",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://brianramos.com/software/PyZenity/PyZenity-0.1.7.tar.gz",
+    "domain": "brianramos.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/ubernostrum/django-registration/get/58eef8330b0f.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://dist.repoze.org/PIL-1.1.6.tar.gz",
+    "domain": "dist.repoze.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://closure-linter.googlecode.com/files/closure_linter-latest.tar.gz",
+    "domain": "closure-linter.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://bitbucket.org/sybren/flickrapi/get/tip.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://pymel.googlecode.com/files/pymel-1.0.2.zip",
+    "domain": "pymel.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://dotcloud.org.s3.amazonaws.com/ejs-0.0.1.tar.gz",
+    "domain": "dotcloud.org.s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://pygeoip.googlecode.com/files/pygeoip-0.1.3.zip",
+    "domain": "pygeoip.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/pygame/pygame/get/release_1_9_1release.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://dpkt.googlecode.com/files/dpkt-1.7.tar.gz",
+    "domain": "dpkt.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/hardbyte/python-can/get/default.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://www.daimi.au.dk/~mailund/suffix_tree/suffix_tree-2.1.tar.gz",
+    "domain": "www.daimi.au.dk",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://dotcloud.org.s3.amazonaws.com/aufs-0.0.1.tar.gz",
+    "domain": "dotcloud.org.s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://dotcloud.org.s3.amazonaws.com/vm2vm-0.0.3.tar.gz",
+    "domain": "dotcloud.org.s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://gevent.googlecode.com/files/gevent-1.0rc2.tar.gz",
+    "domain": "gevent.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://feedparser.googlecode.com/files/feedparser-4.1.zip",
+    "domain": "feedparser.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://jsonschema.googlecode.com/files/jsonschema-0.2a.tar.gz",
+    "domain": "jsonschema.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://closure-linter.googlecode.com/files/closure_linter-2.3.11.tar.gz",
+    "domain": "closure-linter.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/weholt/dse2/get/545e114008b8.tar.bz2",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://protobuf-socket-rpc.googlecode.com/files/protobuf.socketrpc-1.3.2.tar.gz",
+    "domain": "protobuf-socket-rpc.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://onec-pypicloud.s3.amazonaws.com/6f45/django_configurations/django-configurations-0.9-sbrandtb.tar.gz",
+    "domain": "onec-pypicloud.s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/zamboni/connection-manager/get/tip.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz",
+    "domain": "pylockfile.googlecode.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/zamboni/django-utils/get/tip.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/snegovick/dxfgrabber/downloads/dxfgrabber-0.7.4.tar.gz",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://dotcloud.org.s3.amazonaws.com/metashelf-0.0.1.tar.gz",
+    "domain": "dotcloud.org.s3.amazonaws.com",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://orange.biolab.si/download/oasa-0.13.1.tar.gz",
+    "domain": "orange.biolab.si",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "https://bitbucket.org/xi/pyyaml/get/3.11.zip",
+    "domain": "bitbucket.org",
+    "domain_exists": true,
+    "package_exists": false
+  },
+  {
+    "source_file": "data/links/github_hijack_account/setup/dead_urls_other.txt",
+    "original_url": "http://www.aeracode.org/releases/south/south-0.6.2.tar.gz",
+    "domain": "www.aeracode.org",
+    "domain_exists": true,
+    "package_exists": false
+  }
+]

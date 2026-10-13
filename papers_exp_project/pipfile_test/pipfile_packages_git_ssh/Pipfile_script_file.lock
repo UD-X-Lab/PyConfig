@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "FieldHunter/mutator/real_script.py"
+    },
+    "pipfile-spec": 6,
+    "requires": {},
+    "sources": [
+      {
+        "name": "FieldHunter/mutator/real_script.py",
+        "url": "https://pypi.org/simple",
+        "verify_ssl": true
+      }
+    ]
+  },
+  "default": {
+    "certifi": {
+      "hashes": [
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py"
+      ],
+      "markers": "FieldHunter/mutator/real_script.py",
+      "version": "FieldHunter/mutator/real_script.py"
+    },
+    "charset-normalizer": {
+      "hashes": [
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py"
+      ],
+      "markers": "FieldHunter/mutator/real_script.py",
+      "version": "FieldHunter/mutator/real_script.py"
+    },
+    "idna": {
+      "hashes": [
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py"
+      ],
+      "markers": "FieldHunter/mutator/real_script.py",
+      "version": "FieldHunter/mutator/real_script.py"
+    },
+    "requests": {
+      "git": "git+ssh://git@github.com/psf/requests.git",
+      "markers": "FieldHunter/mutator/real_script.py",
+      "ref": "FieldHunter/mutator/real_script.py"
+    },
+    "urllib3": {
+      "hashes": [
+        "FieldHunter/mutator/real_script.py",
+        "FieldHunter/mutator/real_script.py"
+      ],
+      "markers": "FieldHunter/mutator/real_script.py",
+      "version": "FieldHunter/mutator/real_script.py"
+    }
+  },
+  "develop": {}
+}

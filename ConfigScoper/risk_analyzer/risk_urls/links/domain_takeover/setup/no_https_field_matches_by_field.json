@@ -1,0 +1,303 @@
+{
+  "dependency_links": {
+    "count": 37,
+    "items": [
+      {
+        "file": "real_config/setup/2c0b451b.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/mirror/",
+        "urls": [
+          "http://downloads.reviewboard.org/mirror/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a47c0f42.py",
+        "domain": "downloads.sourceforge.net",
+        "url": "http://downloads.sourceforge.net/pywebsvcs/ZSI-2.1_a1-py2.5.egg",
+        "urls": [
+          "http://downloads.sourceforge.net/pywebsvcs/ZSI-2.1_a1-py2.5.egg"
+        ]
+      },
+      {
+        "file": "real_config/setup/6e354a14.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/mirror/",
+        "urls": [
+          "http://downloads.reviewboard.org/mirror/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6e354a14.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/django-evolution/0.7/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/django-evolution/0.7/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6e354a14.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/Djblets/0.8/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/Djblets/0.8/"
+        ]
+      },
+      {
+        "file": "real_config/setup/09923051.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org",
+        "urls": [
+          "http://dist.repoze.org"
+        ]
+      },
+      {
+        "file": "real_config/setup/2db8de29.py",
+        "domain": "downloads.sourceforge.net",
+        "url": "http://downloads.sourceforge.net/pywebsvcs/ZSI-2.1_a1-py2.5.egg",
+        "urls": [
+          "http://downloads.sourceforge.net/pywebsvcs/ZSI-2.1_a1-py2.5.egg"
+        ]
+      },
+      {
+        "file": "real_config/setup/61d9cab3.py",
+        "domain": "www.owlfish.com",
+        "url": "http://www.owlfish.com/software/simpleTAL/download.html",
+        "urls": [
+          "http://www.owlfish.com/software/simpleTAL/download.html"
+        ]
+      },
+      {
+        "file": "real_config/setup/916986f3.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/mirror/",
+        "urls": [
+          "http://downloads.reviewboard.org/mirror/"
+        ]
+      },
+      {
+        "file": "real_config/setup/916986f3.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/django-evolution/0.7/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/django-evolution/0.7/"
+        ]
+      },
+      {
+        "file": "real_config/setup/916986f3.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/Djblets/0.9/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/Djblets/0.9/"
+        ]
+      },
+      {
+        "file": "real_config/setup/e6309842.py",
+        "domain": "www.owlfish.com",
+        "url": "http://www.owlfish.com/software/simpleTAL/download.html",
+        "urls": [
+          "http://www.owlfish.com/software/simpleTAL/download.html"
+        ]
+      },
+      {
+        "file": "real_config/setup/2db2899d.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org/",
+        "urls": [
+          "http://dist.repoze.org/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2db2899d.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org",
+        "urls": [
+          "http://dist.repoze.org"
+        ]
+      },
+      {
+        "file": "real_config/setup/1033d367.py",
+        "domain": "software.ligo.org",
+        "url": "http://software.ligo.org/lscsoft/source/glue-1.49.1.tar.gz",
+        "urls": [
+          "http://software.ligo.org/lscsoft/source/glue-1.49.1.tar.gz"
+        ]
+      },
+      {
+        "file": "real_config/setup/1033d367.py",
+        "domain": "software.ligo.org",
+        "url": "http://software.ligo.org/lscsoft/source/dqsegdb-1.2.2.tar.gz",
+        "urls": [
+          "http://software.ligo.org/lscsoft/source/dqsegdb-1.2.2.tar.gz"
+        ]
+      },
+      {
+        "file": "real_config/setup/7ac5c073.py",
+        "domain": "cdn.mysql.com",
+        "url": "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-1.2.3.zip#md5=6d42998cfec6e85b902d4ffa5a35ce86",
+        "urls": [
+          "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-1.2.3.zip#md5=6d42998cfec6e85b902d4ffa5a35ce86"
+        ]
+      },
+      {
+        "file": "real_config/setup/aa6b856b.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org/",
+        "urls": [
+          "http://dist.repoze.org/"
+        ]
+      },
+      {
+        "file": "real_config/setup/aa6b856b.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org",
+        "urls": [
+          "http://dist.repoze.org"
+        ]
+      },
+      {
+        "file": "real_config/setup/ad6c032c.py",
+        "domain": "download.sourceforge.net",
+        "url": "http://download.sourceforge.net/pmw/Pmw.1.3.tar.gz",
+        "urls": [
+          "http://download.sourceforge.net/pmw/Pmw.1.3.tar.gz"
+        ]
+      },
+      {
+        "file": "real_config/setup/91bc4263.py",
+        "domain": "code.google.com",
+        "url": "http://code.google.com/p/django-modeltranslation/wiki/InstallationAndUsage",
+        "urls": [
+          "http://code.google.com/p/django-modeltranslation/wiki/InstallationAndUsage"
+        ]
+      },
+      {
+        "file": "real_config/setup/f9971483.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org/",
+        "urls": [
+          "http://dist.repoze.org/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f9971483.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org",
+        "urls": [
+          "http://dist.repoze.org"
+        ]
+      },
+      {
+        "file": "real_config/setup/2825850c.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org/",
+        "urls": [
+          "http://dist.repoze.org/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2825850c.py",
+        "domain": "www.mindrot.org",
+        "url": "http://www.mindrot.org/files/py-bcrypt/py-bcrypt-0.1.tar.gz#egg=bcrypt-0.1",
+        "urls": [
+          "http://www.mindrot.org/files/py-bcrypt/py-bcrypt-0.1.tar.gz#egg=bcrypt-0.1"
+        ]
+      },
+      {
+        "file": "real_config/setup/2825850c.py",
+        "domain": "dist.repoze.org",
+        "url": "http://dist.repoze.org",
+        "urls": [
+          "http://dist.repoze.org"
+        ]
+      },
+      {
+        "file": "real_config/setup/e857f375.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/mirror/",
+        "urls": [
+          "http://downloads.reviewboard.org/mirror/"
+        ]
+      },
+      {
+        "file": "real_config/setup/e857f375.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/django-evolution/0.7/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/django-evolution/0.7/"
+        ]
+      },
+      {
+        "file": "real_config/setup/e857f375.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/Djblets/0.9/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/Djblets/0.9/"
+        ]
+      },
+      {
+        "file": "real_config/setup/83f96bd5.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/mirror/",
+        "urls": [
+          "http://downloads.reviewboard.org/mirror/"
+        ]
+      },
+      {
+        "file": "real_config/setup/83f96bd5.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/django-evolution/0.7/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/django-evolution/0.7/"
+        ]
+      },
+      {
+        "file": "real_config/setup/83f96bd5.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/Djblets/0.9/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/Djblets/0.9/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f760ce17.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/mirror/",
+        "urls": [
+          "http://downloads.reviewboard.org/mirror/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d460b3a0.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/mirror/",
+        "urls": [
+          "http://downloads.reviewboard.org/mirror/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d460b3a0.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/django-evolution/0.7/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/django-evolution/0.7/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d460b3a0.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/releases/Djblets/0.9/",
+        "urls": [
+          "http://downloads.reviewboard.org/releases/Djblets/0.9/"
+        ]
+      },
+      {
+        "file": "real_config/setup/62730667.py",
+        "domain": "downloads.reviewboard.org",
+        "url": "http://downloads.reviewboard.org/mirror/",
+        "urls": [
+          "http://downloads.reviewboard.org/mirror/"
+        ]
+      }
+    ]
+  }
+}

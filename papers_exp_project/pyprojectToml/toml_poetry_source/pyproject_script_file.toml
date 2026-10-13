@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+name = "FieldHunter/mutator/real_script.py"
+version = "FieldHunter/mutator/real_script.py"
+
+[tool.poetry.dependencies]
+python = "FieldHunter/mutator/real_script.py"
+requests = "FieldHunter/mutator/real_script.py"
+
+[[tool.poetry.source]]
+name = "FieldHunter/mutator/real_script.py"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+default = true

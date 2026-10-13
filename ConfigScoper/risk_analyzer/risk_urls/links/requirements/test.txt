@@ -1,0 +1,2 @@
+https://archive1.piwheels.org/simple/wanakana-python/wanakana_python-1.2.2-py3-none-any.whl
+https://mirrors.ustc.edu.cn/pypi/web/simple/

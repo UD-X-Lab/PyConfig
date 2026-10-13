@@ -1,0 +1,2 @@
+[packages]
+requests = {git = "https://github.com/psf/requests.git", ref = "bash -lc \"echo real_shell_command\""}

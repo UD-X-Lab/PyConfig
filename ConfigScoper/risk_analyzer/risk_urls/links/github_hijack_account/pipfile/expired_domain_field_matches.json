@@ -1,0 +1,10 @@
+[
+  {
+    "file": "/home/hello/finder/real_config/pipfile.new/76d6dcb2_pipfile",
+    "field": "pipfile.source.url",
+    "domain": "pypi.pubyun.com",
+    "urls": [
+      "http://pypi.pubyun.com/"
+    ]
+  }
+]

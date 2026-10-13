@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+name = "FieldHunter.mutator.real_types.ExampleClass"
+version = "FieldHunter.mutator.real_types.ExampleClass"
+
+[tool.poetry.dependencies]
+python = "FieldHunter.mutator.real_types.ExampleClass"
+requests = "FieldHunter.mutator.real_types.ExampleClass"
+
+[[tool.poetry.source]]
+name = "FieldHunter.mutator.real_types.ExampleClass"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+default = true

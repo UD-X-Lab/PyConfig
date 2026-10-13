@@ -1,0 +1,1132 @@
+[
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_turbo-sim_turboflow_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "turbo-sim.github.io",
+    "urls": [
+      "://turbo-sim.github.io/TurboFlow/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_BjornMelin_docmind-ai-llm_main_pyproject.toml",
+    "field": "tool.docmind-ai.installation_notes",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cu128"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_ya7010_turu-py_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "yassun7010.github.io",
+    "urls": [
+      "://yassun7010.github.io/turu-py/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_VectorInstitute_odyssey_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "vectorinstitute.github.io",
+    "urls": [
+      "://vectorinstitute.github.io/ody"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Diatonika_baikal-template_main_pyproject.toml",
+    "field": "tool.poetry.source",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Diatonika_baikal-template_main_pyproject.toml",
+    "field": "tool.poetry.source[0].url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Diatonika_baikal-template_main_pyproject.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_skybrush-io_skybrush-server_main_pyproject.toml",
+    "field": "tool.uv.index",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_themeda-devs_themeda_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "unimelbmdap.github.io",
+    "urls": [
+      "://unimelbmdap.github.io/themeda"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_geronimo-iia_jupyter-lab-tool_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "geronimo-iia.github.io",
+    "urls": [
+      "://geronimo-iia.github.io/jupyter-lab-tool/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_VectorInstitute_aieng-template-poetry_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "vectorinstitute.github.io",
+    "urls": [
+      "://vectorinstitute.github.io/aieng-template/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_VectorInstitute_cyclops_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "vectorinstitute.github.io",
+    "urls": [
+      "://vectorinstitute.github.io/cyclop"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_nebhale_client-python_main_pyproject.toml",
+    "field": "tool.poetry.description",
+    "domain": "k8s-service-bindings.github.io",
+    "urls": [
+      "://k8s-service-bindings.github.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Hirundo-io_hirundo-python-sdk_main_pyproject.toml",
+    "field": "tool.bumpver.file_patterns",
+    "domain": "hirundo-io.github.io",
+    "urls": [
+      "://hirundo-io.github.io/hirundo/v{ver"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Deltares_GEOLib_master_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/GEOLib/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Deltares_GEOLib_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/GEOLib/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_blockanalitica_chain-harvester_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "blockanalitica.github.io",
+    "urls": [
+      "://blockanalitica.github.io/chain-harve"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_bolinette_bolinette_main_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "bolinette.org",
+    "urls": [
+      "://bolinette.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_bolinette_bolinette_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "bolinette.org",
+    "urls": [
+      "://bolinette.org/doc"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Deltares_GEOLib-Plus_master_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/geolib-plu"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Deltares_GEOLib-Plus_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/geolib-plu"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Elmeric_trio-engineio_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "elmeric.github.io",
+    "urls": [
+      "://elmeric.github.io/trio-engineio"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_sciencewhiz_robotpy-rev_main_pyproject.toml",
+    "field": "tool.robotpy-build.static_libs",
+    "domain": "maven.revrobotics.com",
+    "urls": [
+      "://maven.revrobotics.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_NNPDF_yadism_master_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "n3pdf.github.io",
+    "urls": [
+      "://n3pdf.github.io/yadi"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_entelecheia_cop-decoder_main_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "cop-decoder.jeju.ai",
+    "urls": [
+      "://cop-decoder.jeju.ai"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_mozilla-services_antenna_main_pyproject.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.mozilla.com",
+    "urls": [
+      "://crash-reports.mozilla.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_mozilla-services_antenna_main_pyproject.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.allizom.org",
+    "urls": [
+      "://crash-reports.allizom.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_TheGloved1_RobotPySwerve_main_pyproject.toml",
+    "field": "tool.robotpy-build.static_libs",
+    "domain": "maven.revrobotics.com",
+    "urls": [
+      "://maven.revrobotics.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_CHIMEFRB_workflow_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "chimefrb.github.io",
+    "urls": [
+      "://chimefrb.github.io/workflow-doc"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Govorunb_gary_main_pyproject.toml",
+    "field": "tool.uv.index",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cu124/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_mozilla-services_socorro_main_pyproject.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.mozilla.com",
+    "urls": [
+      "://crash-reports.mozilla.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_mozilla-services_socorro_main_pyproject.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.allizom.org",
+    "urls": [
+      "://crash-reports.allizom.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_OpenCloning_OpenCloning_LinkML_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "genestorian.github.io",
+    "urls": [
+      "://genestorian.github.io/OpenCloning_LinkML"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_config-ninja_config-ninja_main_pyproject.toml",
+    "field": "tool.poe.env",
+    "domain": "bryant-finney.github.io",
+    "urls": [
+      "://bryant-finney.github.io/config-ninja/config-ninja.png",
+      "://bryant-finney.github.io/config-ninja/favicon-32x32.png"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_biosimulations_biosim-client_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "jcschaff.github.io",
+    "urls": [
+      "://jcschaff.github.io/bio"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_skybrush-io_flockwave-conn_main_pyproject.toml",
+    "field": "tool.poetry.source",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_skybrush-io_flockwave-conn_main_pyproject.toml",
+    "field": "tool.poetry.source[1].url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_skybrush-io_flockwave-conn_main_pyproject.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Sincpro-SRL_sincpro_framework_main_pyproject.toml",
+    "field": "tool.poetry.source",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Sincpro-SRL_sincpro_framework_main_pyproject.toml",
+    "field": "tool.poetry.source[0].url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Sincpro-SRL_sincpro_framework_main_pyproject.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_jacobwegner_strawberry-graphql-django_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "strawberry-graphql.github.io",
+    "urls": [
+      "://strawberry-graphql.github.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Deltares_HYDROLIB-core_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/HYDROLIB-core"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Deltares_HYDROLIB-core_main_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/HYDROLIB-core"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_nodestream-proj_nodestream_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "nodestream-proj.github.io",
+    "urls": [
+      "://nodestream-proj.github.io/node"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_ypilseong_law_graphrag_main_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "ypilseong.github.io",
+    "urls": [
+      "://ypilseong.github.io/law_graphrag"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_VectorInstitute_FLorist_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "vectorinstitute.github.io",
+    "urls": [
+      "://vectorinstitute.github.io/FLori"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_deeppavlov_chatsky_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deeppavlov.github.io",
+    "urls": [
+      "://deeppavlov.github.io/chat"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/jgilchrist_pybib_master_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "jgilchrist.github.io",
+    "urls": [
+      "://jgilchrist.github.io/pybib/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_TheJacksonLaboratory_geneweaver-boolean-algebra_main_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "bergsalex.github.io",
+    "urls": [
+      "://bergsalex.github.io/geneweaver-doc"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_UpDryTwist_coolledx-driver_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "coolledx-driver.readthedocs.io",
+    "urls": [
+      "://coolledx-driver.readthedocs.io/en/late"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_RPA-US_semanticSOM_main_pyproject.toml",
+    "field": "tool.uv.index",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cu124"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_caretech-owl_gerd_main_pyproject.toml",
+    "field": "tool.uv.index",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/metal"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_arraial_pipo-legacy_main_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "sinistro14.github.io",
+    "urls": [
+      "://sinistro14.github.io/pipo"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_acvander_cookiecutter-pypackage_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "acvander.github.io",
+    "urls": [
+      "://acvander.github.io/cookiecutter-pypackage/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_mariofix_merchants_sandbox_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "mariofix.github.io",
+    "urls": [
+      "://mariofix.github.io/merchant"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Diatonika_baikal-common_main_pyproject.toml",
+    "field": "tool.poetry.source",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Diatonika_baikal-common_main_pyproject.toml",
+    "field": "tool.poetry.source[0].url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Diatonika_baikal-common_main_pyproject.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_axioma-ai-labs_nevron_main_pyproject.toml",
+    "field": "tool.poetry.source",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cpu/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_axioma-ai-labs_nevron_main_pyproject.toml",
+    "field": "tool.poetry.source[0].url",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cpu/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_axioma-ai-labs_nevron_main_pyproject.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cpu/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_Deltares_ra2ce_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/ra2ce/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_skybrush-io_flockwave-logger_main_pyproject.toml",
+    "field": "tool.uv.index",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_SWE-Gym-Raw_mozilla-services__socorro_main_pyproject.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.mozilla.com",
+    "urls": [
+      "://crash-reports.mozilla.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_SWE-Gym-Raw_mozilla-services__socorro_main_pyproject.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.allizom.org",
+    "urls": [
+      "://crash-reports.allizom.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_TheJacksonLaboratory_geneweaver-tools_main_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "bergsalex.github.io",
+    "urls": [
+      "://bergsalex.github.io/geneweaver-doc"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_lgcorzo_llmops-python-package_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "lgcorzo.github.io",
+    "urls": [
+      "://lgcorzo.github.io/llmop"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_owkin_gbm_hackathon_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "owkin.github.io",
+    "urls": [
+      "://owkin.github.io/gbm-mo"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_jcomeau1_coolled_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "coolledx-driver.readthedocs.io",
+    "urls": [
+      "://coolledx-driver.readthedocs.io/en/late"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/cde97d10.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "coolledx-driver.readthedocs.io",
+    "urls": [
+      "://coolledx-driver.readthedocs.io/en/late"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/b072e2f8.toml",
+    "field": "tool.poetry.source",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/b072e2f8.toml",
+    "field": "tool.poetry.source[0].url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/b072e2f8.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a05f6905.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "genestorian.github.io",
+    "urls": [
+      "://genestorian.github.io/OpenCloning_LinkML"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/39a09b22.toml",
+    "field": "tool.poetry.source",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/39a09b22.toml",
+    "field": "tool.poetry.source[0].url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/39a09b22.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/d2132941.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "mariofix.github.io",
+    "urls": [
+      "://mariofix.github.io/merchant"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/1c20eef1.toml",
+    "field": "tool.uv.index",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cu124/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/c7f294aa.toml",
+    "field": "tool.bumpver.file_patterns",
+    "domain": "hirundo-io.github.io",
+    "urls": [
+      "://hirundo-io.github.io/hirundo/v{ver"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/d4ac1b8d.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "turbo-sim.github.io",
+    "urls": [
+      "://turbo-sim.github.io/TurboFlow/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/0b6efdd6.toml",
+    "field": "tool.poetry.description",
+    "domain": "k8s-service-bindings.github.io",
+    "urls": [
+      "://k8s-service-bindings.github.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/e825b31b.toml",
+    "field": "tool.poe.env",
+    "domain": "bryant-finney.github.io",
+    "urls": [
+      "://bryant-finney.github.io/config-ninja/config-ninja.png",
+      "://bryant-finney.github.io/config-ninja/favicon-32x32.png"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/4dae7b14.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "jgilchrist.github.io",
+    "urls": [
+      "://jgilchrist.github.io/pybib/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/342f2d82.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "unimelbmdap.github.io",
+    "urls": [
+      "://unimelbmdap.github.io/themeda"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/cabe718c.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "acvander.github.io",
+    "urls": [
+      "://acvander.github.io/cookiecutter-pypackage/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/43ac29d1.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "sinistro14.github.io",
+    "urls": [
+      "://sinistro14.github.io/pipo"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/2b5b2a2e.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "lgcorzo.github.io",
+    "urls": [
+      "://lgcorzo.github.io/llmop"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/3896aaae.toml",
+    "field": "tool.uv.index",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cu124"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/f8b590c9.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "elmeric.github.io",
+    "urls": [
+      "://elmeric.github.io/trio-engineio"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/249504f2.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "chimefrb.github.io",
+    "urls": [
+      "://chimefrb.github.io/workflow-doc"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/d778c1af.toml",
+    "field": "tool.poetry.source",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/d778c1af.toml",
+    "field": "tool.poetry.source[0].url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/d778c1af.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/zitra"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/deb329b6.toml",
+    "field": "tool.docmind-ai.installation_notes",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cu128"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/f5cfbd9f.toml",
+    "field": "tool.robotpy-build.static_libs",
+    "domain": "maven.revrobotics.com",
+    "urls": [
+      "://maven.revrobotics.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a0797028.toml",
+    "field": "tool.poetry.source",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a0797028.toml",
+    "field": "tool.poetry.source[1].url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a0797028.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/6736fc3c.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "n3pdf.github.io",
+    "urls": [
+      "://n3pdf.github.io/yadi"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/84ce8abe.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "ypilseong.github.io",
+    "urls": [
+      "://ypilseong.github.io/law_graphrag"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/d6cc9efb.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.mozilla.com",
+    "urls": [
+      "://crash-reports.mozilla.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/d6cc9efb.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.allizom.org",
+    "urls": [
+      "://crash-reports.allizom.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/2e64bc0b.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "bergsalex.github.io",
+    "urls": [
+      "://bergsalex.github.io/geneweaver-doc"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/5e21b0fa.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/ra2ce/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/b0afb682.toml",
+    "field": "tool.uv.index",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/e11c4650.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/HYDROLIB-core"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/e11c4650.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/HYDROLIB-core"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/de270d42.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "vectorinstitute.github.io",
+    "urls": [
+      "://vectorinstitute.github.io/FLori"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/18385907.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "bolinette.org",
+    "urls": [
+      "://bolinette.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/18385907.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "bolinette.org",
+    "urls": [
+      "://bolinette.org/doc"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/b65a69c4.toml",
+    "field": "tool.robotpy-build.static_libs",
+    "domain": "maven.revrobotics.com",
+    "urls": [
+      "://maven.revrobotics.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/c28dbccd.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "geronimo-iia.github.io",
+    "urls": [
+      "://geronimo-iia.github.io/jupyter-lab-tool/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/5e953088.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "genestorian.github.io",
+    "urls": [
+      "://genestorian.github.io/OpenCloning_LinkML"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/8ac0f83d.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.mozilla.com",
+    "urls": [
+      "://crash-reports.mozilla.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/8ac0f83d.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.allizom.org",
+    "urls": [
+      "://crash-reports.allizom.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/fc406f46.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "jcschaff.github.io",
+    "urls": [
+      "://jcschaff.github.io/bio"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/cb47eebd.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "owkin.github.io",
+    "urls": [
+      "://owkin.github.io/gbm-mo"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/c1423365.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.mozilla.com",
+    "urls": [
+      "://crash-reports.mozilla.com"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/c1423365.toml",
+    "field": "tool.service-status.hosts",
+    "domain": "crash-reports.allizom.org",
+    "urls": [
+      "://crash-reports.allizom.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/9146d1aa.toml",
+    "field": "tool.poetry.source",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cpu/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/9146d1aa.toml",
+    "field": "tool.poetry.source[0].url",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cpu/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/9146d1aa.toml",
+    "field": "tool.poetry.source.url",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/cpu/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/bc0b50bb.toml",
+    "field": "tool.uv.index",
+    "domain": "abetlen.github.io",
+    "urls": [
+      "://abetlen.github.io/llama-cpp-python/whl/metal"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/463f8b87.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/GEOLib/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/463f8b87.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/GEOLib/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/39b087f3.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "cop-decoder.jeju.ai",
+    "urls": [
+      "://cop-decoder.jeju.ai"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/003c12f4.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/geolib-plu"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/003c12f4.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deltares.github.io",
+    "urls": [
+      "://deltares.github.io/geolib-plu"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/c6e8e6d7.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "vectorinstitute.github.io",
+    "urls": [
+      "://vectorinstitute.github.io/ody"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/601eb84b.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "strawberry-graphql.github.io",
+    "urls": [
+      "://strawberry-graphql.github.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a40f0666.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "deeppavlov.github.io",
+    "urls": [
+      "://deeppavlov.github.io/chat"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/e0cdf01a.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "yassun7010.github.io",
+    "urls": [
+      "://yassun7010.github.io/turu-py/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/9f6b4d36.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "vectorinstitute.github.io",
+    "urls": [
+      "://vectorinstitute.github.io/cyclop"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/c11524b1.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "coolledx-driver.readthedocs.io",
+    "urls": [
+      "://coolledx-driver.readthedocs.io/en/late"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/3d719fb2.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "vectorinstitute.github.io",
+    "urls": [
+      "://vectorinstitute.github.io/aieng-template/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/79e6cc7e.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "blockanalitica.github.io",
+    "urls": [
+      "://blockanalitica.github.io/chain-harve"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/36453bf6.toml",
+    "field": "tool.uv.index",
+    "domain": "pypi.fury.io",
+    "urls": [
+      "://pypi.fury.io/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/c062f1e9.toml",
+    "field": "tool.poetry.homepage",
+    "domain": "bergsalex.github.io",
+    "urls": [
+      "://bergsalex.github.io/geneweaver-doc"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/ef697a79.toml",
+    "field": "tool.poetry.documentation",
+    "domain": "nodestream-proj.github.io",
+    "urls": [
+      "://nodestream-proj.github.io/node"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{  
+  "_meta.sources.url": "The package index URL used as a dependency source. It specifies where Pipenv should search for and download packages, such as the official PyPI index or a private package repository.",
+  "default": "The locked production dependency section. It contains the resolved runtime dependencies corresponding to the [packages] section in the Pipfile, including exact versions, hashes, markers, and source information.",
+  "docs": "The locked production dependency section. It contains the resolved runtime dependencies corresponding to the [packages] section in the Pipfile, including exact versions, hashes, markers, and source information.",
+  "tests": "A custom dependency category for testing-related packages. It may contain dependencies used for running tests, measuring coverage, or supporting test infrastructure, such as pytest, pytest-cov, or test helper libraries."
+}

@@ -1,0 +1,434 @@
+{
+  "bitbucket.org": {
+    "count": 30,
+    "urls": [
+      "http://bitbucket.org/sybren/flickrapi/get/tip.zip",
+      "https://bitbucket.org/axiacore/django-autoslug/get/d163a44269a0.zip",
+      "https://bitbucket.org/bjornswift/django-requestlogging/get/tip.tar.gz",
+      "https://bitbucket.org/brandon/backports.ssl_match_hostname/get/tip.zip",
+      "https://bitbucket.org/denis/gevent/get/82f623ff862a.tar.gz",
+      "https://bitbucket.org/hardbyte/python-can/get/default.tar.gz",
+      "https://bitbucket.org/jespern/django-piston/get/5b3ef294fe89.zip",
+      "https://bitbucket.org/jone_eide/django-localeurl/get/tip.tar.gz",
+      "https://bitbucket.org/marekbrzoska/django-registration/get/fd14433.zip",
+      "https://bitbucket.org/mirnylab/mirnylib/get/tip.tar.bz2",
+      "https://bitbucket.org/onepercentclub/django-registration/get/ae9e9ed265ed.zip",
+      "https://bitbucket.org/onepercentclub/suds/get/afe727f50704.zip",
+      "https://bitbucket.org/prologic/pydot/get/ac76697320d6.zip",
+      "https://bitbucket.org/pygame/pygame/get/release_1_9_1release.zip",
+      "https://bitbucket.org/schinckel/django-postgres/get/ada11ed1caef.zip",
+      "https://bitbucket.org/simplecodes/wtforms/get/tip.tar.gz",
+      "https://bitbucket.org/snegovick/dxfgrabber/downloads/dxfgrabber-0.7.4.tar.gz",
+      "https://bitbucket.org/spirit/guess_language/downloads/guess_language-spirit-0.5a4.tar.bz2",
+      "https://bitbucket.org/tino/pyfirmata/get/0.9.4.tar.gz",
+      "https://bitbucket.org/twanschik/django-autoload/get/tip.tar.gz",
+      "https://bitbucket.org/ubernostrum/django-registration/get/58eef8330b0f.tar.gz",
+      "https://bitbucket.org/weholt/dse2/get/545e114008b8.tar.bz2",
+      "https://bitbucket.org/wkornewald/django-filetransfers/get/32ddeac.zip",
+      "https://bitbucket.org/xi/pyyaml/get/3.11.zip",
+      "https://bitbucket.org/zalew/django-online-status/get/tip.zip",
+      "https://bitbucket.org/zamboni/connection-manager/get/tip.zip",
+      "https://bitbucket.org/zamboni/django-helper-forms/get/tip.zip",
+      "https://bitbucket.org/zamboni/django-utils/get/tip.zip",
+      "https://bitbucket.org/zikzakmedia/trytond-sale_shop/get/c08a55a96f605e96c72253ce22a24251c86c5bb9.tar.gz",
+      "https://bitbucket.org/zikzakmedia/trytond-sale_shop/get/default.tar.gz"
+    ]
+  },
+  "conda.anaconda.org": {
+    "count": 6,
+    "urls": [
+      "https://conda.anaconda.org/conda-forge/linux-64/jpeg-9b-2.tar.bz2",
+      "https://conda.anaconda.org/conda-forge/linux-64/libiconv-1.15-0.tar.bz2",
+      "https://conda.anaconda.org/conda-forge/linux-64/libxml2-2.9.8-0.tar.bz2",
+      "https://conda.anaconda.org/conda-forge/linux-64/matplotlib-2.2.2-py36_1.tar.bz2",
+      "https://conda.anaconda.org/conda-forge/linux-64/qt-5.6.2-7.tar.bz2",
+      "https://conda.anaconda.org/conda-forge/noarch/nbconvert-5.3.1-py_1.tar.bz2"
+    ]
+  },
+  "dotcloud.org.s3.amazonaws.com": {
+    "count": 4,
+    "urls": [
+      "http://dotcloud.org.s3.amazonaws.com/aufs-0.0.1.tar.gz",
+      "http://dotcloud.org.s3.amazonaws.com/ejs-0.0.1.tar.gz",
+      "http://dotcloud.org.s3.amazonaws.com/metashelf-0.0.1.tar.gz",
+      "http://dotcloud.org.s3.amazonaws.com/vm2vm-0.0.3.tar.gz"
+    ]
+  },
+  "s3.amazonaws.com": {
+    "count": 4,
+    "urls": [
+      "https://s3.amazonaws.com/finddeps/PySAL-1.10.0-py2-none-any.whl",
+      "https://s3.amazonaws.com/finddeps/numpy-1.9.2%2Bmkl-cp27-none-win_amd64.whl",
+      "https://s3.amazonaws.com/finddeps/psycopg2-2.6.1-cp27-none-win_amd64.whl",
+      "https://s3.amazonaws.com/finddeps/scipy-0.16.0-cp27-none-win_amd64.whl"
+    ]
+  },
+  "cdn.mysql.com": {
+    "count": 3,
+    "urls": [
+      "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.0.3.zip",
+      "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.1.3.zip",
+      "https://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.1.3.tar.gz"
+    ]
+  },
+  "effbot.org": {
+    "count": 3,
+    "urls": [
+      "http://effbot.org/downloads/Imaging-1.1.6.tar.gz",
+      "http://effbot.org/downloads/Imaging-1.1.7.tar.gz",
+      "http://effbot.org/media/downloads/Imaging-1.1.7.tar.gz"
+    ]
+  },
+  "hg.q-continuum.net": {
+    "count": 3,
+    "urls": [
+      "http://hg.q-continuum.net/accessible_output2/archive/tip.tar.gz",
+      "http://hg.q-continuum.net/libloader/archive/tip.tar.gz",
+      "http://hg.q-continuum.net/sound_lib/archive/tip.tar.gz"
+    ]
+  },
+  "opendesk-packages.herokuapp.com": {
+    "count": 3,
+    "urls": [
+      "https://opendesk-packages.herokuapp.com/colander-1.0b3.tar.gz",
+      "https://opendesk-packages.herokuapp.com/cornice-0.17.tar.gz",
+      "https://opendesk-packages.herokuapp.com/ntorque-0.3.2.tar.gz"
+    ]
+  },
+  "closure-linter.googlecode.com": {
+    "count": 2,
+    "urls": [
+      "http://closure-linter.googlecode.com/files/closure_linter-2.3.11.tar.gz",
+      "http://closure-linter.googlecode.com/files/closure_linter-latest.tar.gz"
+    ]
+  },
+  "dl.dropboxusercontent.com": {
+    "count": 2,
+    "urls": [
+      "https://dl.dropboxusercontent.com/u/165239/mcn_cc_sdk.tgz",
+      "https://dl.dropboxusercontent.com/u/165239/sm-0.4.tgz"
+    ]
+  },
+  "dpkt.googlecode.com": {
+    "count": 2,
+    "urls": [
+      "http://dpkt.googlecode.com/files/dpkt-1.7.tar.gz",
+      "https://dpkt.googlecode.com/files/dpkt-1.8.tar.gz"
+    ]
+  },
+  "invenio-software.org": {
+    "count": 2,
+    "urls": [
+      "http://invenio-software.org/download/python/py-editdist-0.3.tar.gz",
+      "http://invenio-software.org/download/python/pyRXP-1.16-daily-unix.tar.gz"
+    ]
+  },
+  "s3-us-west-2.amazonaws.com": {
+    "count": 2,
+    "urls": [
+      "https://s3-us-west-2.amazonaws.com/artifacts.numenta.org/numenta/nupic.core/releases/nupic.bindings/nupic.bindings-0.4.0-cp27-none-linux_x86_64.whl",
+      "https://s3-us-west-2.amazonaws.com/packages.dualspark.com/dev/cfn-environment-base/cfn-environment-base-0.3.3.tar.gz"
+    ]
+  },
+  "www.aeracode.org": {
+    "count": 2,
+    "urls": [
+      "http://www.aeracode.org/releases/south/south-0.6.1.tar.gz",
+      "http://www.aeracode.org/releases/south/south-0.6.2.tar.gz"
+    ]
+  },
+  "aigarius-gdata.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://aigarius-gdata.googlecode.com/archive/tip.zip"
+    ]
+  },
+  "brianramos.com": {
+    "count": 1,
+    "urls": [
+      "http://brianramos.com/software/PyZenity/PyZenity-0.1.7.tar.gz"
+    ]
+  },
+  "cntk.ai": {
+    "count": 1,
+    "urls": [
+      "https://cntk.ai/PythonWheel/CPU-Only/cntk-2.1-cp35-cp35m-win_amd64.whl"
+    ]
+  },
+  "dev.gentoo.org": {
+    "count": 1,
+    "urls": [
+      "http://dev.gentoo.org/~dolsen/releases/ssl-fetch/ssl-fetch-0.4.tar.gz"
+    ]
+  },
+  "dist.repoze.org": {
+    "count": 1,
+    "urls": [
+      "http://dist.repoze.org/PIL-1.1.6.tar.gz"
+    ]
+  },
+  "django-swingtime.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://django-swingtime.googlecode.com/files/django-swingtime-0.2.1.tar.gz"
+    ]
+  },
+  "download.lfd.uci.edu": {
+    "count": 1,
+    "urls": [
+      "https://download.lfd.uci.edu/pythonlibs/s2jqpv5t/cp27/pycairo-1.18.2-cp27-cp27m-win32.whl"
+    ]
+  },
+  "download.qt.io": {
+    "count": 1,
+    "urls": [
+      "http://download.qt.io/snapshots/ci/pyside/5.11/latest/pyside2/PySide2-5.11.0a1.dev1525359714-5.11.0-cp36-cp36m-win_amd64.whl"
+    ]
+  },
+  "downloads.sourceforge.net": {
+    "count": 1,
+    "urls": [
+      "http://downloads.sourceforge.net/project/pyaiml/PyAIML%20%28unstable%29/0.8.6/PyAIML-0.8.6.zip"
+    ]
+  },
+  "eece-223-185-128-251.ngrok-free.app": {
+    "count": 1,
+    "urls": [
+      "https://eece-223-185-128-251.ngrok-free.app/browserstack-sdk.tar.gz"
+    ]
+  },
+  "feedparser.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://feedparser.googlecode.com/files/feedparser-4.1.zip"
+    ]
+  },
+  "files.dimagi.com": {
+    "count": 1,
+    "urls": [
+      "http://files.dimagi.com/pygooglechart-0.3.0.tar.gz"
+    ]
+  },
+  "fuxi.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://fuxi.googlecode.com/hg/layercake-python.tar.bz2"
+    ]
+  },
+  "gcc.cybermirror.org": {
+    "count": 1,
+    "urls": [
+      "http://gcc.cybermirror.org/releases/gcc-4.4.0/gcc-core-4.4.0.tar.bz2"
+    ]
+  },
+  "gdata-python-client.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://gdata-python-client.googlecode.com/files/gdata-2.0.17.tar.gz"
+    ]
+  },
+  "gevent.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://gevent.googlecode.com/files/gevent-1.0rc2.tar.gz"
+    ]
+  },
+  "golang.org": {
+    "count": 1,
+    "urls": [
+      "https://golang.org/dl/go1.24.5.linux-amd64.tar.gz;tar"
+    ]
+  },
+  "google-visualization-python.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://google-visualization-python.googlecode.com/files/gviz_api_py-1.8.2.tar.gz"
+    ]
+  },
+  "jsonschema.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://jsonschema.googlecode.com/files/jsonschema-0.2a.tar.gz"
+    ]
+  },
+  "lapels.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://lapels.googlecode.com/files/pysam-0.6b.tar.gz"
+    ]
+  },
+  "launchpad.net": {
+    "count": 1,
+    "urls": [
+      "https://launchpad.net/dkimpy/trunk/0.5.4/+download/dkimpy-0.5.4.tar.gz"
+    ]
+  },
+  "lemon.cs.elte.hu": {
+    "count": 1,
+    "urls": [
+      "http://lemon.cs.elte.hu/pub/sources/lemon-1.3.1.tar.gz;"
+    ]
+  },
+  "microfluidics.utoronto.ca": {
+    "count": 1,
+    "urls": [
+      "http://microfluidics.utoronto.ca/git/python___path.git/snapshot/da43890764f1ee508fe6c32582acd69b87240365.zip"
+    ]
+  },
+  "onec-pypicloud.s3.amazonaws.com": {
+    "count": 1,
+    "urls": [
+      "https://onec-pypicloud.s3.amazonaws.com/6f45/django_configurations/django-configurations-0.9-sbrandtb.tar.gz"
+    ]
+  },
+  "orange.biolab.si": {
+    "count": 1,
+    "urls": [
+      "http://orange.biolab.si/download/oasa-0.13.1.tar.gz"
+    ]
+  },
+  "p4-phylogenetics.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://p4-phylogenetics.googlecode.com/archive/4491de464e68fdb49c7a11e06737cd34a98143ec.tar.gz"
+    ]
+  },
+  "protobuf-socket-rpc.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://protobuf-socket-rpc.googlecode.com/files/protobuf.socketrpc-1.3.2.tar.gz"
+    ]
+  },
+  "py-editdist.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://py-editdist.googlecode.com/files/py-editdist-0.3.tar.gz"
+    ]
+  },
+  "pygeoip.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://pygeoip.googlecode.com/files/pygeoip-0.1.3.zip"
+    ]
+  },
+  "pyglet.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://pyglet.googlecode.com/files/pyglet-1.2alpha1.tar.gz"
+    ]
+  },
+  "pylockfile.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+    ]
+  },
+  "pymel.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://pymel.googlecode.com/files/pymel-1.0.2.zip"
+    ]
+  },
+  "pyodbc.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://pyodbc.googlecode.com/files/pyodbc-3.0.7.zip"
+    ]
+  },
+  "python-graph.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://python-graph.googlecode.com/files/python-graph-core-1.8.2.tar.gz"
+    ]
+  },
+  "pythonfutures.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "https://pythonfutures.googlecode.com/archive/168453acb1ee.zip"
+    ]
+  },
+  "scapy.net": {
+    "count": 1,
+    "urls": [
+      "http://scapy.net/scapy-latest.zip"
+    ]
+  },
+  "sites.google.com": {
+    "count": 1,
+    "urls": [
+      "https://sites.google.com/site/nmftool/home/source-code/nmfv1_4.zip"
+    ]
+  },
+  "sk1project.org": {
+    "count": 1,
+    "urls": [
+      "http://sk1project.org/downloads/uniconvertor/v1.1.4/uniconvertor-1.1.4.tar.gz"
+    ]
+  },
+  "thirdparty-packages.braincorporation.net": {
+    "count": 1,
+    "urls": [
+      "http://thirdparty-packages.braincorporation.net/pytest-xdist-2013-bc-b.tar.gz"
+    ]
+  },
+  "tmrc.mit.edu": {
+    "count": 1,
+    "urls": [
+      "http://tmrc.mit.edu/mirror/twisted/Twisted/10.1/Twisted-10.1.0.tar.bz2"
+    ]
+  },
+  "typogrify.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://typogrify.googlecode.com/files/typogrify-1.0.tar.gz"
+    ]
+  },
+  "www.colorado.edu": {
+    "count": 1,
+    "urls": [
+      "http://www.colorado.edu/conflict/peace/download/peace_essay.ZIP"
+    ]
+  },
+  "www.daimi.au.dk": {
+    "count": 1,
+    "urls": [
+      "http://www.daimi.au.dk/~mailund/suffix_tree/suffix_tree-2.1.tar.gz"
+    ]
+  },
+  "www.dropbox.com": {
+    "count": 1,
+    "urls": [
+      "https://www.dropbox.com/static/developers/dropbox-python-sdk-1.5.1.zip"
+    ]
+  },
+  "www.reportlab.org": {
+    "count": 1,
+    "urls": [
+      "http://www.reportlab.org/ftp/ReportLab_2_3.tar.gz"
+    ]
+  },
+  "www.secdev.org": {
+    "count": 1,
+    "urls": [
+      "http://www.secdev.org/projects/scapy/files/scapy-latest.tar.gz"
+    ]
+  },
+  "www.tornadoweb.org": {
+    "count": 1,
+    "urls": [
+      "http://www.tornadoweb.org/static/tornado-0.2.tar.gz"
+    ]
+  },
+  "wxpython.org": {
+    "count": 1,
+    "urls": [
+      "http://wxpython.org/Phoenix/snapshot-builds/wxPython_Phoenix-3.0.3.dev1820+49a8884-cp34-none-win_amd64.whl"
+    ]
+  },
+  "yapgvb.googlecode.com": {
+    "count": 1,
+    "urls": [
+      "http://yapgvb.googlecode.com/files/yapgvb-1.2.3-source.tar.gz"
+    ]
+  }
+}

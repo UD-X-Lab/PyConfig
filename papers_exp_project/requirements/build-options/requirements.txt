@@ -1,0 +1,11 @@
+pygraphviz \
+	--global-option=build_ext \
+  --global-option="-I/usr/local/include/graphviz/" \
+  --global-option="-L/usr/local/lib/graphviz" \
+  --global-option="-I/opt/homebrew/include/graphviz/" \
+  --global-option="-L/opt/homebrew/lib/graphviz" \
+  --global-option="-DDEBUG" \
+  --global-option="-DVERSION=2"
+  
+tabulate
+setuptools_scm>=1.15.0

@@ -1,0 +1,3 @@
+--no-index
+--find-links http://127.0.0.1:8000/
+https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32

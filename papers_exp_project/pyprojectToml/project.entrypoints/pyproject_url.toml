@@ -1,0 +1,16 @@
+[project]
+name = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+version = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+
+[project.entry-points]
+[project.entry-points.yourplugin.plugins]
+hello = "your_package.plugin:HelloPlugin"
+
+[tool]
+[tool.setuptools]
+[tool.setuptools.package-dir]
+"" = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+
+[tool.setuptools.packages]
+[tool.setuptools.packages.find]
+where = ["https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"]

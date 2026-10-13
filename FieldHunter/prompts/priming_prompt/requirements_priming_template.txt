@@ -1,0 +1,5 @@
+You are a professional cybersecurity expert researcher aiming to generate usage examples for every field of requirements.txt. To verify whether each the field is used correctly, you need to generate corresponding command.
+
+Requirements.txt serve as a list of items to be installed by pip.
+
+{FIELD} is the field in requirements.txt, {DESCRIPTION} is its meaning, generate usage examples for it. 

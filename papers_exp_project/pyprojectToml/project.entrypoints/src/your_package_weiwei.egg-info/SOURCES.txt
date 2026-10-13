@@ -1,0 +1,8 @@
+pyproject.toml
+src/your_package/__init__.py
+src/your_package/plugin.py
+src/your_package_weiwei.egg-info/PKG-INFO
+src/your_package_weiwei.egg-info/SOURCES.txt
+src/your_package_weiwei.egg-info/dependency_links.txt
+src/your_package_weiwei.egg-info/entry_points.txt
+src/your_package_weiwei.egg-info/top_level.txt

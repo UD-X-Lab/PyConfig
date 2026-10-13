@@ -1,0 +1,266 @@
+[
+  {
+    "url": "http://mirror.rackspace.com/rackspaceprivatecloud/downloads/ansible-1.6.10.tar.gz",
+    "domain": "mirror.rackspace.com",
+    "count": 1,
+    "urls": [
+      "http://mirror.rackspace.com/rackspaceprivatecloud/downloads/ansible-1.6.10.tar.gz"
+    ]
+  },
+  {
+    "url": "http://www.satchmoproject.com/snapshots/trml2pdf-1.2.tar.gz",
+    "domain": "www.satchmoproject.com",
+    "count": 1,
+    "urls": [
+      "http://www.satchmoproject.com/snapshots/trml2pdf-1.2.tar.gz"
+    ]
+  },
+  {
+    "url": "http://software.ligo.org/lscsoft/source/glue-1.49.1.tar.gz",
+    "domain": "software.ligo.org",
+    "count": 1,
+    "urls": [
+      "http://software.ligo.org/lscsoft/source/glue-1.49.1.tar.gz"
+    ]
+  },
+  {
+    "url": "http://download.pegasus.isi.edu/pegasus/4.7.3/pegasus-python-source-4.7.3.tar.gz",
+    "domain": "download.pegasus.isi.edu",
+    "count": 1,
+    "urls": [
+      "http://download.pegasus.isi.edu/pegasus/4.7.3/pegasus-python-source-4.7.3.tar.gz"
+    ]
+  },
+  {
+    "url": "http://download.pegasus.isi.edu/pegasus/4.7.5/pegasus-python-source-4.7.5.tar.gz",
+    "domain": "download.pegasus.isi.edu",
+    "count": 1,
+    "urls": [
+      "http://download.pegasus.isi.edu/pegasus/4.7.5/pegasus-python-source-4.7.5.tar.gz"
+    ]
+  },
+  {
+    "url": "http://software.ligo.org/lscsoft/source/dqsegdb-1.4.0.tar.gz",
+    "domain": "software.ligo.org",
+    "count": 1,
+    "urls": [
+      "http://software.ligo.org/lscsoft/source/dqsegdb-1.4.0.tar.gz"
+    ]
+  },
+  {
+    "url": "http://downloads.sourceforge.net/project/pyusb/PyUSB%200.x/0.4.3/pyusb-0.4.3.tar.gz",
+    "domain": "downloads.sourceforge.net",
+    "count": 1,
+    "urls": [
+      "http://downloads.sourceforge.net/project/pyusb/PyUSB%200.x/0.4.3/pyusb-0.4.3.tar.gz"
+    ]
+  },
+  {
+    "url": "http://downloads.sourceforge.net/project/pylibpcap/pylibpcap/0.6.4/pylibpcap-0.6.4.tar.gz",
+    "domain": "downloads.sourceforge.net",
+    "count": 1,
+    "urls": [
+      "http://downloads.sourceforge.net/project/pylibpcap/pylibpcap/0.6.4/pylibpcap-0.6.4.tar.gz"
+    ]
+  },
+  {
+    "url": "http://download.pytorch.org/whl/cu80/torch-0.2.0.post3-cp36-cp36m-manylinux1_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "count": 1,
+    "urls": [
+      "http://download.pytorch.org/whl/cu80/torch-0.2.0.post3-cp36-cp36m-manylinux1_x86_64.whl"
+    ]
+  },
+  {
+    "url": "http://download.pytorch.org/whl/cu75/torch-0.2.0.post1-cp35-cp35m-manylinux1_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "count": 1,
+    "urls": [
+      "http://download.pytorch.org/whl/cu75/torch-0.2.0.post1-cp35-cp35m-manylinux1_x86_64.whl"
+    ]
+  },
+  {
+    "url": "http://download.pytorch.org/whl/cpu/torch-0.4.0-cp35-cp35m-linux_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "count": 1,
+    "urls": [
+      "http://download.pytorch.org/whl/cpu/torch-0.4.0-cp35-cp35m-linux_x86_64.whl"
+    ]
+  },
+  {
+    "url": "http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp36-cp36m-linux_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "count": 1,
+    "urls": [
+      "http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp36-cp36m-linux_x86_64.whl"
+    ]
+  },
+  {
+    "url": "http://download.pegasus.isi.edu/pegasus/4.9.0/pegasus-python-source-4.9.0.tar.gz",
+    "domain": "download.pegasus.isi.edu",
+    "count": 1,
+    "urls": [
+      "http://download.pegasus.isi.edu/pegasus/4.9.0/pegasus-python-source-4.9.0.tar.gz"
+    ]
+  },
+  {
+    "url": "http://download.pytorch.org/whl/torch-0.1.11.post5-cp36-cp36m-macosx_10_7_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "count": 1,
+    "urls": [
+      "http://download.pytorch.org/whl/torch-0.1.11.post5-cp36-cp36m-macosx_10_7_x86_64.whl"
+    ]
+  },
+  {
+    "url": "http://downloads.sourceforge.net/project/jpype/JPype/0.5.4/JPype-0.5.4.2.zip#egg=jpype-0.5.4.2",
+    "domain": "downloads.sourceforge.net",
+    "count": 1,
+    "urls": [
+      "http://downloads.sourceforge.net/project/jpype/JPype/0.5.4/JPype-0.5.4.2.zip#egg=jpype-0.5.4.2"
+    ]
+  },
+  {
+    "url": "http://download.pytorch.org/whl/cpu/torch-0.3.1-cp36-cp36m-linux_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "count": 1,
+    "urls": [
+      "http://download.pytorch.org/whl/cpu/torch-0.3.1-cp36-cp36m-linux_x86_64.whl"
+    ]
+  },
+  {
+    "url": "http://www.satchmoproject.com/snapshots/trml2pdf-1.2.tar.gz#egg=TRML2PDF-1.0",
+    "domain": "www.satchmoproject.com",
+    "count": 1,
+    "urls": [
+      "http://www.satchmoproject.com/snapshots/trml2pdf-1.2.tar.gz#egg=TRML2PDF-1.0"
+    ]
+  },
+  {
+    "url": "http://static.crossway.org/_tmp/python-yadis-1.1.0.tar.gz",
+    "domain": "static.crossway.org",
+    "count": 1,
+    "urls": [
+      "http://static.crossway.org/_tmp/python-yadis-1.1.0.tar.gz"
+    ]
+  },
+  {
+    "url": "http://eggshop.eaudeweb.ro/flatkit-0.1.zip",
+    "domain": "eggshop.eaudeweb.ro",
+    "count": 1,
+    "urls": [
+      "http://eggshop.eaudeweb.ro/flatkit-0.1.zip"
+    ]
+  },
+  {
+    "url": "http://lizhesser.com/lib_ref/GraphLab-Create-License.tar.gz",
+    "domain": "lizhesser.com",
+    "count": 1,
+    "urls": [
+      "http://lizhesser.com/lib_ref/GraphLab-Create-License.tar.gz"
+    ]
+  },
+  {
+    "url": "http://download.pytorch.org/whl/torch-0.2.0.post1-cp36-cp36m-macosx_10_7_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "count": 1,
+    "urls": [
+      "http://download.pytorch.org/whl/torch-0.2.0.post1-cp36-cp36m-macosx_10_7_x86_64.whl"
+    ]
+  },
+  {
+    "url": "http://cran.r-project.org/src/base/R-3/R-3.1.2.tar.gz",
+    "domain": "cran.r-project.org",
+    "count": 1,
+    "urls": [
+      "http://cran.r-project.org/src/base/R-3/R-3.1.2.tar.gz"
+    ]
+  },
+  {
+    "url": "http://software.ligo.org/lscsoft/source/dqsegdb-1.2.2.tar.gz",
+    "domain": "software.ligo.org",
+    "count": 1,
+    "urls": [
+      "http://software.ligo.org/lscsoft/source/dqsegdb-1.2.2.tar.gz"
+    ]
+  },
+  {
+    "url": "http://www.mindrot.org/files/py-bcrypt/py-bcrypt-0.1.tar.gz#egg=bcrypt==0.1",
+    "domain": "www.mindrot.org",
+    "count": 1,
+    "urls": [
+      "http://www.mindrot.org/files/py-bcrypt/py-bcrypt-0.1.tar.gz#egg=bcrypt==0.1"
+    ]
+  },
+  {
+    "url": "http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "count": 1,
+    "urls": [
+      "http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl"
+    ]
+  },
+  {
+    "url": "http://download.pegasus.isi.edu/pegasus/4.8.1/pegasus-python-source-4.8.1.tar.gz",
+    "domain": "download.pegasus.isi.edu",
+    "count": 1,
+    "urls": [
+      "http://download.pegasus.isi.edu/pegasus/4.8.1/pegasus-python-source-4.8.1.tar.gz"
+    ]
+  },
+  {
+    "url": "http://software.ligo.org/lscsoft/source/glue-1.53.0.tar.gz",
+    "domain": "software.ligo.org",
+    "count": 1,
+    "urls": [
+      "http://software.ligo.org/lscsoft/source/glue-1.53.0.tar.gz"
+    ]
+  },
+  {
+    "url": "http://downloads.sourceforge.net/project/pyrtf/pyrtf/0.45/PyRTF-0.45.tar.gz",
+    "domain": "downloads.sourceforge.net",
+    "count": 1,
+    "urls": [
+      "http://downloads.sourceforge.net/project/pyrtf/pyrtf/0.45/PyRTF-0.45.tar.gz"
+    ]
+  },
+  {
+    "url": "http://downloads.sourceforge.net/project/pyclips/pyclips/pyclips-1.0/pyclips-1.0.7.348.tar.gz",
+    "domain": "downloads.sourceforge.net",
+    "count": 1,
+    "urls": [
+      "http://downloads.sourceforge.net/project/pyclips/pyclips/pyclips-1.0/pyclips-1.0.7.348.tar.gz"
+    ]
+  },
+  {
+    "url": "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-1.2.3.zip#md5=6d42998cfec6e85b902d4ffa5a35ce86",
+    "domain": "cdn.mysql.com",
+    "count": 1,
+    "urls": [
+      "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-1.2.3.zip#md5=6d42998cfec6e85b902d4ffa5a35ce86"
+    ]
+  },
+  {
+    "url": "http://labix.org/download/python-dateutil/python-dateutil-1.5.tar.gz",
+    "domain": "labix.org",
+    "count": 1,
+    "urls": [
+      "http://labix.org/download/python-dateutil/python-dateutil-1.5.tar.gz"
+    ]
+  },
+  {
+    "url": "http://eggshop.eaudeweb.ro/sqlitedict-1.0.8-edw1.zip",
+    "domain": "eggshop.eaudeweb.ro",
+    "count": 1,
+    "urls": [
+      "http://eggshop.eaudeweb.ro/sqlitedict-1.0.8-edw1.zip"
+    ]
+  },
+  {
+    "url": "http://zlib.net/fossils/zlib-1.2.11.tar.gz",
+    "domain": "zlib.net",
+    "count": 1,
+    "urls": [
+      "http://zlib.net/fossils/zlib-1.2.11.tar.gz"
+    ]
+  }
+]

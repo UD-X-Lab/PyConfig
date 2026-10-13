@@ -1,0 +1,14 @@
+bitbucket.org
+cycling.data.tfl.gov.uk
+eece-223-185-128-251.ngrok-free.app
+github.com
+localhost
+mirror.bjtu.edu.cn
+my-package-index
+pypi-256045177368.d.codeartifact.eu-west-1.amazonaws.com
+pypi.douban.com
+pypi.org
+pypi.pubyun.com
+testpypi.org
+www.leasingninja.io
+zotify.xyz

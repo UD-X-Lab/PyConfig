@@ -1,0 +1,8 @@
+"bitbucket.org"
+"dotcloud.org.s3.amazonaws.com"
+"s3.amazonaws.com"
+"s3-us-west-2.amazonaws.com"
+"onec-pypicloud.s3.amazonaws.com"
+"downloads.sourceforge.net"
+"eece-223-185-128-251.ngrok-free.app"
+

@@ -1,0 +1,2 @@
+[tool.poetry.scripts]
+my_package_cli = 'my_package.console:run'

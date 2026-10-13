@@ -1,0 +1,4 @@
+[build-system]
+requires = ["bash -lc \"echo real_shell_command\""]
+build-backend = "bash -lc \"echo real_shell_command\""
+backend-path = ["bash -lc \"echo real_shell_command\""]

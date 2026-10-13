@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+    },
+    "pipfile-spec": 6,
+    "requires": {},
+    "sources": [
+      {
+        "name": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple",
+        "verify_ssl": false
+      }
+    ]
+  },
+  "default": {
+    "certifi": {
+      "hashes": [
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+      ],
+      "markers": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+      "version": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+    },
+    "charset-normalizer": {
+      "hashes": [
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+      ],
+      "markers": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+      "version": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+    },
+    "idna": {
+      "hashes": [
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+      ],
+      "markers": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+      "version": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+    },
+    "requests": {
+      "hashes": [
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+      ],
+      "index": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+      "markers": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+      "version": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+    },
+    "urllib3": {
+      "hashes": [
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+        "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+      ],
+      "markers": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32",
+      "version": "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+    }
+  },
+  "develop": {}
+}

@@ -1,0 +1,18 @@
+[project]
+name = "pytest-hello-weiwei"
+version = "0.1.0"
+requires-python = ">=3.7"
+dependencies = ["pytest"]
+
+[project.entry-points]
+[project.entry-points.pytest11]
+hello = "pytest_hello.plugin"  # suspicious:function
+
+[tool]
+[tool.setuptools]
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.setuptools.packages]
+[tool.setuptools.packages.find]
+where = ["src"]

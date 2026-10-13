@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "FieldHunter.mutator.real_types.ExampleClass"
+    },
+    "pipfile-spec": 6,
+    "requires": {},
+    "sources": [
+      {
+        "name": "FieldHunter.mutator.real_types.ExampleClass",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple",
+        "verify_ssl": false
+      }
+    ]
+  },
+  "default": {
+    "certifi": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass"
+      ],
+      "markers": "FieldHunter.mutator.real_types.ExampleClass",
+      "version": "FieldHunter.mutator.real_types.ExampleClass"
+    },
+    "charset-normalizer": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass"
+      ],
+      "markers": "FieldHunter.mutator.real_types.ExampleClass",
+      "version": "FieldHunter.mutator.real_types.ExampleClass"
+    },
+    "idna": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass"
+      ],
+      "markers": "FieldHunter.mutator.real_types.ExampleClass",
+      "version": "FieldHunter.mutator.real_types.ExampleClass"
+    },
+    "requests": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass"
+      ],
+      "index": "FieldHunter.mutator.real_types.ExampleClass",
+      "markers": "FieldHunter.mutator.real_types.ExampleClass",
+      "version": "FieldHunter.mutator.real_types.ExampleClass"
+    },
+    "urllib3": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.ExampleClass",
+        "FieldHunter.mutator.real_types.ExampleClass"
+      ],
+      "markers": "FieldHunter.mutator.real_types.ExampleClass",
+      "version": "FieldHunter.mutator.real_types.ExampleClass"
+    }
+  },
+  "develop": {}
+}

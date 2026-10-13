@@ -1,0 +1,751 @@
+{
+  "tool.uv.sources": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_TIO-IKIM_CLUE_main_pyproject.toml",
+        "domain": "s3-us-west-2.amazonaws.com",
+        "urls": [
+          "://s3-us-west-2.amazonaws.com/ai2-"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/de8b937b.toml",
+        "domain": "s3-us-west-2.amazonaws.com",
+        "urls": [
+          "://s3-us-west-2.amazonaws.com/ai2-"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.description": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_placementsapp_pio-python-sdk_main_pyproject.toml",
+        "domain": "placements.io",
+        "urls": [
+          "Placements.io Python "
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/665a65f8.toml",
+        "domain": "placements.io",
+        "urls": [
+          "Placements.io Python "
+        ]
+      }
+    ]
+  },
+  "tool.poetry.homepage": {
+    "count": 38,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_placementsapp_pio-python-sdk_main_pyproject.toml",
+        "domain": "placements.io",
+        "urls": [
+          "://placements.io"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_ibnaleem_sherlock_master_pyproject.toml",
+        "domain": "sherlockproject.xyz",
+        "urls": [
+          "://sherlockproject.xyz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Cactus-Network_cactus-blockchain_main_pyproject.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "://cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibocal_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibojit_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_LVivona_commune_main_pyproject.toml",
+        "domain": "communeai.org",
+        "urls": [
+          "://communeai.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibo_master_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_epoz_shmarql_main_pyproject.toml",
+        "domain": "shmarql.com",
+        "urls": [
+          "://shmarql.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibo-cloud-backends_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qiboml_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_NithyasriVS_qibotn-optimize-nith_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_joeyagreco_sherlock_master_pyproject.toml",
+        "domain": "sherlockproject.xyz",
+        "urls": [
+          "://sherlockproject.xyz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibotn_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qilimanjaro-tech_qibo_master_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_notolog_notolog-editor_main_pyproject.toml",
+        "domain": "notolog.app",
+        "urls": [
+          "://notolog.app"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibolab_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_sherlock-project_sherlock_master_pyproject.toml",
+        "domain": "sherlockproject.xyz",
+        "urls": [
+          "://sherlockproject.xyz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_davidpthomas_project-pglot_master_pyproject.toml",
+        "domain": "sherlockproject.xyz",
+        "urls": [
+          "://sherlockproject.xyz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibo-client_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/7505093c.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/3f73849b.toml",
+        "domain": "sherlockproject.xyz",
+        "urls": [
+          "://sherlockproject.xyz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/62401908.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/76e44840.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/3693ff42.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/fb30405a.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/b32d8bb1.toml",
+        "domain": "shmarql.com",
+        "urls": [
+          "://shmarql.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/8c45da80.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/c36d980d.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/83d6068d.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "://cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a8b7a48e.toml",
+        "domain": "communeai.org",
+        "urls": [
+          "://communeai.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/241cdf8b.toml",
+        "domain": "sherlockproject.xyz",
+        "urls": [
+          "://sherlockproject.xyz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/5092daaf.toml",
+        "domain": "sherlockproject.xyz",
+        "urls": [
+          "://sherlockproject.xyz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e34a15fb.toml",
+        "domain": "notolog.app",
+        "urls": [
+          "://notolog.app"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/4838c8d1.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e6b781f4.toml",
+        "domain": "sherlockproject.xyz",
+        "urls": [
+          "://sherlockproject.xyz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/0c5ace33.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/665a65f8.toml",
+        "domain": "placements.io",
+        "urls": [
+          "://placements.io"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a02b1034.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.documentation": {
+    "count": 24,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_placementsapp_pio-python-sdk_main_pyproject.toml",
+        "domain": "placements.io",
+        "urls": [
+          "://api.placements.io/doc/#re"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibochem_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/qibochem/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibocal_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/qibocal/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibojit_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibo_master_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibo-cloud-backends_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/qibo-cloud-backend"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qiboml_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_NithyasriVS_qibotn-optimize-nith_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibotn_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qilimanjaro-tech_qibo_master_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibolab_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_qiboteam_qibo-client_main_pyproject.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/qibo-client/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/7505093c.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/62401908.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/qibocal/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/76e44840.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/3693ff42.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/fb30405a.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/qibo-cloud-backend"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/8c45da80.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/c36d980d.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/4838c8d1.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/0c5ace33.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/665a65f8.toml",
+        "domain": "placements.io",
+        "urls": [
+          "://api.placements.io/doc/#re"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a02b1034.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/qibo-client/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/1a25512f.toml",
+        "domain": "qibo.science",
+        "urls": [
+          "://qibo.science/qibochem/"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.authors": {
+    "count": 6,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_placementsapp_pio-python-sdk_main_pyproject.toml",
+        "domain": "placements.io",
+        "urls": [
+          "Andrew Bowman <abowman@placements.io>",
+          "Placements.io"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Cactus-Network_cactus-blockchain_main_pyproject.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "Dommer <dommer@cactus-network.net>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_LVivona_commune_main_pyproject.toml",
+        "domain": "communeai.org",
+        "urls": [
+          "commune ai organization <contact@communeai.org>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/83d6068d.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "Dommer <dommer@cactus-network.net>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a8b7a48e.toml",
+        "domain": "communeai.org",
+        "urls": [
+          "commune ai organization <contact@communeai.org>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/665a65f8.toml",
+        "domain": "placements.io",
+        "urls": [
+          "Andrew Bowman <abowman@placements.io>",
+          "Placements.io"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Cactus-Network_cactus-blockchain_main_pyproject.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/83d6068d.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source[1].url": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Cactus-Network_cactus-blockchain_main_pyproject.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/83d6068d.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source.url": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Cactus-Network_cactus-blockchain_main_pyproject.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/83d6068d.toml",
+        "domain": "cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      }
+    ]
+  },
+  "tool.comfy.Icon": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_ComfyNodePRs_PR-ComfyUI-noEmbryo-60733e1e_master_pyproject.toml",
+        "domain": "iili.io",
+        "urls": [
+          "://iili.io/Jm"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/3f995748.toml",
+        "domain": "iili.io",
+        "urls": [
+          "://iili.io/Jm"
+        ]
+      }
+    ]
+  },
+  "tool.poe.tasks": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_kitsuyui_python-mitmcache_main_pyproject.toml",
+        "domain": "mitm.it",
+        "urls": [
+          "http://mitm.it/cert/pem"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e9899ede.toml",
+        "domain": "mitm.it",
+        "urls": [
+          "http://mitm.it/cert/pem"
+        ]
+      }
+    ]
+  },
+  "tool.pytest.ini_options": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_vitaliwow_django-example_main_pyproject.toml",
+        "domain": "fra1.digitaloceanspaces.com",
+        "urls": [
+          "://fra1.digitaloceanspaces.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/f46cd61d.toml",
+        "domain": "fra1.digitaloceanspaces.com",
+        "urls": [
+          "://fra1.digitaloceanspaces.com"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.scripts": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_notolog_notolog-editor_main_pyproject.toml",
+        "domain": "notolog.app",
+        "urls": [
+          "notolog.app:main"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e34a15fb.toml",
+        "domain": "notolog.app",
+        "urls": [
+          "notolog.app:main"
+        ]
+      }
+    ]
+  },
+  "project.dependencies": {
+    "count": 4,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_webis-de_trec24-biogen_main_pyproject.toml",
+        "domain": "s3-us-west-2.amazonaws.com",
+        "urls": [
+          "://s3-us-west-2.amazonaws.com/ai2-"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_webis-de_clef24-mibi-bioasq_main_pyproject.toml",
+        "domain": "s3-us-west-2.amazonaws.com",
+        "urls": [
+          "://s3-us-west-2.amazonaws.com/ai2-"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/610b8052.toml",
+        "domain": "s3-us-west-2.amazonaws.com",
+        "urls": [
+          "://s3-us-west-2.amazonaws.com/ai2-"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/d00c3039.toml",
+        "domain": "s3-us-west-2.amazonaws.com",
+        "urls": [
+          "://s3-us-west-2.amazonaws.com/ai2-"
+        ]
+      }
+    ]
+  },
+  "tool.dataset.credit_url": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mysociety_uk_local_authority_names_and_codes_main_pyproject.toml",
+        "domain": "survey.alchemer.com",
+        "urls": [
+          "://survey.alchemer.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/46274c3b.toml",
+        "domain": "survey.alchemer.com",
+        "urls": [
+          "://survey.alchemer.com/"
+        ]
+      }
+    ]
+  },
+  "tool.briefcase.app": {
+    "count": 4,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_frescobaldi_frescobaldi_master_pyproject.toml",
+        "domain": "lilypond.org",
+        "urls": [
+          "://lilypond.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_fedelibre_frescobaldi_master_pyproject.toml",
+        "domain": "lilypond.org",
+        "urls": [
+          "://lilypond.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/96d24ad7.toml",
+        "domain": "lilypond.org",
+        "urls": [
+          "://lilypond.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/9ddcc639.toml",
+        "domain": "lilypond.org",
+        "urls": [
+          "://lilypond.org/"
+        ]
+      }
+    ]
+  }
+}

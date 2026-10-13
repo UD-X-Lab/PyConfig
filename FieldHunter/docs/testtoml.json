@@ -1,0 +1,3 @@
+{
+  "[tool.poetry.dependencies]": "This section defines your project's runtime dependencies. It lists the required Python version and any external packages your project needs to function, along with their version constraints."
+}

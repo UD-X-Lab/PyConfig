@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+name = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+version = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+
+[tool.poetry.dependencies]
+python = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+requests = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+
+[[tool.poetry.source]]
+name = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+default = true

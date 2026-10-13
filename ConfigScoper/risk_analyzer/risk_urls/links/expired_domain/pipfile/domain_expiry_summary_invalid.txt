@@ -1,0 +1,12 @@
+total=9
+active=3
+expired=6
+unknown=0
+
+expired_domains:
+baywheels-data
+capitalbikeshare-data
+cogo-sys-data
+divvy-tripdata
+hubway-data
+tripdata

@@ -1,0 +1,10 @@
+pyproject.toml
+src/pytest_hello/__init__.py
+src/pytest_hello/plugin.py
+src/pytest_hello_weiwei.egg-info/PKG-INFO
+src/pytest_hello_weiwei.egg-info/SOURCES.txt
+src/pytest_hello_weiwei.egg-info/dependency_links.txt
+src/pytest_hello_weiwei.egg-info/entry_points.txt
+src/pytest_hello_weiwei.egg-info/requires.txt
+src/pytest_hello_weiwei.egg-info/top_level.txt
+src/tests/test_sample.py

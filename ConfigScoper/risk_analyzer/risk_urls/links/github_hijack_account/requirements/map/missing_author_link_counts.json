@@ -1,0 +1,262 @@
+[
+  {
+    "url": "git+https://github.com/isysd/alchemyjsonschema/",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/lrcezimbra/django-storages.git@812288cbf38849f2eeaaeb7aa936eed5ee6f8a08#egg=django_storages",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/xivo-pbx/xivo-dird.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/arjunc77/django-ogone.git#egg=django-ogone",
+    "count": 3,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/jimmccusker/rdflib.git@sparqlwrapper-fork#egg=rdflib",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/jimmccusker/rdflib-jsonld.git#egg=rdflib-jsonld",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/angelasofiaremolinagutierrez/RunestoneComponents.git@master#runestone",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/tobiasandtobias/flask-assetslite.git@dev-cache#egg=Flask_AssetsLite",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/podshumok/python-smpplib@ee4a65351669aa3db28aae87824c742716c39056#python-smpplib",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/tobiasandtobias/flask-alembic.git",
+    "count": 2,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/aria-tosca/dsl-parser@master#egg=aria-dsl-parser==0.1",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/aria-tosca/plugins-common@master#egg=aria-plugins-common==0.1",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/cambonf/python-social-auth.git@68041313935c78d5045643cca7d2becbdbdf0438#egg=python-social-auth",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/caerusassociates/mitie-py#egg=mitie",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/spendb/fiscalmodel",
+    "count": 4,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/NewDreamNetwork/sphinx-ditaa.git#egg=sphinx-ditaa",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/clearnet-io/backendlibs.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/DrMegahertz/multipart-encode#egg=multipart-encode",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/3ptscience/sphinxcontrib-pyexec",
+    "count": 2,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/isysd/alchemyjsonschema",
+    "count": 2,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/jamiecurle/django-writingfield.git@master#egg=writingfield",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/xivo-pbx/xivo-confd.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/rgv151/rwrapper.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/mburstiner/djangotoolbox@73ffcb76ee606bb52505124f88454036fa938daa#egg=djangotoolbox-dev",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://ze-phyr-us@github.com/ze-phyr-us/django-libretto.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/ligo-cbc/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput",
+    "count": 2,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/cameronbwhite/Flask-CAS.git@v1.0.1#egg=Flask-CAS",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/unaizalakain/hyde.git@lang_extension#egg=hyde",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/xivo-pbx/xivo-webi.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/xivo-pbx/xivo-ctid-client.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/xivo-pbx/xivo-agentd-client.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/ZIXANLABS/Django-facebook.git@master",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/webmasterraj/PyGithub.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/robofab-developers/robofab.git@62229c4ea33c324e698766d3700ca9a47efcdeb6",
+    "count": 3,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/mkszk/mdx_figcap.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/TripleLabel/tapz.git#egg=tapz",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/cameronbwhite/Flask-CAS.git@master#egg=flask_cas",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/serverdensity/python-daemon@843cb593f4f942c70155be3a5e41c18734c96662#egg=python_daemon",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/rockho-team/python-cielo-webservice.git@master#egg=python-cielo-webservice",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/hendrikx-itc/python-minerva-etl",
+    "count": 2,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/contextio/Python-ContextIO@8c79ef03c9dcf60efce064d7956649fb8ec71bc0#egg=ContextIO_v2.0_Client_Library-master",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/keaneokelley/pyelliptic.git#egg=pyelliptic",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/django-mongodb-engine/mongodb-engine.git#egg=django_mongodb_engine",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/lazzrek/raven-python.git#egg=raven[flask]",
+    "count": 2,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/Automotron/namebot.git",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/yhoshino11/GuestBook.git@cf672f16f8f1744921d0a7c56460ee66924c1eee#egg=guestbook-master",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+https://github.com/NeiroNx/python-dvr@87924a5ee2a0b175e1af3f783b61b74b2904bc99#egg=python-dvr;",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/lambda-conspiracy/geocoder.git@master#egg=geocoder",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "git+git://github.com/django-debug-toolbar/django-debug-toolbar.git@b2e0c98c51f33b43429849a09f0dcbf812c51571",
+    "count": 1,
+    "source": "vcs_raw_sources"
+  },
+  {
+    "url": "https://github.com/downloads/surfly/gevent/gevent-1.0rc2.tar.gz#egg=gevent-1.0rc2",
+    "count": 1,
+    "source": "direct_file_by_url_sources"
+  },
+  {
+    "url": "https://github.com/downloads/synack/pagercal/python-dateutil-1.5.tar.gz",
+    "count": 1,
+    "source": "direct_file_by_url_sources"
+  },
+  {
+    "url": "https://github.com/cameronbwhite/Flask-CAS/archive/v1.0.1.zip",
+    "count": 2,
+    "source": "direct_file_by_url_sources"
+  }
+]

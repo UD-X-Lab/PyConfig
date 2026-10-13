@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d8a3cddd896d0352cc9b925d8b7735bde0fcab1477cf396b4c80202c4812c458"
+        },
+        "pipfile-spec": 6,
+        "requires": {},
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "mypkg": {
+            "hashes": [
+                "sha256:56d4f3dc5d970fb4b0d569c86ae9001b07175d0d8a406792e2c2bd292c0a0358"
+            ],
+            "version": "==1.0.0"
+        }
+    },
+    "develop": {}
+}

@@ -1,0 +1,614 @@
+[
+  {
+    "file": "/home/hello/finder/real_config/pyproject/splunk_eventgen_develop_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://splunk.github.io/eventgen/",
+    "domain": "splunk.github.io",
+    "urls": [
+      "http://splunk.github.io/eventgen/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_SwarmClone_SwarmClone_main_pyproject.toml",
+    "field": "tool.pixi.pypi-dependencies",
+    "url": "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_SwarmClone_SwarmClone_main_pyproject.toml",
+    "field": "tool.pixi.pypi-options",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_SwarmClone_SwarmClone_main_pyproject.toml",
+    "field": "tool.pixi.target",
+    "url": "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_SwarmClone_SwarmClone_main_pyproject.toml",
+    "field": "tool.pixi.target",
+    "url": "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/wechatpy_wechatpy_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://docs.wechatpy.org",
+    "domain": "docs.wechatpy.org",
+    "urls": [
+      "http://docs.wechatpy.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_ansible_ansible-chatbot-service_main_pyproject.toml",
+    "field": "project.dependencies",
+    "url": "http://download.pytorch.org/whl/cpu/torch-2.5.1%2Bcpu-cp311-cp311-linux_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "urls": [
+      "http://download.pytorch.org/whl/cpu/torch-2.5.1%2Bcpu-cp311-cp311-linux_x86_64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_ansible_ansible-chatbot-service_main_pyproject.toml",
+    "field": "project.dependencies",
+    "url": "http://download.pytorch.org/whl/cpu/torch-2.5.1-cp311-none-macosx_11_0_arm64.whl",
+    "domain": "download.pytorch.org",
+    "urls": [
+      "http://download.pytorch.org/whl/cpu/torch-2.5.1-cp311-none-macosx_11_0_arm64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_BismuthCloud_cli_main_daneel_pyproject.toml",
+    "field": "tool.hatch.envs",
+    "url": "http://bismuth-pypi.s3-website-us-west-2.amazonaws.com/simple",
+    "domain": "bismuth-pypi.s3-website-us-west-2.amazonaws.com",
+    "urls": [
+      "http://bismuth-pypi.s3-website-us-west-2.amazonaws.com/simple"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_kitsuyui_python-mitmcache_main_pyproject.toml",
+    "field": "tool.poe.tasks",
+    "url": "http://mitm.it/cert/pem",
+    "domain": "mitm.it",
+    "urls": [
+      "http://mitm.it/cert/pem"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/melizalab_libtfr_master_pyproject.toml",
+    "field": "tool.cibuildwheel.macos",
+    "url": "http://fftw.org/fftw-3.3.10.tar.gz",
+    "domain": "fftw.org",
+    "urls": [
+      "http://fftw.org/fftw-3.3.10.tar.gz"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_HH233333_SwarmClone_main_pyproject.toml",
+    "field": "tool.pixi.pypi-dependencies",
+    "url": "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_HH233333_SwarmClone_main_pyproject.toml",
+    "field": "tool.pixi.pypi-options",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_HH233333_SwarmClone_main_pyproject.toml",
+    "field": "tool.pixi.target",
+    "url": "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_HH233333_SwarmClone_main_pyproject.toml",
+    "field": "tool.pixi.target",
+    "url": "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/brechtm_rinohtype_master_pyproject.toml",
+    "field": "tool.poetry.urls",
+    "url": "http://www.mos6581.org/rinohtype/master/changelog.html",
+    "domain": "www.mos6581.org",
+    "urls": [
+      "http://www.mos6581.org/rinohtype/master/changelog.html"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_ToolDelta-Basic_ToolDelta_main_pyproject.toml",
+    "field": "tool.poetry.source",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_ToolDelta-Basic_ToolDelta_main_pyproject.toml",
+    "field": "tool.poetry.source[0].url",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_ToolDelta-Basic_ToolDelta_main_pyproject.toml",
+    "field": "tool.poetry.source.url",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/jasonrbriggs_stomp.py_dev_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://jasonrbriggs.github.io/stomp.py/",
+    "domain": "jasonrbriggs.github.io",
+    "urls": [
+      "http://jasonrbriggs.github.io/stomp.py/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_zjsun_redash_master_pyproject.toml",
+    "field": "tool.poetry.source",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_zjsun_redash_master_pyproject.toml",
+    "field": "tool.poetry.source[0].url",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_zjsun_redash_master_pyproject.toml",
+    "field": "tool.poetry.source.url",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_petter-b_preservationeval_main_pyproject.toml",
+    "field": "tool.preservationeval.tables_url",
+    "url": "http://www.dpcalc.org/dp.js",
+    "domain": "www.dpcalc.org",
+    "urls": [
+      "http://www.dpcalc.org/dp.js"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/redcap-tools_PyCap_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://redcap-tools.github.io/PyCap/",
+    "domain": "redcap-tools.github.io",
+    "urls": [
+      "http://redcap-tools.github.io/PyCap/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_arthurBarthe_debiased-spatial-whittle_master_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "url": "http://arthurpgb.pythonanywhere.com/sdw",
+    "domain": "arthurpgb.pythonanywhere.com",
+    "urls": [
+      "http://arthurpgb.pythonanywhere.com/sdw"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/FichteFoll_resumeback_master_pyproject.toml",
+    "field": "tool.poetry.homepage",
+    "url": "http://fichtefoll.github.io/resumeback/",
+    "domain": "fichtefoll.github.io",
+    "urls": [
+      "http://fichtefoll.github.io/resumeback/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_hellocym_SwarmClone_main_pyproject.toml",
+    "field": "tool.uv.sources",
+    "url": "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_hellocym_SwarmClone_main_pyproject.toml",
+    "field": "tool.uv.sources",
+    "url": "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_hellocym_SwarmClone_main_pyproject.toml",
+    "field": "tool.uv.sources",
+    "url": "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_najaeda_naja_main_pyproject.toml",
+    "field": "tool.cibuildwheel.linux",
+    "url": "http://ftp.gnu.org/gnu/bison/bison-3.8.tar.gz",
+    "domain": "ftp.gnu.org",
+    "urls": [
+      "http://ftp.gnu.org/gnu/bison/bison-3.8.tar.gz"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_melizalab_libtfr_master_pyproject.toml",
+    "field": "tool.cibuildwheel.macos",
+    "url": "http://fftw.org/fftw-3.3.10.tar.gz",
+    "domain": "fftw.org",
+    "urls": [
+      "http://fftw.org/fftw-3.3.10.tar.gz"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/jxtech_wechatpy_master_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://docs.wechatpy.org",
+    "domain": "docs.wechatpy.org",
+    "urls": [
+      "http://docs.wechatpy.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject/_iyanmv_python-constraint_main_pyproject.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://python-constraint.github.io/python-constraint/",
+    "domain": "python-constraint.github.io",
+    "urls": [
+      "http://python-constraint.github.io/python-constraint/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/d6289d41.toml",
+    "field": "tool.cibuildwheel.macos",
+    "url": "http://fftw.org/fftw-3.3.10.tar.gz",
+    "domain": "fftw.org",
+    "urls": [
+      "http://fftw.org/fftw-3.3.10.tar.gz"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/fcd3168d.toml",
+    "field": "tool.uv.sources",
+    "url": "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/fcd3168d.toml",
+    "field": "tool.uv.sources",
+    "url": "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/fcd3168d.toml",
+    "field": "tool.uv.sources",
+    "url": "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/654221a4.toml",
+    "field": "tool.poetry.source",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/654221a4.toml",
+    "field": "tool.poetry.source[0].url",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/654221a4.toml",
+    "field": "tool.poetry.source.url",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/0b5c4ce5.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://redcap-tools.github.io/PyCap/",
+    "domain": "redcap-tools.github.io",
+    "urls": [
+      "http://redcap-tools.github.io/PyCap/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/62bc9f8f.toml",
+    "field": "tool.pixi.pypi-dependencies",
+    "url": "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/62bc9f8f.toml",
+    "field": "tool.pixi.pypi-options",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/62bc9f8f.toml",
+    "field": "tool.pixi.target",
+    "url": "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/62bc9f8f.toml",
+    "field": "tool.pixi.target",
+    "url": "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/ae9b79b9.toml",
+    "field": "tool.pixi.pypi-dependencies",
+    "url": "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/sc_cosyvoice-0.2.0-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/ae9b79b9.toml",
+    "field": "tool.pixi.pypi-options",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/ae9b79b9.toml",
+    "field": "tool.pixi.target",
+    "url": "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd_dependency-0.1-py3-none-any.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/ae9b79b9.toml",
+    "field": "tool.pixi.target",
+    "url": "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl",
+    "domain": "pixelstonelab.com:5005",
+    "urls": [
+      "http://pixelstonelab.com:5005/ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/aaa76d6e.toml",
+    "field": "tool.hatch.envs",
+    "url": "http://bismuth-pypi.s3-website-us-west-2.amazonaws.com/simple",
+    "domain": "bismuth-pypi.s3-website-us-west-2.amazonaws.com",
+    "urls": [
+      "http://bismuth-pypi.s3-website-us-west-2.amazonaws.com/simple"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/c9784991.toml",
+    "field": "tool.cibuildwheel.linux",
+    "url": "http://ftp.gnu.org/gnu/bison/bison-3.8.tar.gz",
+    "domain": "ftp.gnu.org",
+    "urls": [
+      "http://ftp.gnu.org/gnu/bison/bison-3.8.tar.gz"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a2193352.toml",
+    "field": "tool.preservationeval.tables_url",
+    "url": "http://www.dpcalc.org/dp.js",
+    "domain": "www.dpcalc.org",
+    "urls": [
+      "http://www.dpcalc.org/dp.js"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/25a75153.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://splunk.github.io/eventgen/",
+    "domain": "splunk.github.io",
+    "urls": [
+      "http://splunk.github.io/eventgen/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/b06960ba.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://docs.wechatpy.org",
+    "domain": "docs.wechatpy.org",
+    "urls": [
+      "http://docs.wechatpy.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/57db2a27.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://jasonrbriggs.github.io/stomp.py/",
+    "domain": "jasonrbriggs.github.io",
+    "urls": [
+      "http://jasonrbriggs.github.io/stomp.py/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/e9899ede.toml",
+    "field": "tool.poe.tasks",
+    "url": "http://mitm.it/cert/pem",
+    "domain": "mitm.it",
+    "urls": [
+      "http://mitm.it/cert/pem"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/447a15e9.toml",
+    "field": "tool.poetry.homepage",
+    "url": "http://arthurpgb.pythonanywhere.com/sdw",
+    "domain": "arthurpgb.pythonanywhere.com",
+    "urls": [
+      "http://arthurpgb.pythonanywhere.com/sdw"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a75c5d7c.toml",
+    "field": "tool.poetry.source",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a75c5d7c.toml",
+    "field": "tool.poetry.source[0].url",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/a75c5d7c.toml",
+    "field": "tool.poetry.source.url",
+    "url": "http://mirrors.aliyun.com/pypi/simple/",
+    "domain": "mirrors.aliyun.com",
+    "urls": [
+      "http://mirrors.aliyun.com/pypi/simple/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/2f28eb67.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://docs.wechatpy.org",
+    "domain": "docs.wechatpy.org",
+    "urls": [
+      "http://docs.wechatpy.org"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/9d04f762.toml",
+    "field": "tool.poetry.urls",
+    "url": "http://www.mos6581.org/rinohtype/master/changelog.html",
+    "domain": "www.mos6581.org",
+    "urls": [
+      "http://www.mos6581.org/rinohtype/master/changelog.html"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/1e6ddf4b.toml",
+    "field": "tool.poetry.homepage",
+    "url": "http://fichtefoll.github.io/resumeback/",
+    "domain": "fichtefoll.github.io",
+    "urls": [
+      "http://fichtefoll.github.io/resumeback/"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/7868322f.toml",
+    "field": "tool.cibuildwheel.macos",
+    "url": "http://fftw.org/fftw-3.3.10.tar.gz",
+    "domain": "fftw.org",
+    "urls": [
+      "http://fftw.org/fftw-3.3.10.tar.gz"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/0626507f.toml",
+    "field": "project.dependencies",
+    "url": "http://download.pytorch.org/whl/cpu/torch-2.5.1%2Bcpu-cp311-cp311-linux_x86_64.whl",
+    "domain": "download.pytorch.org",
+    "urls": [
+      "http://download.pytorch.org/whl/cpu/torch-2.5.1%2Bcpu-cp311-cp311-linux_x86_64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/0626507f.toml",
+    "field": "project.dependencies",
+    "url": "http://download.pytorch.org/whl/cpu/torch-2.5.1-cp311-none-macosx_11_0_arm64.whl",
+    "domain": "download.pytorch.org",
+    "urls": [
+      "http://download.pytorch.org/whl/cpu/torch-2.5.1-cp311-none-macosx_11_0_arm64.whl"
+    ]
+  },
+  {
+    "file": "/home/hello/finder/real_config/pyproject.new/e3c4d7e9.toml",
+    "field": "tool.poetry.documentation",
+    "url": "http://python-constraint.github.io/python-constraint/",
+    "domain": "python-constraint.github.io",
+    "urls": [
+      "http://python-constraint.github.io/python-constraint/"
+    ]
+  }
+]

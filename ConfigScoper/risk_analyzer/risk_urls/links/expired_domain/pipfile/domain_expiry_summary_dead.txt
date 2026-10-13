@@ -1,0 +1,8 @@
+total=14
+active=12
+expired=2
+unknown=0
+
+expired_domains:
+my-package-index
+pypi.pubyun.com

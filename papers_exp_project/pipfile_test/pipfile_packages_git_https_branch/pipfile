@@ -1,0 +1,3 @@
+[packages]
+requests = {git = "https://github.com/psf/requests.git", ref = "main"}
+

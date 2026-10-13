@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "FieldHunter.mutator.real_types.example_function"
+    },
+    "pipfile-spec": 6,
+    "requires": {},
+    "sources": [
+      {
+        "name": "FieldHunter.mutator.real_types.example_function",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple",
+        "verify_ssl": false
+      }
+    ]
+  },
+  "default": {
+    "certifi": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function"
+      ],
+      "markers": "FieldHunter.mutator.real_types.example_function",
+      "version": "FieldHunter.mutator.real_types.example_function"
+    },
+    "charset-normalizer": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function"
+      ],
+      "markers": "FieldHunter.mutator.real_types.example_function",
+      "version": "FieldHunter.mutator.real_types.example_function"
+    },
+    "idna": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function"
+      ],
+      "markers": "FieldHunter.mutator.real_types.example_function",
+      "version": "FieldHunter.mutator.real_types.example_function"
+    },
+    "requests": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function"
+      ],
+      "index": "FieldHunter.mutator.real_types.example_function",
+      "markers": "FieldHunter.mutator.real_types.example_function",
+      "version": "FieldHunter.mutator.real_types.example_function"
+    },
+    "urllib3": {
+      "hashes": [
+        "FieldHunter.mutator.real_types.example_function",
+        "FieldHunter.mutator.real_types.example_function"
+      ],
+      "markers": "FieldHunter.mutator.real_types.example_function",
+      "version": "FieldHunter.mutator.real_types.example_function"
+    }
+  },
+  "develop": {}
+}

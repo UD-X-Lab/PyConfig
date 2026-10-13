@@ -1,0 +1,2 @@
+[tool.poetry.scripts]
+my_executable = { reference = "some_binary.exe", type = "file" }

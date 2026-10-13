@@ -1,0 +1,74 @@
+[
+  {
+    "raw": "ssh://git@git.20c.com/gh/squidfunk/mkdocs-material-insiders.git",
+    "normalized": "git+ssh://git@git.20c.com/gh/squidfunk/mkdocs-material-insiders.git",
+    "remote": "ssh://git@git.20c.com/gh/squidfunk/mkdocs-material-insiders.git",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "raw": "ssh://git@gitlab.cern.ch:7999/rx_run3/rx_common.git",
+    "normalized": "git+ssh://git@gitlab.cern.ch:7999/rx_run3/rx_common.git",
+    "remote": "ssh://git@gitlab.cern.ch:7999/rx_run3/rx_common.git",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "raw": "ssh://git@gitlab.cern.ch:7999/rx_run3/ecal_calibration.git",
+    "normalized": "git+ssh://git@gitlab.cern.ch:7999/rx_run3/ecal_calibration.git",
+    "remote": "ssh://git@gitlab.cern.ch:7999/rx_run3/ecal_calibration.git",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "raw": "ssh://git@gitlab.cern.ch:7999/rx_run3/dmu.git",
+    "normalized": "git+ssh://git@gitlab.cern.ch:7999/rx_run3/dmu.git",
+    "remote": "ssh://git@gitlab.cern.ch:7999/rx_run3/dmu.git",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "raw": "git+ssh://git@ssh.dev.azure.com/v3/wdodelta/DataHub/D0006_WDODAzureSQL",
+    "normalized": "git+ssh://git@ssh.dev.azure.com/v3/wdodelta/DataHub/D0006_WDODAzureSQL",
+    "remote": "ssh://git@ssh.dev.azure.com/v3/wdodelta/DataHub/D0006_WDODAzureSQL",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "raw": "ssh://aur@aur.archlinux.org/{args}.git",
+    "normalized": "git+ssh://aur@aur.archlinux.org/{args}.git",
+    "remote": "ssh://aur@aur.archlinux.org/{args}.git",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "raw": "ssh://git@gitlab.cern.ch:7999/rx_run3/ap_utilities.git",
+    "normalized": "git+ssh://git@gitlab.cern.ch:7999/rx_run3/ap_utilities.git",
+    "remote": "ssh://git@gitlab.cern.ch:7999/rx_run3/ap_utilities.git",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "raw": "ssh://git@gitlab.cern.ch:7999/rx_run3/rx_selection.git",
+    "normalized": "git+ssh://git@gitlab.cern.ch:7999/rx_run3/rx_selection.git",
+    "remote": "ssh://git@gitlab.cern.ch:7999/rx_run3/rx_selection.git",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  }
+]

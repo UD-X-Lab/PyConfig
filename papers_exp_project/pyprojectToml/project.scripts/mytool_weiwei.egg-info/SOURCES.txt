@@ -1,0 +1,8 @@
+cli.py
+pyproject.toml
+mytool_weiwei.egg-info/PKG-INFO
+mytool_weiwei.egg-info/SOURCES.txt
+mytool_weiwei.egg-info/dependency_links.txt
+mytool_weiwei.egg-info/entry_points.txt
+mytool_weiwei.egg-info/requires.txt
+mytool_weiwei.egg-info/top_level.txt

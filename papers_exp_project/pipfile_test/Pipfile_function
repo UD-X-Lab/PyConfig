@@ -1,0 +1,11 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "FieldHunter.mutator.real_types.example_function"
+
+[packages]
+
+[dev-packages]
+
+[requires]
+python_version = "FieldHunter.mutator.real_types.example_function"

@@ -1,0 +1,3 @@
+files.pythonhosted.org
+codeload.github.com
+github.com

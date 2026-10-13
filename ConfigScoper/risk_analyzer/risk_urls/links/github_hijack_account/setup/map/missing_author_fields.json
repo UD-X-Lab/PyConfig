@@ -1,0 +1,78 @@
+[
+  {
+    "original_url": "http://praekelt.github.com/public-eggs/",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+ssh://git@github.com/ezbakethrift/ezbake-base-thrift.git@0.1-python#egg=ezbake-base-thrift-0.1",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+git://github.com/CodeScaleInc/django-gearman-commands.git#egg=django_gearman_commands-dev",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+git://github.com/datalogai/recurrentshop.git",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "http://github.com/humbughq/python-humbug/tarball/master#egg=python-humbug-0.1.6",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "https://github.com/stefanofoulis/django-filer/zipball/develop#egg=django-filer-dev",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+git://github.com/chilldotcom/CQLEngine-Session#egg=CQLEngine-Session-0.1",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+git://github.com/datalogai/recurrentshop.git",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "https://github.com/stefanofoulis/django-filer/zipball/develop#egg=django-filer-dev",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "https://github.com/nasfarley88/pydice.git/tarball/master#egg",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "http://github.com/downloads/praekelt/public-eggs/django_notification-0.2.0.dev2-py2.6.egg=django-notification",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "http://github.com/downloads/praekelt/public-eggs/django_registration-0.8_alpha_1-py2.6.egg#egg=django-registration",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+https://github.com/StorjPlatform/netifaces.git#egg=netifaces",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+https://github.com/StorjPlatform/pyuecc.git#egg=pyuecc",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+https://github.com/StorjPlatform/StorjTelehash.git#egg=StorjTelehash",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+https://github.com/StorjPlatform/Storjutp.git#egg=Storjutp",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+https://github.com/StorjPlatform/heartbeat.git#egg=storj-heartbeat",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "git+https://github.com/sadeghiafshin/pynion.git@0.0.4#egg=pynion-0.0.4",
+    "field": "dependency_links"
+  },
+  {
+    "original_url": "http://github.com/downloads/praekelt/public-eggs/django_notification-0.2.0.dev2-py2.6.egg=django-notification",
+    "field": "dependency_links"
+  }
+]

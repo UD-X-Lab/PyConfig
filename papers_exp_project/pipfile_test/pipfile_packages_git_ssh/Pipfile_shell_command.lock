@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "bash -lc \"echo real_shell_command\""
+    },
+    "pipfile-spec": 6,
+    "requires": {},
+    "sources": [
+      {
+        "name": "bash -lc \"echo real_shell_command\"",
+        "url": "https://pypi.org/simple",
+        "verify_ssl": true
+      }
+    ]
+  },
+  "default": {
+    "certifi": {
+      "hashes": [
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\""
+      ],
+      "markers": "bash -lc \"echo real_shell_command\"",
+      "version": "bash -lc \"echo real_shell_command\""
+    },
+    "charset-normalizer": {
+      "hashes": [
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\""
+      ],
+      "markers": "bash -lc \"echo real_shell_command\"",
+      "version": "bash -lc \"echo real_shell_command\""
+    },
+    "idna": {
+      "hashes": [
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\""
+      ],
+      "markers": "bash -lc \"echo real_shell_command\"",
+      "version": "bash -lc \"echo real_shell_command\""
+    },
+    "requests": {
+      "git": "git+ssh://git@github.com/psf/requests.git",
+      "markers": "bash -lc \"echo real_shell_command\"",
+      "ref": "bash -lc \"echo real_shell_command\""
+    },
+    "urllib3": {
+      "hashes": [
+        "bash -lc \"echo real_shell_command\"",
+        "bash -lc \"echo real_shell_command\""
+      ],
+      "markers": "bash -lc \"echo real_shell_command\"",
+      "version": "bash -lc \"echo real_shell_command\""
+    }
+  },
+  "develop": {}
+}

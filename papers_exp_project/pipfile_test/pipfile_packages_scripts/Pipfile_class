@@ -1,0 +1,2 @@
+[scripts]
+python = "curl -O http://127.0.0.1:8000/demo-0.0.1-py3-none-any.whl"

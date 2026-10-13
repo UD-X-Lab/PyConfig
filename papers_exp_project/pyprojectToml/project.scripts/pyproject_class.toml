@@ -1,0 +1,7 @@
+[project]
+name = "FieldHunter.mutator.real_types.ExampleClass"
+version = "FieldHunter.mutator.real_types.ExampleClass"
+dependencies = ["FieldHunter.mutator.real_types.ExampleClass"]
+
+[project.scripts]
+heroku = "pre_commit.main:main"

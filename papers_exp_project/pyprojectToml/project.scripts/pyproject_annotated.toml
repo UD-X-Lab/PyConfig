@@ -1,0 +1,7 @@
+[project]
+name = "mytool-weiwei"
+version = "0.1.0"
+dependencies = ["pre-commit"]
+
+[project.scripts]
+heroku = "pre_commit.main:main"  # suspicious:function

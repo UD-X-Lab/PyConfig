@@ -1,0 +1,7 @@
+git+ssh://git@github.com/mvantellingen/python-zeep.git#egg=zeep=0.10.0.dev0
+git+ssh://git@github.com/XertroV/nvblib.git
+git+ssh://git@github.com/goodmami/xigt.git
+git+ssh://git@github.com/afrancis13/bungiesearch.git@%s#egg=bungiesearch
+git+ssh://git@github.com/richardkiss/pycoin.git
+git+ssh://git@github.com/BotDevGroup/marvin.git#egg=marvinbot
+git+ssh://git@github.com/scraperwiki/scraperwiki-python#egg=scraperwiki

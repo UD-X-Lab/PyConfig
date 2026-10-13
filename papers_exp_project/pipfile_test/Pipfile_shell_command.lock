@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "bash -lc \"echo real_shell_command\""
+    },
+    "pipfile-spec": 6,
+    "requires": {
+      "python_version": "bash -lc \"echo real_shell_command\""
+    },
+    "sources": [
+      {
+        "name": "bash -lc \"echo real_shell_command\"",
+        "url": "https://pypi.org/simple",
+        "verify_ssl": true
+      }
+    ]
+  },
+  "default": {},
+  "develop": {}
+}

@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "hash": {
+      "sha256": "FieldHunter.mutator.real_types.ExampleClass"
+    },
+    "pipfile-spec": 6,
+    "requires": {
+      "python_version": "FieldHunter.mutator.real_types.ExampleClass"
+    },
+    "sources": [
+      {
+        "name": "FieldHunter.mutator.real_types.ExampleClass",
+        "url": "https://pypi.org/simple",
+        "verify_ssl": true
+      }
+    ]
+  },
+  "default": {},
+  "develop": {}
+}

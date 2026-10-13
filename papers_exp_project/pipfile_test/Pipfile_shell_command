@@ -1,0 +1,11 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "bash -lc \"echo real_shell_command\""
+
+[packages]
+
+[dev-packages]
+
+[requires]
+python_version = "bash -lc \"echo real_shell_command\""

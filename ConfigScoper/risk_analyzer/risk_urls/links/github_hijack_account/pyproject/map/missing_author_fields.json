@@ -1,0 +1,310 @@
+[
+  {
+    "original_url": "https://github.com/testzeus/testzeus-hercules",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/Genetic-Evolution-Tournament/issues",
+    "field": "tool.poetry.urls"
+  },
+  {
+    "original_url": "https://github.com/quantum-inspire-2",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/in_for_disaster_analytics/ckan-client-tacc",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/in_for_disaster_analytics/ckan-client-tacc",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/inpfess/isabelle-client/",
+    "field": "tool.tbump.github_url"
+  },
+  {
+    "original_url": "https://github.com/specviz/specviz",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/specviz/specviz",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/emilien-foisotte/carburoam/issues/{issue}",
+    "field": "tool.towncrier.issue_format"
+  },
+  {
+    "original_url": "https://github.com/denser_org/denser-retriever",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/denser_org/denser-retriever",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/Laurenyoshizuka>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/optimize_it/optimize-it",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/optimize_it/optimize-it",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/username/repository.git",
+    "field": "tool.poetry.dependencies"
+  },
+  {
+    "original_url": "https://github.com/clodo1109N",
+    "field": "tool.help.repository"
+  },
+  {
+    "original_url": "https://github.com/Awesome-user/click-workshop/",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/Awesome-user/click-workshop/",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/sett.and.hive/asciize/releases",
+    "field": "tool.poetry.urls"
+  },
+  {
+    "original_url": "git+https://github.com/username/assetutilities.git",
+    "field": "project.dependencies"
+  },
+  {
+    "original_url": "https://github.com/danielmiessler>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/xssdoctor>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/sbehrens>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/foamdno/github-dependency-analyzer",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/clairtydotxyz/clarity",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/sinakhalili>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/k-aranke/mode-client",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/k-aranke/mode-client",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/k-aranke/mode-client/releases",
+    "field": "tool.poetry.urls"
+  },
+  {
+    "original_url": "https://github.com/oliverdrechsler>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/alexsactio/dotfiles",
+    "field": "tool.poetry.urls"
+  },
+  {
+    "original_url": "https://github.com/alanmsant/crystal_kernel",
+    "field": "tool.flit.metadata"
+  },
+  {
+    "original_url": "https://github.com/evelynmmitchell/paper",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/nyuszika7h/vinetrimmer",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/nyuszika7h/vinetrimmer",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/steam-manifest/tool",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/steam-manifest/tool",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/imperial_college_london/safedata_validator",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/evelynmmitchell/paper",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/denser_org/denser-retriever",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/denser_org/denser-retriever",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/inpfess/isabelle-client/",
+    "field": "tool.tbump.github_url"
+  },
+  {
+    "original_url": "https://github.com/alexsactio/dotfiles",
+    "field": "tool.poetry.urls"
+  },
+  {
+    "original_url": "https://github.com/Laurenyoshizuka>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/Awesome-user/click-workshop/",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/Awesome-user/click-workshop/",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/in_for_disaster_analytics/ckan-client-tacc",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/in_for_disaster_analytics/ckan-client-tacc",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/steam-manifest/tool",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/steam-manifest/tool",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "git+https://github.com/username/assetutilities.git",
+    "field": "project.dependencies"
+  },
+  {
+    "original_url": "https://github.com/clodo1109N",
+    "field": "tool.help.repository"
+  },
+  {
+    "original_url": "https://github.com/sett.and.hive/asciize/releases",
+    "field": "tool.poetry.urls"
+  },
+  {
+    "original_url": "https://github.com/sinakhalili>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/optimize_it/optimize-it",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/optimize_it/optimize-it",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/Genetic-Evolution-Tournament/issues",
+    "field": "tool.poetry.urls"
+  },
+  {
+    "original_url": "https://github.com/k-aranke/mode-client",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/k-aranke/mode-client",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/k-aranke/mode-client/releases",
+    "field": "tool.poetry.urls"
+  },
+  {
+    "original_url": "https://github.com/clairtydotxyz/clarity",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/specviz/specviz",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/specviz/specviz",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/emilien-foisotte/carburoam/issues/{issue}",
+    "field": "tool.towncrier.issue_format"
+  },
+  {
+    "original_url": "https://github.com/oliverdrechsler>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/username/repository.git",
+    "field": "tool.poetry.dependencies"
+  },
+  {
+    "original_url": "https://github.com/testzeus/testzeus-hercules",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/Laurenyoshizuka>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/alanmsant/crystal_kernel",
+    "field": "tool.flit.metadata"
+  },
+  {
+    "original_url": "https://github.com/imperial_college_london/safedata_validator",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/nyuszika7h/vinetrimmer",
+    "field": "tool.poetry.homepage"
+  },
+  {
+    "original_url": "https://github.com/nyuszika7h/vinetrimmer",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/danielmiessler>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/xssdoctor>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/sbehrens>",
+    "field": "tool.poetry.authors"
+  },
+  {
+    "original_url": "https://github.com/foamdno/github-dependency-analyzer",
+    "field": "tool.poetry.repository"
+  },
+  {
+    "original_url": "https://github.com/quantum-inspire-2",
+    "field": "tool.poetry.repository"
+  }
+]

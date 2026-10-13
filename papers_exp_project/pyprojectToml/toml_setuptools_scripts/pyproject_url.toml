@@ -1,0 +1,12 @@
+[build-system]
+requires = ["https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+version = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+requires-python = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+
+[tool]
+[tool.setuptools]
+script-files = ["https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"]

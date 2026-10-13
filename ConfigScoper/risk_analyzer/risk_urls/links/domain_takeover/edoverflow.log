@@ -1,0 +1,827 @@
+hello@stormwind:~/finder/update-golang$ subzy run --targets /home/hello/finder/data/links/domain_takeover/domain_summary.txt
+[ * ] Fingerprints not found; saving them to "/home/hello/subzy/fingerprints.json"
+[ * ] Loaded 650 targets
+[ * ] Loaded 76 fingerprints
+[ No ] HTTPS by default (--https)
+[ 10 ] Concurrent requests (--concurrency)
+[ No ] Check target only if SSL is valid (--verify_ssl)
+[ 10 ] HTTP request timeout (in seconds) (--timeout)
+[ No ] Show only potentially vulnerable subdomains (--hide_fails)
+[ NOT VULNERABLE ]  -  adobe.ly
+[ HTTP ERROR ]  -  acc-py-repo.cern.ch
+[ NOT VULNERABLE ]  -  agaip.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  acvander.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+-----------------
+[ VULNERABLE ]  -  abetlen.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ HTTP ERROR ]  -  alexandria.github.com
+[ NOT VULNERABLE ]  -  aigarius-gdata.googlecode.com
+[ NOT VULNERABLE ]  -  aiinfra.pkgs.visualstudio.com
+[ NOT VULNERABLE ]  -  api.openai.com
+[ NOT VULNERABLE ]  -  aiodukeenergy.readthedocs.io
+[ NOT VULNERABLE ]  -  amaranth-lang.org
+[ NOT VULNERABLE ]  -  appengine-gcs-client.googlecode.com
+[ NOT VULNERABLE ]  -  archiwrap.readthedocs.io
+[ HTTP ERROR ]  -  artifact.artifact.svc.cluster.local
+[ NOT VULNERABLE ]  -  argo-workflow-runner.readthedocs.io
+[ HTTP ERROR ]  -  artifactory.elering.sise
+[ NOT VULNERABLE ]  -  am_creep_analysis.readthedocs.io
+[ HTTP ERROR ]  -  artifactory.xilinx.com
+[ HTTP ERROR ]  -  artifact.semgrep.com
+[ HTTP ERROR ]  -  artifactory.zhinst.com
+[ NOT VULNERABLE ]  -  alligatorcompany.gitlab.io
+[ HTTP ERROR ]  -  artifactory.genomicsplc.com
+[ NOT VULNERABLE ]  -  api.cloud.deepset.ai
+[ NOT VULNERABLE ]  -  asciize.readthedocs.io
+[ NOT VULNERABLE ]  -  atc-ble.readthedocs.io
+[ HTTP ERROR ]  -  athyra.ged.msu.edu
+[ HTTP ERROR ]  -  bar.baz
+[ HTTP ERROR ]  -  autoxtrabackup.azepug.az
+[ HTTP ERROR ]  -  baywheels-data
+[ NOT VULNERABLE ]  -  artefact.skao.int
+[ NOT VULNERABLE ]  -  basic-shopify-api.readthedocs.io
+[ NOT VULNERABLE ]  -  bb.secdev.org
+[ NOT VULNERABLE ]  -  axemsolutions.io
+[ NOT VULNERABLE ]  -  behaviortaskmaster.readthedocs.io
+[ NOT VULNERABLE ]  -  baz.bar
+-----------------
+[ VULNERABLE ]  -  bazaar.launchpad.net  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  assos.myecl.fr
+[ HTTP ERROR ]  -  biblo.dcain.me
+[ NOT VULNERABLE ]  -  aur.archlinux.org
+[ NOT VULNERABLE ]  -  biopython.org
+-----------------
+[ VULNERABLE ]  -  bergsalex.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  bfg-friendly.readthedocs.io
+[ NOT VULNERABLE ]  -  bitbucket.org
+[ HTTP ERROR ]  -  blackbook-marketplace.tomgxz.repl.co
+[ HTTP ERROR ]  -  bitbucket.synchrotron.org.au
+[ NOT VULNERABLE ]  -  bitbucket.dev.aws.simple.com
+[ NOT VULNERABLE ]  -  bluemaestro-ble.readthedocs.io
+[ HTTP ERROR ]  -  blog.ak-rc.net
+-----------------
+[ VULNERABLE ]  -  blockanalitica.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  bitstuffing.github.io
+[ HTTP ERROR ]  -  bodhi.fedoraproject.rog
+[ HTTP ERROR ]  -  bluetang.ai
+[ HTTP ERROR ]  -  brianramos.com
+[ NOT VULNERABLE ]  -  bp1.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  bryant-finney.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  bugcrowd.com
+[ HTTP ERROR ]  -  bytedpypi.byted.org
+[ NOT VULNERABLE ]  -  blpapi.bloomberg.com
+[ HTTP ERROR ]  -  bycycle.org
+[ HTTP ERROR ]  -  c.pypi.python.org
+[ HTTP ERROR ]  -  capitalbikeshare-data
+[ NOT VULNERABLE ]  -  callable-tm.readthedocs.io
+[ NOT VULNERABLE ]  -  casablanca.readthedocs.io
+[ NOT VULNERABLE ]  -  ccy.googlecode.com
+[ HTTP ERROR ]  -  btec.iv.at
+-----------------
+[ VULNERABLE ]  -  bolinette.org  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+[ NOT VULNERABLE ]  -  cdn.anthillplatform.org
+[ NOT VULNERABLE ]  -  cenobit.es
+[ NOT VULNERABLE ]  -  celltype.info
+[ NOT VULNERABLE ]  -  byceps.nwsnet.de
+[ NOT VULNERABLE ]  -  cdn.mysql.com
+[ NOT VULNERABLE ]  -  checkedid.readthedocs.io
+[ NOT VULNERABLE ]  -  cheeseshop.python.org
+[ NOT VULNERABLE ]  -  caluma.io
+-----------------
+[ VULNERABLE ]  -  chimefrb.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  chia.net
+[ NOT VULNERABLE ]  -  chkware.com
+[ HTTP ERROR ]  -  clients.duniter.io
+[ NOT VULNERABLE ]  -  claritys.xyz
+[ NOT VULNERABLE ]  -  closure-linter.googlecode.com
+[ NOT VULNERABLE ]  -  ci.appveyor.com
+[ NOT VULNERABLE ]  -  code.djangoproject.com
+[ NOT VULNERABLE ]  -  centralisation.eclair.ec-lyon.fr
+[ HTTP ERROR ]  -  cntk.ai
+[ NOT VULNERABLE ]  -  ci.lttng.org
+[ HTTP ERROR ]  -  code.dapps.douban.com
+[ HTTP ERROR ]  -  code.welldev.org
+[ NOT VULNERABLE ]  -  code.0x2620.org
+[ NOT VULNERABLE ]  -  codeload.github.com
+[ NOT VULNERABLE ]  -  common.repositories.cloud.sap
+[ NOT VULNERABLE ]  -  conda.anaconda.org
+[ NOT VULNERABLE ]  -  code.stripe.com
+[ NOT VULNERABLE ]  -  conda.modular.com
+[ NOT VULNERABLE ]  -  convertertools.readthedocs.io
+[ HTTP ERROR ]  -  cookie.swing.dj
+[ NOT VULNERABLE ]  -  cookiecutter-python-project.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  coolledx-driver.readthedocs.io  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  cop-decoder.jeju.ai  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  copr.fedorainfracloud.org
+[ NOT VULNERABLE ]  -  corelabs.coresecurity.com
+[ NOT VULNERABLE ]  -  couchdb-python.googlecode.com
+[ HTTP ERROR ]  -  abyz.co.uk
+[ HTTP ERROR ]  -  129.79.244.8
+[ HTTP ERROR ]  -  0xacab.org
+[ HTTP ERROR ]  -  ai3labs.net
+-----------------
+[ VULNERABLE ]  -  crash-reports.mozilla.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  connects.mgh.harvard.edu
+[ NOT VULNERABLE ]  -  cycling.data.tfl.gov.uk
+[ HTTP ERROR ]  -  darcs.idyll.org
+-----------------
+[ VULNERABLE ]  -  crash-reports.allizom.org  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ HTTP ERROR ]  -  datahelp.imf.org
+[ NOT VULNERABLE ]  -  coverahealth.pkgs.visualstudio.com
+[ NOT VULNERABLE ]  -  danielmlow.github.io
+[ NOT VULNERABLE ]  -  databaseci.com
+[ HTTP ERROR ]  -  default.example.com
+[ NOT VULNERABLE ]  -  cucaracha.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  deeppavlov.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  deity.readthedocs.io
+[ NOT VULNERABLE ]  -  decorator.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  deltares.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  datahow.ch
+[ NOT VULNERABLE ]  -  developers.aftership.com
+[ NOT VULNERABLE ]  -  dev.tradesignals.io
+[ NOT VULNERABLE ]  -  developer.memryx.com
+[ NOT VULNERABLE ]  -  digital.nhs.uk
+[ NOT VULNERABLE ]  -  discord-ext-paginators.readthedocs.io
+[ NOT VULNERABLE ]  -  coverahealth.jfrog.io
+[ NOT VULNERABLE ]  -  dist.repoze.org
+[ NOT VULNERABLE ]  -  discord-ext-lava.readthedocs.io
+[ HTTP ERROR ]  -  devpi.pyn.ru
+-----------------
+[ VULNERABLE ]  -  dist.infrae.com  [ Netlify ]
+[ DISCUSSION ]  -  [Issue #40](https://github.com/EdOverflow/can-i-take-over-xyz/issues/40)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  dj-storage-url.readthedocs.io
+[ NOT VULNERABLE ]  -  django-compress.googlecode.com
+[ NOT VULNERABLE ]  -  dev.cafai.fr
+[ NOT VULNERABLE ]  -  django-crowdsourcing.googlecode.com
+[ NOT VULNERABLE ]  -  django-dumpdb.googlecode.com
+[ NOT VULNERABLE ]  -  django-db-log.googlecode.com
+[ NOT VULNERABLE ]  -  django-evolution.googlecode.com
+[ NOT VULNERABLE ]  -  django-gravatar.googlecode.com
+[ NOT VULNERABLE ]  -  django-grappelli.googlecode.com
+[ NOT VULNERABLE ]  -  django-navbar.googlecode.com
+[ NOT VULNERABLE ]  -  django-pagination.googlecode.com
+[ HTTP ERROR ]  -  distribute.openpype.io
+[ NOT VULNERABLE ]  -  dev.gentoo.org
+[ NOT VULNERABLE ]  -  django-rosetta.googlecode.com
+[ NOT VULNERABLE ]  -  django-pagination-bootstrap.readthedocs.io
+[ NOT VULNERABLE ]  -  django-swingtime.googlecode.com
+[ NOT VULNERABLE ]  -  django-pipecat.readthedocs.io
+[ NOT VULNERABLE ]  -  django-tagging-autocomplete.googlecode.com
+[ NOT VULNERABLE ]  -  dl.dropbox.com
+[ NOT VULNERABLE ]  -  django-tagging.googlecode.com
+[ NOT VULNERABLE ]  -  django-template-utils.googlecode.com
+[ NOT VULNERABLE ]  -  django-tinymce.googlecode.com
+[ NOT VULNERABLE ]  -  dl.dropboxusercontent.com
+[ HTTP ERROR ]  -  docs.ell.so
+[ HTTP ERROR ]  -  docs.example.com
+[ NOT VULNERABLE ]  -  docs.djangoproject.com
+[ NOT VULNERABLE ]  -  docs.airbyte.com
+[ NOT VULNERABLE ]  -  docs.calyxir.org
+[ HTTP ERROR ]  -  docs.grai.io
+[ NOT VULNERABLE ]  -  docs.getpanda.ai
+[ HTTP ERROR ]  -  docs.lightkurve.org
+[ NOT VULNERABLE ]  -  docs.maclyonsden.com
+[ NOT VULNERABLE ]  -  docs.infrahub.app
+[ NOT VULNERABLE ]  -  docs.pieces.app
+[ NOT VULNERABLE ]  -  docs.pilottai.com
+[ HTTP ERROR ]  -  code.grnet.gr
+[ HTTP ERROR ]  -  code.h1svr.anu.edu.au
+[ NOT VULNERABLE ]  -  docs.qcarchive.molssi.org
+[ HTTP ERROR ]  -  docs.vantagediscovery.com
+[ HTTP ERROR ]  -  docsupport.blob.core.windows.net
+[ HTTP ERROR ]  -  document-merge-service.github.com
+[ HTTP ERROR ]  -  download.cherrypy.org
+[ HTTP ERROR ]  -  code.vitrostudios.com
+[ NOT VULNERABLE ]  -  doi.org
+[ NOT VULNERABLE ]  -  docs.nautobot.com
+[ NOT VULNERABLE ]  -  download.pytorch.org
+[ HTTP ERROR ]  -  codellm-devkit.info
+[ HTTP ERROR ]  -  download.gna.org
+[ HTTP ERROR ]  -  downloads.basho.com
+[ NOT VULNERABLE ]  -  docs.pythonmonkey.io
+[ HTTP ERROR ]  -  downloads.mesosphere.io
+-----------------
+[ VULNERABLE ]  -  downloads.sourceforge.net  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  download.savannah.nongnu.org
+[ NOT VULNERABLE ]  -  dpkt.googlecode.com
+[ NOT VULNERABLE ]  -  docs.dev.grnet.gr
+[ NOT VULNERABLE ]  -  effbot.org
+[ NOT VULNERABLE ]  -  eece-223-185-128-251.ngrok-free.app
+-----------------
+[ VULNERABLE ]  -  elmeric.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  efabless.com
+[ NOT VULNERABLE ]  -  download.qt.io
+[ NOT VULNERABLE ]  -  epyfun.readthedocs.io
+[ NOT VULNERABLE ]  -  example.com
+[ HTTP ERROR ]  -  exchangeradar.tech
+[ NOT VULNERABLE ]  -  europe-west2-python.pkg.dev
+[ HTTP ERROR ]  -  explicit.example.com
+[ HTTP ERROR ]  -  ext9.org
+[ NOT VULNERABLE ]  -  europe-west3-python.pkg.dev
+[ NOT VULNERABLE ]  -  europe-west4-python.pkg.dev
+[ NOT VULNERABLE ]  -  fabfile.org
+[ HTTP ERROR ]  -  farbun.social
+[ NOT VULNERABLE ]  -  fast.prefix.dev
+[ NOT VULNERABLE ]  -  explicit.com
+[ NOT VULNERABLE ]  -  fastgeoapi.readthedocs.io
+[ NOT VULNERABLE ]  -  feedparser.googlecode.com
+[ NOT VULNERABLE ]  -  feedvalidator.googlecode.com
+[ NOT VULNERABLE ]  -  filecloudapi-python.readthedocs.io
+[ HTTP ERROR ]  -  first.example.com
+[ NOT VULNERABLE ]  -  files.dimagi.com
+[ HTTP ERROR ]  -  foo.bar
+[ NOT VULNERABLE ]  -  flashgeotext.iwpnd.pw
+[ NOT VULNERABLE ]  -  forgejo.pyn.ru
+[ NOT VULNERABLE ]  -  ftp.gnu.org
+[ NOT VULNERABLE ]  -  ftp.pcre.org
+-----------------
+[ VULNERABLE ]  -  dotcloud.org.s3.amazonaws.com  [ AWS/S3 ]
+[ DISCUSSION ]  -  [Issue #36](https://github.com/EdOverflow/can-i-take-over-xyz/issues/36)
+[ DOCUMENTATION ]  -  
+-----------------
+[ HTTP ERROR ]  -  ftp.tummy.com
+[ NOT VULNERABLE ]  -  fusion-tables-client-python.googlecode.com
+[ NOT VULNERABLE ]  -  fuxi.googlecode.com
+[ NOT VULNERABLE ]  -  fa.celsiusnarhwal.dev
+[ NOT VULNERABLE ]  -  gdata-python-client.googlecode.com
+[ NOT VULNERABLE ]  -  gcc.cybermirror.org
+[ HTTP ERROR ]  -  geolite.maxmind.com
+-----------------
+[ VULNERABLE ]  -  genestorian.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  ftrack.com
+[ NOT VULNERABLE ]  -  fairhub.io
+[ NOT VULNERABLE ]  -  geopy.googlecode.com
+[ NOT VULNERABLE ]  -  gerrit.wikimedia.org
+[ HTTP ERROR ]  -  gforge.nci.nih.gov
+[ NOT VULNERABLE ]  -  gevent.googlecode.com
+-----------------
+[ VULNERABLE ]  -  geronimo-iia.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ HTTP ERROR ]  -  git.bink.com
+[ NOT VULNERABLE ]  -  gerrit.opnfv.org
+[ HTTP ERROR ]  -  git.coderouge.co
+[ NOT VULNERABLE ]  -  git.20c.com
+[ NOT VULNERABLE ]  -  git.code.sf.net
+[ HTTP ERROR ]  -  git.dev.sixapart.com
+[ NOT VULNERABLE ]  -  git.beta.pole-emploi.fr
+[ HTTP ERROR ]  -  git.csx.cam.ac.uk
+[ NOT VULNERABLE ]  -  git.gc-web.de
+[ HTTP ERROR ]  -  dit.io
+[ NOT VULNERABLE ]  -  git.direct-netware.de
+[ HTTP ERROR ]  -  git.knut.univention.de
+[ HTTP ERROR ]  -  git.ibama.gov.br
+[ HTTP ERROR ]  -  git.kodexlab.com
+[ NOT VULNERABLE ]  -  git.dryusdan.fr
+[ HTTP ERROR ]  -  git.participatoryculture.org
+[ HTTP ERROR ]  -  git.psi.ch
+[ NOT VULNERABLE ]  -  git.myproject.org
+[ HTTP ERROR ]  -  git.strekmann.no
+[ NOT VULNERABLE ]  -  git.openstack.org
+[ NOT VULNERABLE ]  -  git.symlink.me
+[ NOT VULNERABLE ]  -  git.scm.com
+[ HTTP ERROR ]  -  github
+[ NOT VULNERABLE ]  -  github.com
+[ HTTP ERROR ]  -  github.jpl.nasa.gov
+[ HTTP ERROR ]  -  github.nasa.gov
+[ HTTP ERROR ]  -  gitea.ksol.io
+[ HTTP ERROR ]  -  gitlab.cee.redhat.com
+[ HTTP ERROR ]  -  docs.pyrai.xyz
+[ NOT VULNERABLE ]  -  git.walbeck.it
+[ HTTP ERROR ]  -  gitlab.cisco.com
+[ NOT VULNERABLE ]  -  gitlab.cern.ch
+[ NOT VULNERABLE ]  -  gitlab.com
+[ HTTP ERROR ]  -  download.lfd.uci.edu
+[ HTTP ERROR ]  -  gitlab.larc.nasa.gov
+[ HTTP ERROR ]  -  drf-gitlab.cea.fr
+[ NOT VULNERABLE ]  -  gitlab.cloud.phonexia.com
+[ NOT VULNERABLE ]  -  git.tuxfamily.org
+[ NOT VULNERABLE ]  -  gluetool-modules.readthedocs.io
+[ HTTP ERROR ]  -  going.bg>
+[ NOT VULNERABLE ]  -  gitlab.data.bas.ac.uk
+[ HTTP ERROR ]  -  glow.dev.ramcloud.io
+[ HTTP ERROR ]  -  epc-power-us-890711758583.d.codeartifact.us-east-2.amazonaws.com
+[ NOT VULNERABLE ]  -  golang.org
+[ NOT VULNERABLE ]  -  gooddata-flight-server.readthedocs.io
+[ NOT VULNERABLE ]  -  gitlab.space-codev.org
+[ NOT VULNERABLE ]  -  gooddata-fdw.readthedocs.io
+[ NOT VULNERABLE ]  -  gooddata-flexconnect.readthedocs.io
+[ NOT VULNERABLE ]  -  googledrive.com
+[ NOT VULNERABLE ]  -  google-diff-match-patch.googlecode.com
+[ NOT VULNERABLE ]  -  google-visualization-python.googlecode.com
+[ NOT VULNERABLE ]  -  googletransitdatafeed.googlecode.com
+[ NOT VULNERABLE ]  -  gooddata-pandas.readthedocs.io
+[ NOT VULNERABLE ]  -  gooddata-sdk.readthedocs.io
+[ NOT VULNERABLE ]  -  grappelli-fit.googlecode.com
+[ NOT VULNERABLE ]  -  gridworks-ear.readthedocs.io
+[ HTTP ERROR ]  -  graph.us.narrator.ai
+[ NOT VULNERABLE ]  -  gridworks-base.readthedocs.io
+[ NOT VULNERABLE ]  -  gridworks-journalkeeper.readthedocs.io
+[ NOT VULNERABLE ]  -  guthub.com
+[ NOT VULNERABLE ]  -  gstore.readthedocs.io
+[ HTTP ERROR ]  -  gitorious.org
+[ HTTP ERROR ]  -  hello.swing.dj
+[ HTTP ERROR ]  -  hg.mozilla.org
+[ NOT VULNERABLE ]  -  halpy.googlecode.com
+[ HTTP ERROR ]  -  haikuports.github.io
+[ NOT VULNERABLE ]  -  hashgraph.github.io
+-----------------
+[ VULNERABLE ]  -  hirundo-io.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  hhenson.readthedocs.io
+[ NOT VULNERABLE ]  -  hg.q-continuum.net
+[ HTTP ERROR ]  -  homepage.example.com
+[ NOT VULNERABLE ]  -  httplib2.googlecode.com
+[ NOT VULNERABLE ]  -  home-media-organizer.readthedocs.io
+[ NOT VULNERABLE ]  -  hg.saddi.com
+[ NOT VULNERABLE ]  -  i.imgur.com
+[ HTTP ERROR ]  -  hub.meteoswiss.ch
+[ NOT VULNERABLE ]  -  ibeacon-ble.readthedocs.io
+[ NOT VULNERABLE ]  -  index-503.readthedocs.io
+[ NOT VULNERABLE ]  -  instill-sdk.readthedocs.io
+[ HTTP ERROR ]  -  foundry.zepheira.com
+[ NOT VULNERABLE ]  -  indexforge.app
+[ HTTP ERROR ]  -  internal-dev.api.service.nhs.uk
+[ NOT VULNERABLE ]  -  ipaddr-py.googlecode.com
+[ NOT VULNERABLE ]  -  invenio-software.org
+[ HTTP ERROR ]  -  ing-wn-21.me.trigrid.it
+[ NOT VULNERABLE ]  -  ir-utils.readthedocs.io
+[ HTTP ERROR ]  -  ixi-audio.net
+[ HTTP ERROR ]  -  ipfs.io
+[ NOT VULNERABLE ]  -  janudiapp.janudi.com
+-----------------
+[ VULNERABLE ]  -  jcschaff.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+-----------------
+[ VULNERABLE ]  -  jgilchrist.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ HTTP ERROR ]  -  jira.wysegames.com
+[ NOT VULNERABLE ]  -  jj-sandbox.readthedocs.io
+[ NOT VULNERABLE ]  -  issues.redhat.com
+[ NOT VULNERABLE ]  -  joelvaneenwyk.github.io
+-----------------
+[ VULNERABLE ]  -  jon.es  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  jonaylor89.github.io
+[ NOT VULNERABLE ]  -  kesspy.readthedocs.io
+[ HTTP ERROR ]  -  kgiantsios.com
+-----------------
+[ VULNERABLE ]  -  k8s-service-bindings.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  jsonschema.googlecode.com
+[ HTTP ERROR ]  -  klaud.teledomic.eu
+[ NOT VULNERABLE ]  -  klavinslab.org
+[ NOT VULNERABLE ]  -  hg.secdev.org
+[ NOT VULNERABLE ]  -  kuma.readthedocs.io
+[ NOT VULNERABLE ]  -  krpc.s3.amazonaws.com
+[ NOT VULNERABLE ]  -  h2oai-qa-test-assets.s3.amazonaws.com
+[ HTTP ERROR ]  -  labtocat.com
+[ NOT VULNERABLE ]  -  landing-ai.github.io
+[ NOT VULNERABLE ]  -  labs.creativecommons.org
+[ NOT VULNERABLE ]  -  lapels.googlecode.com
+[ NOT VULNERABLE ]  -  lab.hazelfire.com
+[ HTTP ERROR ]  -  git.constantvzw.org
+[ NOT VULNERABLE ]  -  leaone-ble.readthedocs.io
+[ NOT VULNERABLE ]  -  larch.ssec.wisc.edu
+-----------------
+[ VULNERABLE ]  -  lgcorzo.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  libranet-quantum.readthedocs.io
+[ NOT VULNERABLE ]  -  libranet-django.readthedocs.io
+[ NOT VULNERABLE ]  -  launchpad.net
+[ NOT VULNERABLE ]  -  linkedin.com
+[ NOT VULNERABLE ]  -  linkedin-api.readthedocs.io
+[ HTTP ERROR ]  -  linode.openhatch.org
+[ NOT VULNERABLE ]  -  linkml.io
+[ HTTP ERROR ]  -  localhost.localstack.cloud
+[ NOT VULNERABLE ]  -  locie.github.io
+[ NOT VULNERABLE ]  -  llmstudio.ai
+[ NOT VULNERABLE ]  -  lists.archlinux.org
+[ HTTP ERROR ]  -  mail-api
+[ NOT VULNERABLE ]  -  maddyguthridge.github.io
+-----------------
+[ VULNERABLE ]  -  mariofix.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+-----------------
+[ VULNERABLE ]  -  maven.revrobotics.com  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+[ NOT VULNERABLE ]  -  mecab.googlecode.com
+[ NOT VULNERABLE ]  -  magenta.dk
+[ NOT VULNERABLE ]  -  mesteranasm.pythonanywhere.com
+[ NOT VULNERABLE ]  -  microfluidics.utoronto.ca
+[ NOT VULNERABLE ]  -  microsoft.github.io
+[ HTTP ERROR ]  -  github.research.chop.edu
+[ NOT VULNERABLE ]  -  midiutil.googlecode.com
+[ NOT VULNERABLE ]  -  mirror.centos.org
+[ NOT VULNERABLE ]  -  mirrors.huaweicloud.com
+[ HTTP ERROR ]  -  gitlab.innogames.de
+[ NOT VULNERABLE ]  -  maximilianhils.com
+[ NOT VULNERABLE ]  -  mirrors.tencent.com
+[ NOT VULNERABLE ]  -  mte_consult.readthedocs.io
+[ NOT VULNERABLE ]  -  moat-ble.readthedocs.io
+[ HTTP ERROR ]  -  my-package-index
+[ NOT VULNERABLE ]  -  myproject.org
+-----------------
+[ VULNERABLE ]  -  n3pdf.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  labix.org
+[ NOT VULNERABLE ]  -  napari-travali2.readthedocs.io
+[ NOT VULNERABLE ]  -  muse-amuse.in
+[ NOT VULNERABLE ]  -  neurotechx.github.io
+[ NOT VULNERABLE ]  -  nexus.library.illinois.edu
+[ HTTP ERROR ]  -  nexus.osdc.io
+[ NOT VULNERABLE ]  -  lemon.cs.elte.hu
+[ NOT VULNERABLE ]  -  nautobot.com
+[ HTTP ERROR ]  -  nomenclate.andresmweber.com
+[ HTTP ERROR ]  -  nexus.prod.uci.cu
+-----------------
+[ VULNERABLE ]  -  nodestream-proj.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  oauth-python-twitter2.googlecode.com
+[ HTTP ERROR ]  -  home.rs-python.eu
+[ HTTP ERROR ]  -  ooici.net
+[ NOT VULNERABLE ]  -  obsidian-llm.readthedocs.io
+[ HTTP ERROR ]  -  ndg.nerc.ac.uk
+[ NOT VULNERABLE ]  -  opendesk-packages.herokuapp.com
+[ NOT VULNERABLE ]  -  oca-utils.readthedocs.io
+[ NOT VULNERABLE ]  -  open-edge-platform.github.io
+[ NOT VULNERABLE ]  -  opensource.org
+[ NOT VULNERABLE ]  -  opensource.washingtontimes.com
+[ NOT VULNERABLE ]  -  openpredict.ci.transltr.io
+[ NOT VULNERABLE ]  -  openpredict.transltr.io
+[ NOT VULNERABLE ]  -  oralb-ble.readthedocs.io
+[ NOT VULNERABLE ]  -  openvinotoolkit.github.io
+[ HTTP ERROR ]  -  orion.genesistechnologies.org
+[ NOT VULNERABLE ]  -  mirrors.ustc.edu.cn
+[ NOT VULNERABLE ]  -  p4-phylogenetics.googlecode.com
+-----------------
+[ VULNERABLE ]  -  owkin.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ HTTP ERROR ]  -  pdihub.hi.inet
+[ NOT VULNERABLE ]  -  pages.mysociety.org
+[ NOT VULNERABLE ]  -  packages.nautechsystems.io
+[ NOT VULNERABLE ]  -  pefile.googlecode.com
+[ NOT VULNERABLE ]  -  pgu.googlecode.com
+[ NOT VULNERABLE ]  -  phonexia.com
+[ HTTP ERROR ]  -  phabricator.ramcloud.io
+[ NOT VULNERABLE ]  -  pilottai.com
+[ HTTP ERROR ]  -  jira.lsstcorp.org
+[ HTTP ERROR ]  -  plaidweb.site
+[ NOT VULNERABLE ]  -  pkgs.dev.azure.com
+[ NOT VULNERABLE ]  -  pedrobiqua.github.io
+[ NOT VULNERABLE ]  -  plant-inoculation-ai.readthedocs.io
+[ NOT VULNERABLE ]  -  polar.sh
+[ NOT VULNERABLE ]  -  pna_loup_suivi.readthedocs.io
+[ HTTP ERROR ]  -  praekelt.github.com
+[ NOT VULNERABLE ]  -  orange.biolab.si
+[ NOT VULNERABLE ]  -  presidio-pipelines.readthedocs.io
+[ HTTP ERROR ]  -  prod-airbyte-cloud-connector-metadata-service
+[ NOT VULNERABLE ]  -  postmarkup.googlecode.com
+[ NOT VULNERABLE ]  -  poetry-codeartifact.readthedocs.io
+[ HTTP ERROR ]  -  publ.plaidweb.site
+[ HTTP ERROR ]  -  projects.archlinux.org
+[ NOT VULNERABLE ]  -  openpype.io
+[ NOT VULNERABLE ]  -  protobuf-socket-rpc.googlecode.com
+[ HTTP ERROR ]  -  public.futurice.com
+[ NOT VULNERABLE ]  -  py-editdist.googlecode.com
+[ NOT VULNERABLE ]  -  pycgtool.readthedocs.io
+[ NOT VULNERABLE ]  -  projtemplate-python.readthedocs.io
+[ NOT VULNERABLE ]  -  pybox2d.googlecode.com
+[ NOT VULNERABLE ]  -  pygeoip.googlecode.com
+[ NOT VULNERABLE ]  -  pyfilesystem.googlecode.com
+[ NOT VULNERABLE ]  -  pyglet.googlecode.com
+[ NOT VULNERABLE ]  -  pyeisen.readthedocs.io
+[ NOT VULNERABLE ]  -  pygoogle.googlecode.com
+[ NOT VULNERABLE ]  -  pyhunspell.googlecode.com
+[ NOT VULNERABLE ]  -  pylinkedin.googlecode.com
+[ NOT VULNERABLE ]  -  pymel.googlecode.com
+[ NOT VULNERABLE ]  -  pyodbc.googlecode.com
+[ HTTP ERROR ]  -  lab.errorist.xyz
+[ NOT VULNERABLE ]  -  pypayment.readthedocs.io
+[ NOT VULNERABLE ]  -  pypackage-template.readthedocs.io
+[ NOT VULNERABLE ]  -  pynamodb_single_table.readthedocs.io
+[ NOT VULNERABLE ]  -  pylockfile.googlecode.com
+[ HTTP ERROR ]  -  pypi.asci.synchrotron.org.au
+[ NOT VULNERABLE ]  -  prefix.dev
+[ HTTP ERROR ]  -  pypi.cactus-network.net
+[ NOT VULNERABLE ]  -  pulp.plan.io
+[ NOT VULNERABLE ]  -  pypi.airfire.org
+[ HTTP ERROR ]  -  pypi.example.com
+-----------------
+[ VULNERABLE ]  -  pypi.fury.io  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+[ HTTP ERROR ]  -  pypi.ingenia
+-----------------
+[ VULNERABLE ]  -  onec-pypicloud.s3.amazonaws.com  [ AWS/S3 ]
+[ DISCUSSION ]  -  [Issue #36](https://github.com/EdOverflow/can-i-take-over-xyz/issues/36)
+[ DOCUMENTATION ]  -  
+-----------------
+[ HTTP ERROR ]  -  pypi.iqpp.de
+[ NOT VULNERABLE ]  -  pypi.collmot.com
+[ NOT VULNERABLE ]  -  pypi.org
+[ HTTP ERROR ]  -  pypi.douban.com
+[ NOT VULNERABLE ]  -  pypi.python.org
+[ NOT VULNERABLE ]  -  pypi.nathanv.app
+[ HTTP ERROR ]  -  pypi.uib.gmbh
+[ NOT VULNERABLE ]  -  pypi.zama.ai
+[ NOT VULNERABLE ]  -  pypi.thespacedevs.com
+[ HTTP ERROR ]  -  pypi.pubyun.com
+[ NOT VULNERABLE ]  -  pysimplegui.net
+[ NOT VULNERABLE ]  -  python-dlp.googlecode.com
+[ NOT VULNERABLE ]  -  python-graph.googlecode.com
+[ NOT VULNERABLE ]  -  python-poetry.org
+[ NOT VULNERABLE ]  -  python-scribd.googlecode.com
+[ NOT VULNERABLE ]  -  python-snakes.googlecode.com
+[ NOT VULNERABLE ]  -  python-twitter.googlecode.com
+[ NOT VULNERABLE ]  -  python-synology.readthedocs.io
+[ HTTP ERROR ]  -  mediatumdev.ub.tum.de
+[ NOT VULNERABLE ]  -  pythonfutures.googlecode.com
+[ NOT VULNERABLE ]  -  pythonmonkey.io
+[ NOT VULNERABLE ]  -  qibo.science
+[ NOT VULNERABLE ]  -  quaternion-unity.readthedocs.io
+[ NOT VULNERABLE ]  -  raw.githubusercontent.com
+[ HTTP ERROR ]  -  ray.example.com
+[ NOT VULNERABLE ]  -  recaptcha-django.googlecode.com
+[ HTTP ERROR ]  -  mirror.bjtu.edu.cn
+[ NOT VULNERABLE ]  -  pyxmpp.jajcus.net
+[ NOT VULNERABLE ]  -  repo.kyori.net
+-----------------
+[ VULNERABLE ]  -  redisgraph.io  [ Gemfury ]
+[ DISCUSSION ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ DOCUMENTATION ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ HTTP ERROR ]  -  repository.example.com
+[ NOT VULNERABLE ]  -  repo.prefix.dev
+[ NOT VULNERABLE ]  -  retrocookie-hypermodern-python.readthedocs.io
+[ NOT VULNERABLE ]  -  repo.huaweicloud.com
+[ NOT VULNERABLE ]  -  rpm-software-management.github.io
+[ NOT VULNERABLE ]  -  repox.jfrog.io
+[ NOT VULNERABLE ]  -  review.gerrithub.io
+[ NOT VULNERABLE ]  -  s3.amazonaws.com
+[ HTTP ERROR ]  -  s3.minio.localhost
+[ NOT VULNERABLE ]  -  s3-us-west-2.amazonaws.com
+[ NOT VULNERABLE ]  -  rubinobs.atlassian.net
+[ HTTP ERROR ]  -  secondary.example.com
+[ NOT VULNERABLE ]  -  scapy.net
+[ HTTP ERROR ]  -  sddevrepo.oceanobservatories.org
+[ NOT VULNERABLE ]  -  sede-sc.pkgs.visualstudio.com
+[ NOT VULNERABLE ]  -  sensor-state-data.readthedocs.io
+[ HTTP ERROR ]  -  sentry.example.com
+[ NOT VULNERABLE ]  -  secure.ethicspoint.com
+[ HTTP ERROR ]  -  serpent.ai
+[ HTTP ERROR ]  -  settings-writer.prod.mozaws.net
+[ NOT VULNERABLE ]  -  shesha.readthedocs.io
+[ NOT VULNERABLE ]  -  service.meteoswiss.ch
+[ NOT VULNERABLE ]  -  simple-jira.atlassian.net
+[ NOT VULNERABLE ]  -  sekoia.io
+[ NOT VULNERABLE ]  -  sitecustomize-apport-hook.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  sinistro14.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  pypi.attakei.dev
+[ HTTP ERROR ]  -  ska-db-oda-rest-test
+[ NOT VULNERABLE ]  -  socksipy-branch.googlecode.com
+[ NOT VULNERABLE ]  -  sites.google.com
+[ NOT VULNERABLE ]  -  python-wrap.readthedocs.io
+[ HTTP ERROR ]  -  some-site.ca
+[ NOT VULNERABLE ]  -  softwarefactory-project.io
+[ NOT VULNERABLE ]  -  sokol-archive.blockscout.com
+[ NOT VULNERABLE ]  -  someserver.org
+[ NOT VULNERABLE ]  -  sorl-thumbnail.googlecode.com
+[ HTTP ERROR ]  -  spotipy_redirect_uri
+[ HTTP ERROR ]  -  source.openplans.org
+[ HTTP ERROR ]  -  sql.telemetry.example.com
+[ NOT VULNERABLE ]  -  ssh.dev.azure.com
+[ NOT VULNERABLE ]  -  sk1project.org
+[ NOT VULNERABLE ]  -  stac-extensions.github.io
+[ NOT VULNERABLE ]  -  storage.googleapis.com
+[ NOT VULNERABLE ]  -  sourceforge.net
+[ NOT VULNERABLE ]  -  static.dpaw.wa.gov.au
+-----------------
+[ VULNERABLE ]  -  strawberry-graphql.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  stubgen.readthedocs.io
+[ NOT VULNERABLE ]  -  supernnova.readthedocs.io
+[ HTTP ERROR ]  -  supplemental.example.com
+[ NOT VULNERABLE ]  -  studiokatebetpapa.rf.gd
+[ NOT VULNERABLE ]  -  svn.apache.org
+[ HTTP ERROR ]  -  svn.effbot.org
+[ HTTP ERROR ]  -  svn.cac.washington.edu
+[ HTTP ERROR ]  -  svn.openplans.org
+[ NOT VULNERABLE ]  -  supplemental.com
+[ NOT VULNERABLE ]  -  swarms.apac.ai
+[ NOT VULNERABLE ]  -  szvsw.github.io
+[ HTTP ERROR ]  -  pypi-256045177368.d.codeartifact.eu-west-1.amazonaws.com
+[ HTTP ERROR ]  -  pypi.aartemenko.com
+[ HTTP ERROR ]  -  tarballs.kickstand-project.org
+[ HTTP ERROR ]  -  pypi.buildwithfern.com
+[ NOT VULNERABLE ]  -  test.pypi.org
+[ NOT VULNERABLE ]  -  templatedemo.readthedocs.io
+[ NOT VULNERABLE ]  -  testpypi.org
+[ NOT VULNERABLE ]  -  tg.gy
+[ NOT VULNERABLE ]  -  testzeus.com
+[ NOT VULNERABLE ]  -  thermobeacon-ble.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  thirdparty-packages.braincorporation.net  [ AWS/S3 ]
+[ DISCUSSION ]  -  [Issue #36](https://github.com/EdOverflow/can-i-take-over-xyz/issues/36)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  thermopro-ble.readthedocs.io
+[ NOT VULNERABLE ]  -  tic-tac-toe-game.readthedocs.io
+[ HTTP ERROR ]  -  tilloy.net
+[ NOT VULNERABLE ]  -  tarballs.openstack.org
+[ HTTP ERROR ]  -  pypi.novanta.com
+[ NOT VULNERABLE ]  -  tilt-ble.readthedocs.io
+[ NOT VULNERABLE ]  -  tmrc.mit.edu
+[ NOT VULNERABLE ]  -  thomascamminady.github.io
+[ NOT VULNERABLE ]  -  tlee08.github.io
+[ HTTP ERROR ]  -  tinyforge.org
+[ HTTP ERROR ]  -  tosv.byted.org
+[ HTTP ERROR ]  -  pyrai.xyz
+[ NOT VULNERABLE ]  -  tortoise-orm.readthedocs.io
+[ NOT VULNERABLE ]  -  tox.readthedocs.io
+[ NOT VULNERABLE ]  -  trac.transifex.org
+[ NOT VULNERABLE ]  -  trackarray-tensorstore.readthedocs.io
+[ NOT VULNERABLE ]  -  tomodachi.dev
+[ NOT VULNERABLE ]  -  trmnl_tides.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  turbo-sim.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  transifex.org
+[ NOT VULNERABLE ]  -  typogrify.googlecode.com
+[ NOT VULNERABLE ]  -  trac-hacks.org
+[ NOT VULNERABLE ]  -  turbogears.org
+[ NOT VULNERABLE ]  -  uart-devices.readthedocs.io
+[ NOT VULNERABLE ]  -  tukaani.org
+[ NOT VULNERABLE ]  -  unifi-discovery.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  unimelbmdap.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  us-central1-python.pkg.dev
+[ NOT VULNERABLE ]  -  unlicense.org
+[ NOT VULNERABLE ]  -  vault.centos.org
+[ NOT VULNERABLE ]  -  usb-devices.readthedocs.io
+[ NOT VULNERABLE ]  -  us-west1-python.pkg.dev
+[ NOT VULNERABLE ]  -  web-fishing.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  vectorinstitute.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ HTTP ERROR ]  -  vertexprotocol.com
+[ NOT VULNERABLE ]  -  webhook-to-fedora-messaging.readthedocs.io
+[ NOT VULNERABLE ]  -  www.aeracode.org
+[ NOT VULNERABLE ]  -  www.antlr3.org
+[ NOT VULNERABLE ]  -  www.attrs.org
+[ HTTP ERROR ]  -  wheels.myhloli.com
+[ NOT VULNERABLE ]  -  www.chia.net
+[ NOT VULNERABLE ]  -  www.colorado.edu
+[ NOT VULNERABLE ]  -  www.courtlistener.com
+[ NOT VULNERABLE ]  -  www.conpaas.eu
+[ NOT VULNERABLE ]  -  www.clinica.run
+[ NOT VULNERABLE ]  -  www.github.com
+[ NOT VULNERABLE ]  -  www.definedgesecurities.com
+[ NOT VULNERABLE ]  -  www.gooddata.com
+[ NOT VULNERABLE ]  -  www.dropbox.com
+[ NOT VULNERABLE ]  -  www.langtest.org
+[ NOT VULNERABLE ]  -  www.linkedin.com
+[ NOT VULNERABLE ]  -  www.leasingninja.io
+[ NOT VULNERABLE ]  -  www.daimi.au.dk
+[ NOT VULNERABLE ]  -  www.linux.it
+[ NOT VULNERABLE ]  -  www.nagare.org
+[ NOT VULNERABLE ]  -  www.mercurial-scm.org
+[ NOT VULNERABLE ]  -  www.producthunt.com
+[ NOT VULNERABLE ]  -  www.playingwithfusion.com
+[ NOT VULNERABLE ]  -  www.pygame.org
+[ HTTP ERROR ]  -  www.pycopia.net
+[ NOT VULNERABLE ]  -  www.redguides.com
+[ NOT VULNERABLE ]  -  www.repoze.org
+[ NOT VULNERABLE ]  -  www.pylonshq.com
+[ HTTP ERROR ]  -  signature-ml-packages-production-992382511592.d.codeartifact.eu-west-1.amazonaws.com
+[ NOT VULNERABLE ]  -  www.stardustsystems.net
+[ HTTP ERROR ]  -  www.swing.dj
+[ HTTP ERROR ]  -  www.todo.com
+[ NOT VULNERABLE ]  -  www.tornadoweb.org
+[ NOT VULNERABLE ]  -  www.structlog.org
+[ NOT VULNERABLE ]  -  www.reportlab.org
+[ NOT VULNERABLE ]  -  www.turbogears.org
+[ NOT VULNERABLE ]  -  www.tripo3d.ai
+[ NOT VULNERABLE ]  -  wxpython.org
+[ NOT VULNERABLE ]  -  xael.org
+[ NOT VULNERABLE ]  -  xdai-archive.blockscout.com
+[ NOT VULNERABLE ]  -  xiaomi-ble.readthedocs.io
+[ HTTP ERROR ]  -  storage.oceanum.io
+[ NOT VULNERABLE ]  -  yapgvb.googlecode.com
+[ NOT VULNERABLE ]  -  yalexs.readthedocs.io
+[ NOT VULNERABLE ]  -  ynesgbuoxmszjrkzazxz.supabase.co
+[ NOT VULNERABLE ]  -  www.ufrgs.br
+[ NOT VULNERABLE ]  -  zlib-fast.readthedocs.io
+-----------------
+[ VULNERABLE ]  -  yassun7010.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+-----------------
+[ VULNERABLE ]  -  ypilseong.github.io  [ Github ]
+[ DISCUSSION ]  -  [Issue #37](https://github.com/EdOverflow/can-i-take-over-xyz/issues/37) [Issue #68](https://github.com/EdOverflow/can-i-take-over-xyz/issues/68)
+[ DOCUMENTATION ]  -  
+-----------------
+[ NOT VULNERABLE ]  -  xmlsoft.org
+[ HTTP ERROR ]  -  svn.forge.pallavi.be
+[ NOT VULNERABLE ]  -  www.secdev.org
+[ NOT VULNERABLE ]  -  zotify.xyz
+[ HTTP ERROR ]  -  tafrigh.ieasybooks.com
+[ HTTP ERROR ]  -  tahweel.ieasybooks.com
+[ HTTP ERROR ]  -  ufpr.dl.sourceforge.net
+[ HTTP ERROR ]  -  www.lsc-group.phys.uwm.edu

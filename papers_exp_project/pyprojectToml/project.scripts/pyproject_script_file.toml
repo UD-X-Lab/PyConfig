@@ -1,0 +1,7 @@
+[project]
+name = "FieldHunter/mutator/real_script.py"
+version = "FieldHunter/mutator/real_script.py"
+dependencies = ["FieldHunter/mutator/real_script.py"]
+
+[project.scripts]
+heroku = "pre_commit.main:main"

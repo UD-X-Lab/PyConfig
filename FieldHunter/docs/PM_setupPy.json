@@ -1,0 +1,8 @@
+{  
+  "distclass": "A subclass of Distribution to use.",
+  "install_requires": "A string or list of strings specifying what other distributions need to be installed when this one is.  See the section on Declaring required dependency for details and examples of the format of this argument.",
+  "dependency_links": "Warning dependency_links is deprecated. It is not supported anymore by pip. A list of strings naming URLs to be searched when satisfying dependencies. These links will be used if needed to install packages specified by setup_requires or tests_require .  They will also be written into the egg’s metadata for use during install by tools that support them.",
+  "extras_require": "A dictionary mapping names of “extras” (optional features of your project) to strings or lists of strings specifying what other distributions must be installed to support those features.  See the section on Declaring required dependency for details and examples of the format of this argument.",
+  "scripts": "A list of strings specifying the standalone script files to be built and installed.",
+  "ext_modules": "A list of instances of setuptools.Extension providing the list of Python extensions to be built."
+}

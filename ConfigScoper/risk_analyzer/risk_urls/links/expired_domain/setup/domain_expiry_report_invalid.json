@@ -1,0 +1,190 @@
+[
+  {
+    "domain": "bitbucket.org",
+    "status": "active",
+    "expires_on": "2026-11-23T05:00:00+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.192.142.24",
+      "104.192.142.26",
+      "104.192.142.25"
+    ],
+    "dns_aaaa_records": [
+      "2401:1d80:321c:1:0:bbc:1:df7c",
+      "2401:1d80:321c:2:0:bbc:1:df7c",
+      "2401:1d80:321c::bbc:1:df7c"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": null,
+    "urls": [
+      "git+ssh://git@bitbucket.org/mathrioshka/slisonner.git#egg=slisonner"
+    ]
+  },
+  {
+    "domain": "ftp.tummy.com",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "ftp://ftp.tummy.com/pub/python-memcached/python-memcached-latest.tar.gz"
+    ]
+  },
+  {
+    "domain": "git.constantvzw.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "51.77.145.216"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "git+git://git.constantvzw.org/aa.rdfutils.git#egg=rdfutils-0.1"
+    ]
+  },
+  {
+    "domain": "github.com",
+    "status": "active",
+    "expires_on": "2026-10-09T18:20:50+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "140.82.114.4"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "git+git://github.com/keenlabs/protobuf.git#egg=protobuf-2.5.1beta",
+      "git+git://github.com/keenlabs/hamlish-jinja.git#egg=hamlish_jinja-2.5.1beta",
+      "git+git://github.com/google-research/scenic.git",
+      "git+git://github.com/daviddrysdale/python-phonenumbers.git@python3#egg=phonenumbers3k-5.6b1",
+      "git+git://github.com/mrjoes/flask-admin.git#egg=Flask-Admin-1.0.9.dev0",
+      "git+git://github.com/datalogai/recurrentshop.git",
+      "git+git://github.com/Netherdrake/steem-python",
+      "git+git://github.com/xupeng/pypcap.git@1.1#egg=pcap-1.1",
+      "git+git://github.com/veg/hppy.git@0.9.6#egg=hppy-0.9.6",
+      "git+git://github.com/veg/BioExt.git@0.17.2#egg=BioExt-0.17.2",
+      "git+git://github.com/hroncok/devassistant.git@806974e#egg=devassistant-0.10.1",
+      "git+git://git@github.com/kti/python-netfilterqueue@0.8.1#egg=NetfilterQueue-0.8.1",
+      "git+git://github.com/kvesteri/sqlalchemy-utils.git#egg=sqlalchemy-utils-0.21.0",
+      "git+git://github.com/irods/python-irodsclient.git",
+      "git+ssh://git@github.com:mvantellingen/python-zeep.git#egg=zeep=0.10.0.dev0",
+      "git+git://github.com/Theano/Theano.git#egg=Theano",
+      "git+ssh://git@github.com:XertroV/nvblib.git",
+      "git+git://github.com/LCOGT/fits2image.git#egg=fits2image",
+      "git://github.com/ajduncan/stagger.git@master#egg=stagger",
+      "git+git://github.com/yichen0831/opencc-python.git@master#egg=opencc-python",
+      "git+ssh://git@github.com:goodmami/xigt.git",
+      "git+git://github.com/veg/sklmrmr.git@0.2.0#egg=sklmrmr-0.2.0",
+      "git+git://github.com/attardi/wikiextractor.git@2a5e6aebc030c936c7afd0c349e6826c4d02b871",
+      "git+git://github.com/concordusapps/python-cmislib.git@topics/py3k#egg=cmislib-dev",
+      "git://github.com/rob-metalinkage/django-skosxl.git#egg=skosxl",
+      "git+git://github.com/Yelp/python-gearman.git#egg=gearman-dev",
+      "git+git://github.com/ajdavis/mongo-mockup-db#egg=mockupdb",
+      "git+git://github.com/akariv/jsontableschema-sql-py.git@feature/auto-index#egg=jsontableschema-sql",
+      "git+ssh://git@github.com:afrancis13/bungiesearch.git@%s#egg=bungiesearch",
+      "git://github.com/RDFLib/rdflib-zodb.git#egg=rdflib_zodb-1.0.0",
+      "git+git://github.com/weddige/pyaiml3.git#egg=PyAIML",
+      "git+ssh://git@github.com:richardkiss/pycoin.git",
+      "git+git://github.com/pdxacm/acmlib-py.git#egg=acmlib",
+      "git+git://github.com/bsidhom/python3-chardet.git@master#egg=chardet-dev",
+      "git://github.com/jmcarp/sciparse#egg=sciparse-0.1",
+      "git+git://github.com/oanda/oandapy@master#egg=oandapy",
+      "git+git://github.com/CodeScaleInc/django-gearman-commands.git#egg=django_gearman_commands-dev",
+      "git+git://github.com/lukasjuhrich/sqlalchemy_schemadisplay.git@master#egg=sqlalchemy-schemadisplay",
+      "git://github.com/williballenthin/python-registry@1a669eada6f7933798751e0cf482a9eb654c739b#egg=python-registry",
+      "git+git://github.com/niwibe/django-jinja.git@b0726105b251bed2b9a8f76e9dde4b4fefeb79ae#egg=django-jinja-b0726105b251bed2b9a8f76e9dde4b4fefeb79ae",
+      "git+git://github.com/inveniosoftware/workflow.git@e41299579501704b1486c72cc2509a9f82e63ea6#egg=workflow",
+      "git://github.com/philippWassibauer/templated-emails.git#egg=templated-emails",
+      "git+ssh://git@github.com/scraperwiki/scraperwiki-python#egg=scraperwiki",
+      "git+git://github.com/grayfall/scikit-bio@fastunifrac#egg=scikit-bio-0.5.1.dev0",
+      "git+git://github.com/bartvm/blocks.git#egg=blocks",
+      "git://github.com/zopefoundation/ZODB.git#egg=ZODB",
+      "git+git://github.com/Scylardor/tinys3#egg=tinys3",
+      "git+git://github.com/fxiao/DjangoUeditor",
+      "git+ssh://git@github.com:BotDevGroup/marvin.git#egg=marvinbot",
+      "git://github.com/pybrain/pybrain.git",
+      "git+git://github.com/chilldotcom/CQLEngine-Session#egg=CQLEngine-Session-0.1",
+      "git+git://github.com/nithyanandan/AstroUtils",
+      "git://github.com/NeuralEnsemble/libNeuroML.git#egg=libNeuroML",
+      "git+git://github.com/nromashchenko/scikit-bio@fastunifrac#egg=scikit-bio-0.5.1.dev0",
+      "git+git://github.com/illagrenan/color-printer.git#egg=color-printer",
+      "git+git://github.com/rail-berkeley/d4rl@c39eefd68d2f3277ca68e996a45ce1dd24e65625"
+    ]
+  },
+  {
+    "domain": "jira.wysegames.com",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "git+git://gitolite@jira.wysegames.com/cherry_common.git"
+    ]
+  },
+  {
+    "domain": "localhost",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "127.0.0.1"
+    ],
+    "dns_aaaa_records": [
+      "::1"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "file://localhost/{}/lib/nsx-policy-python-sdk/nsx_policy_python_sdk-2.3.0.0.3.13851140-py2.py3-none-any.whl",
+      "file://localhost/{}/lib/nsx-python-sdk/nsx_python_sdk-2.3.0.0.3.13851140-py2.py3-none-any.whl",
+      "file://localhost/{}/lib/nsx-vmc-aws-integration-python-sdk/nsx_vmc_aws_integration_python_sdk-2.3.0.0.3.13851140-py2.py3-none-any.whl",
+      "file://localhost/{}/lib/vapi-client-bindings/vapi_client_bindings-3.0.0-py2.py3-none-any.whl",
+      "file://localhost/{}/lib/vapi-common-client/vapi_common_client-2.12.0-py2.py3-none-any.whl",
+      "file://localhost/{}/lib/vapi-runtime/vapi_runtime-2.12.0-py2.py3-none-any.whl",
+      "file://localhost/{}/lib/nsx-vmc-policy-python-sdk/nsx_vmc_policy_python_sdk-2.3.0.0.3.13851140-py2.py3-none-any.whl",
+      "file://localhost/{}/lib/vmc-client-bindings/vmc_client_bindings-1.9.0-py2.py3-none-any.whl"
+    ]
+  },
+  {
+    "domain": "xmlsoft.org",
+    "status": "active",
+    "expires_on": "2026-09-15T13:03:57+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "149.202.84.84"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "ftp://xmlsoft.org/libxml2/python/libxml2-python-2.6.21.tar.gz"
+    ]
+  }
+]

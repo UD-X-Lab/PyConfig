@@ -1,0 +1,16 @@
+[project]
+name = "FieldHunter/mutator/real_script.py"
+version = "FieldHunter/mutator/real_script.py"
+
+[project.entry-points]
+[project.entry-points.yourplugin.plugins]
+hello = "your_package.plugin:HelloPlugin"
+
+[tool]
+[tool.setuptools]
+[tool.setuptools.package-dir]
+"" = "FieldHunter/mutator/real_script.py"
+
+[tool.setuptools.packages]
+[tool.setuptools.packages.find]
+where = ["FieldHunter/mutator/real_script.py"]

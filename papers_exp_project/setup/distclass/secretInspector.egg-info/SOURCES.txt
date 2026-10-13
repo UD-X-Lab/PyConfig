@@ -1,0 +1,5 @@
+setup.py
+secretInspector.egg-info/PKG-INFO
+secretInspector.egg-info/SOURCES.txt
+secretInspector.egg-info/dependency_links.txt
+secretInspector.egg-info/top_level.txt

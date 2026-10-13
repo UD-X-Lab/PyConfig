@@ -1,0 +1,201 @@
+[
+  {
+    "domain": "baywheels-data",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "s3://baywheels-data"
+    ]
+  },
+  {
+    "domain": "bitbucket.org",
+    "status": "active",
+    "expires_on": "2026-11-23T05:00:00+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.192.142.26",
+      "104.192.142.24",
+      "104.192.142.25"
+    ],
+    "dns_aaaa_records": [
+      "2401:1d80:321c:1:0:bbc:1:df7c",
+      "2401:1d80:321c:2:0:bbc:1:df7c",
+      "2401:1d80:321c::bbc:1:df7c"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": null,
+    "urls": [
+      "ssh://git@bitbucket.org/tata1mg/tortoise_wrapper.git",
+      "ssh://git@bitbucket.org/tata1mg/torpedo.git",
+      "ssh://git@bitbucket.org/tata1mg/cache_wrapper.git",
+      "ssh://git@bitbucket.org/tata1mg/commonutils.git",
+      "ssh://git@bitbucket.org/tata1mg/torpedo.git",
+      "ssh://git@bitbucket.org/tata1mg/tortoise_wrapper.git",
+      "ssh://git@bitbucket.org/tata1mg/commonutils.git",
+      "ssh://git@bitbucket.org/tata1mg/cache_wrapper.git"
+    ]
+  },
+  {
+    "domain": "capitalbikeshare-data",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "s3://capitalbikeshare-data"
+    ]
+  },
+  {
+    "domain": "cogo-sys-data",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "s3://cogo-sys-data"
+    ]
+  },
+  {
+    "domain": "cycling.data.tfl.gov.uk",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.16.98.104",
+      "104.16.97.104"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "s3://cycling.data.tfl.gov.uk/usage-stats",
+      "s3://cycling.data.tfl.gov.uk/usage-stats"
+    ]
+  },
+  {
+    "domain": "divvy-tripdata",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "s3://divvy-tripdata"
+    ]
+  },
+  {
+    "domain": "github.com",
+    "status": "active",
+    "expires_on": "2026-10-09T18:20:50+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "140.82.113.4"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "git://github.com/SuLab/wikicurie.git",
+      "git://github.com/pinax/pinax.git",
+      "git://github.com/parogers/pgu/",
+      "git://github.com/kpu/kenlm.git",
+      "git://github.com/sourcegraph/jedi.git",
+      "git://github.com/Arlefreak/django-taggit-serializer.git",
+      "git://github.com/wjt/tweepy",
+      "git://github.com/shomah4a/sphinxcontrib.youtube.git",
+      "git://github.com/sourcegraph/requirements-parser.git",
+      "git://github.com/LegoStormtroopr/sphinx-selenium-screenshots.git",
+      "git://github.com/jtauber/inflexion.git",
+      "git://github.com/Akhail/events.git",
+      "git://github.com/shomah4a/sphinxcontrib.youtube.git",
+      "git://github.com/parogers/pgu/",
+      "git://github.com/pinax/pinax.git",
+      "git://github.com/SuLab/wikicurie.git",
+      "git://github.com/wjt/tweepy",
+      "git://github.com/kpu/kenlm.git",
+      "git://github.com/Akhail/events.git",
+      "git://github.com/jtauber/inflexion.git",
+      "git://github.com/sourcegraph/jedi.git",
+      "git://github.com/sourcegraph/requirements-parser.git",
+      "git://github.com/Arlefreak/django-taggit-serializer.git",
+      "git://github.com/LegoStormtroopr/sphinx-selenium-screenshots.git",
+      "ssh://****@github.com/wtodom/flip7.git"
+    ]
+  },
+  {
+    "domain": "hubway-data",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "s3://hubway-data"
+    ]
+  },
+  {
+    "domain": "tripdata",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "s3://tripdata"
+    ]
+  }
+]

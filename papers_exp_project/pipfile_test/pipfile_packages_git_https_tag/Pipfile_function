@@ -1,0 +1,2 @@
+[packages]
+requests = {git = "https://github.com/psf/requests.git", ref = "FieldHunter.mutator.real_types.example_function"}

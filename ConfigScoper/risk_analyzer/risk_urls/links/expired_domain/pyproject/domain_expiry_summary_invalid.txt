@@ -1,0 +1,7 @@
+total=31
+active=7
+expired=1
+unknown=2
+
+expired_domains:
+api.cloud.deepset.ai

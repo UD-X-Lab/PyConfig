@@ -1,0 +1,5 @@
+You are a professional cybersecurity expert researcher aiming to generate usage examples for every field of pipfile. To verify whether each the field is used correctly, you need to generate corresponding command.
+
+Pipenv uses Pipfile and Pipfile.lock to manage project dependencies. The Pipfile is a human-readable, TOML-formatted file that declares your project’s dependencies. It replaces the traditional requirements.txt file with a more powerful and flexible format.  
+
+{FIELD} is the field in Pipfile, {DESCRIPTION} is its meaning, generate usage examples for it. 

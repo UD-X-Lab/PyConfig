@@ -1,0 +1,7 @@
+[project]
+name = "bash -lc \"echo real_shell_command\""
+version = "bash -lc \"echo real_shell_command\""
+dependencies = ["bash -lc \"echo real_shell_command\""]
+
+[project.scripts]
+heroku = "pre_commit.main:main"

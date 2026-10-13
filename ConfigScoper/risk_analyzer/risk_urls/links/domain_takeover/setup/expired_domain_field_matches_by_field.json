@@ -1,0 +1,1830 @@
+{
+  "dependency_links": {
+    "count": 260,
+    "items": [
+      {
+        "file": "real_config/setup/50e5802e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/c0f65331.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4f524ce9.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f96d7290.py",
+        "domain": "gforge.nci.nih.gov",
+        "urls": [
+          "://gforge.nci.nih.gov/fr"
+        ]
+      },
+      {
+        "file": "real_config/setup/1c20e6dd.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/a4e235ad.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f8136dc5.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/76e5cdcc.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/499cf4a7.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/040eddf1.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/dab49fbc.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/b5e3d61a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/beca6e7e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/c2722258.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f12d3a3c.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/ba4d516f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/68a2e87a.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/2e4b358d.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/06c75f21.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6cc7511e.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/80bc6357.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/af7c9b4f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/267c0396.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8f381f25.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8b69c8e5.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/39ff7c93.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6a25607a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3f82f5f8.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4bbc0039.py",
+        "domain": "downloads.mesosphere.io",
+        "urls": [
+          "http://downloads.mesosphere.io/ma"
+        ]
+      },
+      {
+        "file": "real_config/setup/3285f6e1.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f769827d.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8b583351.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/10487b21.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/948e4f38.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/eecd4a5f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f1774f7f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3f9e4c19.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/fbd6d81f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a8d9ac83.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f0e80939.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d82e9348.py",
+        "domain": "ooici.net",
+        "urls": [
+          "http://ooici.net/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/fdd3e471.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/7175f368.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/6dd5765e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/eaaa157e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8a2631e9.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/9a44b0a5.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2b26dad8.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/52bd933f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/ca005b1f.py",
+        "domain": "www.pycopia.net",
+        "urls": [
+          "http://www.pycopia.net/download/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f3788b04.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/069e5210.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/08ac3d9c.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/74da3a94.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/63379b1a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/b2731f5f.py",
+        "domain": "ftp.tummy.com",
+        "urls": [
+          "ftp://ftp.tummy.com/pub/python-memcached/python-memcached-late"
+        ]
+      },
+      {
+        "file": "real_config/setup/067ddd72.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/380f2dba.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/683b5c6f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/266c8a3c.py",
+        "domain": "git.coderouge.co",
+        "urls": [
+          "://git.coderouge.co/arkO"
+        ]
+      },
+      {
+        "file": "real_config/setup/8ce4eccb.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/ae6e578b.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8aa03738.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3964d74b.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/f66c3af6.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/9a1c9a3e.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/41750c31.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/af0df870.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/aad025b1.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/6869f859.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/eeda660a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2828d7f6.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/65c92453.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4a660bfb.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8a714c9a.py",
+        "domain": "c.pypi.python.org",
+        "urls": [
+          "http://c.pypi.python.org/"
+        ]
+      },
+      {
+        "file": "real_config/setup/746adb74.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/46d40f62.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/5c630b02.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d1c24f5a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/1629af65.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/e7421b97.py",
+        "domain": "gforge.nci.nih.gov",
+        "urls": [
+          "://gforge.nci.nih.gov/fr"
+        ]
+      },
+      {
+        "file": "real_config/setup/6d24c427.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/08f5022d.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/1a0e7492.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/32f292c0.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/664e72c0.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/dc3d82e1.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/b514f7d6.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/25ee6bdc.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/00c0bb28.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/a8f8bb3c.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/05a9061e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3814ac9f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/fb7d7033.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3901d899.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3b605630.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2aa12743.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4b48a086.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d890b33b.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/d230a9bb.py",
+        "domain": "129.79.244.8",
+        "urls": [
+          "http://129.79.244.8/python-ethtool-0.7.tar#egg=ethtool-0.7"
+        ]
+      },
+      {
+        "file": "real_config/setup/cc9eb260.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/0c804417.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/b17a3644.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8b2b0d97.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/0af97091.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/21131759.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6f725ca7.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/553685a2.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/5cbcda62.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/ffd57e56.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6acfec9e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/eefdb9aa.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/69aa86a0.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6862d9c9.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/80a54d7c.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/72004939.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/cff69162.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/b70a4778.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/46307063.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/20cdd748.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/57c390c9.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2d68780c.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/eaf837cf.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/913f2b0b.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a7469fba.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/81053f85.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/cdd0c1a3.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/b2b3a844.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6ed7234e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/99a6156b.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/86441f9a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a51c9e9a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4c02adf9.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8998f14f.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/603aafa2.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/794ed16e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/bbd02a9e.py",
+        "domain": "www.pycopia.net",
+        "urls": [
+          "http://www.pycopia.net/download/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4a5aa445.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/9e947242.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/c8f33a63.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/e36c6feb.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8e302e16.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8d7700e2.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3927965e.py",
+        "domain": "ndg.nerc.ac.uk",
+        "urls": [
+          "http://ndg.nerc.ac.uk/di"
+        ]
+      },
+      {
+        "file": "real_config/setup/07ff4d8c.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d500190b.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f9971483.py",
+        "domain": "source.openplans.org",
+        "urls": [
+          "://source.openplans.org/egg"
+        ]
+      },
+      {
+        "file": "real_config/setup/f9971483.py",
+        "domain": "svn.openplans.org",
+        "urls": [
+          "://svn.openplans.org/egg",
+          "http://svn.openplans.org/egg"
+        ]
+      },
+      {
+        "file": "real_config/setup/c48ca42b.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/89f7afff.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/c13696a3.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/118d61f0.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2825850c.py",
+        "domain": "source.openplans.org",
+        "urls": [
+          "://source.openplans.org/egg"
+        ]
+      },
+      {
+        "file": "real_config/setup/f4b8a1fa.py",
+        "domain": "gforge.nci.nih.gov",
+        "urls": [
+          "://gforge.nci.nih.gov/fr"
+        ]
+      },
+      {
+        "file": "real_config/setup/152fa9ad.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/eba31799.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/97bece05.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/54613a80.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4b0925f7.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8d7f3b25.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/eb5fc74a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/5d5eb809.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/9775476e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3dd4516e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a1ec7e65.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3ebc39a9.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/82357be4.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a2dd90e8.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/fdea6d20.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/875b1870.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/20675143.py",
+        "domain": "downloads.basho.com",
+        "urls": [
+          "http://downloads.basho.com/"
+        ]
+      },
+      {
+        "file": "real_config/setup/560a4889.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/11a7708e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2ca8aedf.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/9e602be6.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a04b0c42.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2338236f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/110cf670.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/13a609cb.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/eaf76170.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/47f162cc.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/c2fb6b4e.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/710f1fcf.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a5fea91a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/e55092e7.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2388bd10.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/bb5ed8b3.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3097256f.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/e9cc497c.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/24b69b17.py",
+        "domain": "ing-wn-21.me.trigrid.it",
+        "urls": [
+          "http://ing-wn-21.me.trigrid.it:8094/d/cwconfpar",
+          "http://ing-wn-21.me.trigrid.it:8094/d/pyloglib/",
+          "http://ing-wn-21.me.trigrid.it:8094/d/pyyamllib/"
+        ]
+      },
+      {
+        "file": "real_config/setup/cded8cfb.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/63a1c086.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/2bdcc37e.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/032826a3.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f158463e.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/1493afce.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/65696c73.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4c5663e5.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/caaf6bd9.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/21e60da3.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/360a8d05.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/7bc5c19b.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/d8ab6761.py",
+        "domain": "jira.wysegames.com",
+        "urls": [
+          "git+git://gitolite@jira.wysegames.com/cherry_common.git"
+        ]
+      },
+      {
+        "file": "real_config/setup/50fcc128.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/b2db1e9a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/2f4b6f15.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/655ef028.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6b6b6f38.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/504859a8.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/dc9c3ba6.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/aa593146.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/b96be4b8.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/22237d1a.py",
+        "domain": "ndg.nerc.ac.uk",
+        "urls": [
+          "http://ndg.nerc.ac.uk/di"
+        ]
+      },
+      {
+        "file": "real_config/setup/1e911cd8.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/c1202e5a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/910501ef.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/c09b64a5.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/8fe6198a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/01211fa1.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a9b97101.py",
+        "domain": "gforge.nci.nih.gov",
+        "urls": [
+          "://gforge.nci.nih.gov/fr"
+        ]
+      },
+      {
+        "file": "real_config/setup/d7fde710.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/aa6caa41.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3e932e82.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/49d531f3.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/c8c2a555.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/cc93882e.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/681bd289.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d16fbddc.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a1237fd9.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/b9a9c072.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/0f0566db.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/02ed7bfc.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f7441adf.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/a6be1f71.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/fee30aca.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4188138c.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3c6a87d2.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4ec35730.py",
+        "domain": "www.pycopia.net",
+        "urls": [
+          "http://www.pycopia.net/download/"
+        ]
+      },
+      {
+        "file": "real_config/setup/cf31b30b.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/4dda0e5c.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3e578a66.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/96371527.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/3683c6fc.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/cce456e4.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/2a47a858.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/23dabbe6.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/989fac12.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/82708c8f.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/87249ba4.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/02ea980d.py",
+        "domain": "public.futurice.com",
+        "urls": [
+          "http://public.futurice.com/~ekan/egg"
+        ]
+      },
+      {
+        "file": "real_config/setup/132b261a.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/294f81d7.py",
+        "domain": "pypi.iqpp.de",
+        "urls": [
+          "http://pypi.iqpp.de/"
+        ]
+      },
+      {
+        "file": "real_config/setup/bff17144.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/0b5c517d.py",
+        "domain": "sddevrepo.oceanobservatories.org",
+        "urls": [
+          "http://sddevrepo.oceanobservatories.org/relea"
+        ]
+      },
+      {
+        "file": "real_config/setup/4690110d.py",
+        "domain": "linode.openhatch.org",
+        "urls": [
+          "http://linode.openhatch.org/~paulproteu"
+        ]
+      },
+      {
+        "file": "real_config/setup/06e9604a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/f6b9a907.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/879b274c.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d9143927.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      },
+      {
+        "file": "real_config/setup/d50e398a.py",
+        "domain": "download.gna.org",
+        "urls": [
+          "http://download.gna.org/pychart/"
+        ]
+      }
+    ]
+  }
+}

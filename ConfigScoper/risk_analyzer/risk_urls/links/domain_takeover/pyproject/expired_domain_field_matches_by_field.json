@@ -1,0 +1,1940 @@
+{
+  "tool.poetry.homepage": {
+    "count": 34,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "homepage.example.com",
+        "urls": [
+          "://homepage.example.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_fedora-infra_bodhi_develop_bodhi-server_pyproject.toml",
+        "domain": "bodhi.fedoraproject.rog",
+        "urls": [
+          "://bodhi.fedoraproject.rog"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_PlaidWeb_Publ_main_pyproject.toml",
+        "domain": "plaidweb.site",
+        "urls": [
+          "://publ.plaidweb.site/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_PlaidWeb_Publ_main_pyproject.toml",
+        "domain": "publ.plaidweb.site",
+        "urls": [
+          "://publ.plaidweb.site/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/fedora-infra_bodhi_develop_bodhi-server_pyproject.toml",
+        "domain": "bodhi.fedoraproject.rog",
+        "urls": [
+          "://bodhi.fedoraproject.rog"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_AsherCalloway_Asher-Calloway_main_pyproject.toml",
+        "domain": "docs.ell.so",
+        "urls": [
+          "://docs.ell.so"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_swing-collection_swing-hello_dev_pyproject.toml",
+        "domain": "www.swing.dj",
+        "urls": [
+          "://www.swing.dj"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/recrm_ArchiveTools_master_pyproject.toml",
+        "domain": "blog.ak-rc.net",
+        "urls": [
+          "://blog.ak-rc.net/2022/06/warc-extractor-update/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Orion-Intelligence_Orion-Intelligence_trusted-main_pyproject.toml",
+        "domain": "orion.genesistechnologies.org",
+        "urls": [
+          "://orion.genesistechnologies.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_blockchiansea_nchain-blockchain_main_pyproject.toml",
+        "domain": "ext9.org",
+        "urls": [
+          "://ext9.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_tomgxz_Blackbook-Marketplace_main_pyproject.toml",
+        "domain": "blackbook-marketplace.tomgxz.repl.co",
+        "urls": [
+          "://blackbook-marketplace.tomgxz.repl.co/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_swing-collection_swing-cookie_dev_pyproject.toml",
+        "domain": "www.swing.dj",
+        "urls": [
+          "://www.swing.dj"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_PlaidWeb_Authl_main_pyproject.toml",
+        "domain": "plaidweb.site",
+        "urls": [
+          "://plaidweb.site/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_BrainLesion_PeTu_main_pyproject.toml",
+        "domain": "www.todo.com",
+        "urls": [
+          "://www.TODO.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/DavidCain_find-great-books_master_pyproject.toml",
+        "domain": "biblo.dcain.me",
+        "urls": [
+          "://biblo.dcain.me"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_pantunes_exchange-radar_main_pyproject.toml",
+        "domain": "exchangeradar.tech",
+        "urls": [
+          "://exchangeradar.tech"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hirune924_ell_main_pyproject.toml",
+        "domain": "docs.ell.so",
+        "urls": [
+          "://docs.ell.so"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_BluetangAI_Bluetang_main_pyproject.toml",
+        "domain": "bluetang.ai",
+        "urls": [
+          "://Bluetang.ai"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/1c2d2ded.toml",
+        "domain": "blog.ak-rc.net",
+        "urls": [
+          "://blog.ak-rc.net/2022/06/warc-extractor-update/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a3a041c5.toml",
+        "domain": "www.swing.dj",
+        "urls": [
+          "://www.swing.dj"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e0b04b95.toml",
+        "domain": "bluetang.ai",
+        "urls": [
+          "://Bluetang.ai"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/09872d22.toml",
+        "domain": "docs.ell.so",
+        "urls": [
+          "://docs.ell.so"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/1f942e8d.toml",
+        "domain": "exchangeradar.tech",
+        "urls": [
+          "://exchangeradar.tech"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/d621b8b2.toml",
+        "domain": "ext9.org",
+        "urls": [
+          "://ext9.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/882e0a04.toml",
+        "domain": "orion.genesistechnologies.org",
+        "urls": [
+          "://orion.genesistechnologies.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e9ac932b.toml",
+        "domain": "plaidweb.site",
+        "urls": [
+          "://plaidweb.site/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/10f06ee2.toml",
+        "domain": "blackbook-marketplace.tomgxz.repl.co",
+        "urls": [
+          "://blackbook-marketplace.tomgxz.repl.co/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/f1f50efe.toml",
+        "domain": "biblo.dcain.me",
+        "urls": [
+          "://biblo.dcain.me"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/47bb257e.toml",
+        "domain": "docs.ell.so",
+        "urls": [
+          "://docs.ell.so"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a47a0604.toml",
+        "domain": "www.todo.com",
+        "urls": [
+          "://www.TODO.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/0af8a14d.toml",
+        "domain": "bodhi.fedoraproject.rog",
+        "urls": [
+          "://bodhi.fedoraproject.rog"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/886e58f4.toml",
+        "domain": "plaidweb.site",
+        "urls": [
+          "://publ.plaidweb.site/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/886e58f4.toml",
+        "domain": "publ.plaidweb.site",
+        "urls": [
+          "://publ.plaidweb.site/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/549ed389.toml",
+        "domain": "www.swing.dj",
+        "urls": [
+          "://www.swing.dj"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.repository": {
+    "count": 5,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "repository.example.com",
+        "urls": [
+          "://repository.example.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_podaac_hitide-backfill-lambdas_develop_pyproject.toml",
+        "domain": "github.nasa.gov",
+        "urls": [
+          "://github.nasa.gov/podaac/hitide-backfill-lambda"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_BrainLesion_PeTu_main_pyproject.toml",
+        "domain": "www.todo.com",
+        "urls": [
+          "://www.TODO.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/05ae18e8.toml",
+        "domain": "github.nasa.gov",
+        "urls": [
+          "://github.nasa.gov/podaac/hitide-backfill-lambda"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a47a0604.toml",
+        "domain": "www.todo.com",
+        "urls": [
+          "://www.TODO.com"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.documentation": {
+    "count": 13,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "docs.example.com",
+        "urls": [
+          "://docs.example.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_VantageDiscovery_vantage-sdk-python_develop_pyproject.toml",
+        "domain": "docs.vantagediscovery.com",
+        "urls": [
+          "://docs.vantagediscovery.com/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_swing-collection_swing-hello_dev_pyproject.toml",
+        "domain": "hello.swing.dj",
+        "urls": [
+          "://hello.swing.dj"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/ucoin-io_ucoin-python-api_master_pyproject.toml",
+        "domain": "clients.duniter.io",
+        "urls": [
+          "://clients.duniter.io/python/duniterpy/index.html"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_swing-collection_swing-cookie_dev_pyproject.toml",
+        "domain": "cookie.swing.dj",
+        "urls": [
+          "://cookie.swing.dj"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_BrainLesion_PeTu_main_pyproject.toml",
+        "domain": "www.todo.com",
+        "urls": [
+          "://www.TODO.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/duniter_duniter-python-api_master_pyproject.toml",
+        "domain": "clients.duniter.io",
+        "urls": [
+          "://clients.duniter.io/python/duniterpy/index.html"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/9ff7a845.toml",
+        "domain": "clients.duniter.io",
+        "urls": [
+          "://clients.duniter.io/python/duniterpy/index.html"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a3a041c5.toml",
+        "domain": "hello.swing.dj",
+        "urls": [
+          "://hello.swing.dj"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/46a76334.toml",
+        "domain": "clients.duniter.io",
+        "urls": [
+          "://clients.duniter.io/python/duniterpy/index.html"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/d409ee43.toml",
+        "domain": "docs.vantagediscovery.com",
+        "urls": [
+          "://docs.vantagediscovery.com/doc"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a47a0604.toml",
+        "domain": "www.todo.com",
+        "urls": [
+          "://www.TODO.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/549ed389.toml",
+        "domain": "cookie.swing.dj",
+        "urls": [
+          "://cookie.swing.dj"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.urls": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "another.example.com",
+        "urls": [
+          "://another.example.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "first.example.com",
+        "urls": [
+          "://first.example.com"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source": {
+    "count": 31,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "default.example.com",
+        "urls": [
+          "://default.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "explicit.example.com",
+        "urls": [
+          "://explicit.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "secondary.example.com",
+        "urls": [
+          "://secondary.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "supplemental.example.com",
+        "urls": [
+          "://supplemental.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_supplemental_sources_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_pep_621_pyproject.toml",
+        "domain": "supplemental.example.com",
+        "urls": [
+          "://supplemental.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_with_uppercase_package_name_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Cactus-Network_cactus-blockchain_main_pyproject.toml",
+        "domain": "pypi.cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_AustralianSynchrotron_mx-robot-library_main_pyproject.toml",
+        "domain": "pypi.asci.synchrotron.org.au",
+        "urls": [
+          "://pypi.asci.synchrotron.org.au/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_empty_table_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_target_make-python-devex_main_pyproject.toml",
+        "domain": "pypi.example.com",
+        "urls": [
+          "://pypi.example.com/pypi/example-repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_opsi-org_python-opsi-legacy_v4.3_pyproject.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hhru_frontik_master_pyproject.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+",
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_sources_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hhru_balancing-http-client_master_pyproject.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+",
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_sources_pypi_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_ingeniamc_ingenialink-python_master_pyproject.toml",
+        "domain": "pypi.ingenia",
+        "urls": [
+          "http://pypi.ingenia/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_genomics-dev_ukb-pret_main_pyproject.toml",
+        "domain": "artifactory.genomicsplc.com",
+        "urls": [
+          "://artifactory.genomicsplc.com/api/pypi/pypi-local/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_comments_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_dermatty_ABTEIM_main_pyproject.toml",
+        "domain": "btec.iv.at",
+        "urls": [
+          "http://btec.iv.at:8123"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_MeteoSwiss-APN_pyflexplot_main_pyproject.toml",
+        "domain": "hub.meteoswiss.ch",
+        "urls": [
+          "://hub.meteoswiss.ch/nexu"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/1d7dc6d9.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/2b6a6914.toml",
+        "domain": "pypi.example.com",
+        "urls": [
+          "://pypi.example.com/pypi/example-repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/157a5659.toml",
+        "domain": "btec.iv.at",
+        "urls": [
+          "http://btec.iv.at:8123"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/064cc15a.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+",
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/9fb78b17.toml",
+        "domain": "artifactory.genomicsplc.com",
+        "urls": [
+          "://artifactory.genomicsplc.com/api/pypi/pypi-local/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/83d6068d.toml",
+        "domain": "pypi.cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/fd6bf4d9.toml",
+        "domain": "hub.meteoswiss.ch",
+        "urls": [
+          "://hub.meteoswiss.ch/nexu"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/7b8b1a51.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+",
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/af3914f4.toml",
+        "domain": "pypi.asci.synchrotron.org.au",
+        "urls": [
+          "://pypi.asci.synchrotron.org.au/root/pypi/+"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source[1].url": {
+    "count": 14,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "secondary.example.com",
+        "urls": [
+          "://secondary.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_supplemental_sources_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_pep_621_pyproject.toml",
+        "domain": "supplemental.example.com",
+        "urls": [
+          "://supplemental.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Cactus-Network_cactus-blockchain_main_pyproject.toml",
+        "domain": "pypi.cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hhru_frontik_master_pyproject.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_sources_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hhru_balancing-http-client_master_pyproject.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_sources_pypi_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_ingeniamc_ingenialink-python_master_pyproject.toml",
+        "domain": "pypi.ingenia",
+        "urls": [
+          "http://pypi.ingenia/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_MeteoSwiss-APN_pyflexplot_main_pyproject.toml",
+        "domain": "hub.meteoswiss.ch",
+        "urls": [
+          "://hub.meteoswiss.ch/nexu"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/064cc15a.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/83d6068d.toml",
+        "domain": "pypi.cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/fd6bf4d9.toml",
+        "domain": "hub.meteoswiss.ch",
+        "urls": [
+          "://hub.meteoswiss.ch/nexu"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/7b8b1a51.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source[2].url": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "supplemental.example.com",
+        "urls": [
+          "://supplemental.example.com/"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source[3].url": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "explicit.example.com",
+        "urls": [
+          "://explicit.example.com/"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source[4].url": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "default.example.com",
+        "urls": [
+          "://default.example.com/"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source.url": {
+    "count": 32,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "default.example.com",
+        "urls": [
+          "://default.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "explicit.example.com",
+        "urls": [
+          "://explicit.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "secondary.example.com",
+        "urls": [
+          "://secondary.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_full_pyproject.toml",
+        "domain": "supplemental.example.com",
+        "urls": [
+          "://supplemental.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_supplemental_sources_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mkniewallner_migrate-to-uv_main_tests_fixtures_poetry_pep_621_pyproject.toml",
+        "domain": "supplemental.example.com",
+        "urls": [
+          "://supplemental.example.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_with_uppercase_package_name_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Cactus-Network_cactus-blockchain_main_pyproject.toml",
+        "domain": "pypi.cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_AustralianSynchrotron_mx-robot-library_main_pyproject.toml",
+        "domain": "pypi.asci.synchrotron.org.au",
+        "urls": [
+          "://pypi.asci.synchrotron.org.au/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_empty_table_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_target_make-python-devex_main_pyproject.toml",
+        "domain": "pypi.example.com",
+        "urls": [
+          "://pypi.example.com/pypi/example-repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_opsi-org_python-opsi-legacy_v4.3_pyproject.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hhru_frontik_master_pyproject.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+",
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_sources_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hhru_balancing-http-client_master_pyproject.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+",
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_manifest_parse_error_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_sources_pypi_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "://bar.baz/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_ingeniamc_ingenialink-python_master_pyproject.toml",
+        "domain": "pypi.ingenia",
+        "urls": [
+          "http://pypi.ingenia/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_genomics-dev_ukb-pret_main_pyproject.toml",
+        "domain": "artifactory.genomicsplc.com",
+        "urls": [
+          "://artifactory.genomicsplc.com/api/pypi/pypi-local/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_comments_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_dermatty_ABTEIM_main_pyproject.toml",
+        "domain": "btec.iv.at",
+        "urls": [
+          "http://btec.iv.at:8123"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_MeteoSwiss-APN_pyflexplot_main_pyproject.toml",
+        "domain": "hub.meteoswiss.ch",
+        "urls": [
+          "://hub.meteoswiss.ch/nexu"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/1d7dc6d9.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/2b6a6914.toml",
+        "domain": "pypi.example.com",
+        "urls": [
+          "://pypi.example.com/pypi/example-repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/157a5659.toml",
+        "domain": "btec.iv.at",
+        "urls": [
+          "http://btec.iv.at:8123"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/064cc15a.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+",
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/9fb78b17.toml",
+        "domain": "artifactory.genomicsplc.com",
+        "urls": [
+          "://artifactory.genomicsplc.com/api/pypi/pypi-local/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/83d6068d.toml",
+        "domain": "pypi.cactus-network.net",
+        "urls": [
+          "://pypi.cactus-network.net/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/fd6bf4d9.toml",
+        "domain": "hub.meteoswiss.ch",
+        "urls": [
+          "://hub.meteoswiss.ch/nexu"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/7b8b1a51.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/hh/hhdev/+",
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/af3914f4.toml",
+        "domain": "pypi.asci.synchrotron.org.au",
+        "urls": [
+          "://pypi.asci.synchrotron.org.au/root/pypi/+"
+        ]
+      }
+    ]
+  },
+  "tool.uv.allow-insecure-host": {
+    "count": 4,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_pylhc_omc3_master_pyproject.toml",
+        "domain": "acc-py-repo.cern.ch",
+        "urls": [
+          "acc-py-repo.cern.ch"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Baltic-RCC_EMF_main_pyproject.toml",
+        "domain": "artifactory.elering.sise",
+        "urls": [
+          "artifactory.elering.sise"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/fb76bb89.toml",
+        "domain": "artifactory.elering.sise",
+        "urls": [
+          "artifactory.elering.sise"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/274b991b.toml",
+        "domain": "acc-py-repo.cern.ch",
+        "urls": [
+          "acc-py-repo.cern.ch"
+        ]
+      }
+    ]
+  },
+  "tool.uv.index": {
+    "count": 12,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_pylhc_omc3_master_pyproject.toml",
+        "domain": "acc-py-repo.cern.ch",
+        "urls": [
+          "http://acc-py-repo.cern.ch/repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_XPU-Forces_xpu_graph_master_pyproject.toml",
+        "domain": "bytedpypi.byted.org",
+        "urls": [
+          "://bytedpypi.byted.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_univention_nubus-directory-importer_main_pyproject.toml",
+        "domain": "git.knut.univention.de",
+        "urls": [
+          "://git.knut.univention.de/api/v4/project"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Baltic-RCC_EMF_main_pyproject.toml",
+        "domain": "artifactory.elering.sise",
+        "urls": [
+          "://artifactory.elering.sise/artifactory/api/pypi/rcc-pypi/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_moreh-dev_moai-examples_main_pyproject.toml",
+        "domain": "artifact.artifact.svc.cluster.local",
+        "urls": [
+          "http://artifact.artifact.svc.cluster.local/whl/ucx1.14.1/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_humankernel_rag_main_pyproject.toml",
+        "domain": "nexus.prod.uci.cu",
+        "urls": [
+          "http://nexus.prod.uci.cu/repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e7e9bc58.toml",
+        "domain": "artifact.artifact.svc.cluster.local",
+        "urls": [
+          "http://artifact.artifact.svc.cluster.local/whl/ucx1.14.1/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/c457dc4f.toml",
+        "domain": "bytedpypi.byted.org",
+        "urls": [
+          "://bytedpypi.byted.org/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/612d700d.toml",
+        "domain": "nexus.prod.uci.cu",
+        "urls": [
+          "http://nexus.prod.uci.cu/repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/56b39b64.toml",
+        "domain": "git.knut.univention.de",
+        "urls": [
+          "://git.knut.univention.de/api/v4/project"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/fb76bb89.toml",
+        "domain": "artifactory.elering.sise",
+        "urls": [
+          "://artifactory.elering.sise/artifactory/api/pypi/rcc-pypi/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/274b991b.toml",
+        "domain": "acc-py-repo.cern.ch",
+        "urls": [
+          "http://acc-py-repo.cern.ch/repo"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.authors": {
+    "count": 10,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_christopherpickering_pre-commit-hooks_master_pyproject.toml",
+        "domain": "going.bg>",
+        "urls": [
+          "topher@going.bg>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_christopherpickering_pylint-per-file-ignores_master_pyproject.toml",
+        "domain": "going.bg>",
+        "urls": [
+          "topher@going.bg>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_christopherpickering_joshuaproject-linkchecker_master_pyproject.toml",
+        "domain": "going.bg>",
+        "urls": [
+          "://going.bg>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_blockchiansea_nchain-blockchain_main_pyproject.toml",
+        "domain": "ext9.org",
+        "urls": [
+          "Hello <hello@ext9.org>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_BluetangAI_Bluetang_main_pyproject.toml",
+        "domain": "bluetang.ai",
+        "urls": [
+          "e ent@Bluetang.ai>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/64cbd040.toml",
+        "domain": "going.bg>",
+        "urls": [
+          "topher@going.bg>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e0b04b95.toml",
+        "domain": "bluetang.ai",
+        "urls": [
+          "e ent@Bluetang.ai>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/48300c15.toml",
+        "domain": "going.bg>",
+        "urls": [
+          "topher@going.bg>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/d621b8b2.toml",
+        "domain": "ext9.org",
+        "urls": [
+          "Hello <hello@ext9.org>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/fe846963.toml",
+        "domain": "going.bg>",
+        "urls": [
+          "://going.bg>"
+        ]
+      }
+    ]
+  },
+  "tool.briefcase.url": {
+    "count": 7,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_CoGian_mininio_diet_main_pyproject.toml",
+        "domain": "kgiantsios.com",
+        "urls": [
+          "://kgiantsios.com/mininio_diet"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_kwgi_mininio_diet_main_pyproject.toml",
+        "domain": "kgiantsios.com",
+        "urls": [
+          "://kgiantsios.com/mininio_diet"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_sachin-philip_Doom_main_pyproject.toml",
+        "domain": "labtocat.com",
+        "urls": [
+          "://labtocat.com/doomchat"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e4f8c663.toml",
+        "domain": "labtocat.com",
+        "urls": [
+          "://labtocat.com/doomchat"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/13217ccf.toml",
+        "domain": "kgiantsios.com",
+        "urls": [
+          "://kgiantsios.com/mininio_diet"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/001dfc3b.toml",
+        "domain": "labtocat.com",
+        "urls": [
+          "://labtocat.com/doomchat"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/f99b4dfe.toml",
+        "domain": "kgiantsios.com",
+        "urls": [
+          "://kgiantsios.com/mininio_diet"
+        ]
+      }
+    ]
+  },
+  "tool.uv.sources": {
+    "count": 4,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_XPU-Forces_xpu_graph_master_pyproject.toml",
+        "domain": "tosv.byted.org",
+        "urls": [
+          "://tosv.byted.org/obj/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_univention_ums-stack-data_main_pyproject.toml",
+        "domain": "git.knut.univention.de",
+        "urls": [
+          "://git.knut.univention.de/univention/cu"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/c457dc4f.toml",
+        "domain": "tosv.byted.org",
+        "urls": [
+          "://tosv.byted.org/obj/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/a0f921f3.toml",
+        "domain": "git.knut.univention.de",
+        "urls": [
+          "://git.knut.univention.de/univention/cu"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.description": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_OpenBB-finance_OpenBB_develop_openbb_platform_providers_imf_pyproject.toml",
+        "domain": "datahelp.imf.org",
+        "urls": [
+          "://datahelp.imf.org/knowledgeba"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.source[0].url": {
+    "count": 18,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_with_uppercase_package_name_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_AustralianSynchrotron_mx-robot-library_main_pyproject.toml",
+        "domain": "pypi.asci.synchrotron.org.au",
+        "urls": [
+          "://pypi.asci.synchrotron.org.au/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_empty_table_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_target_make-python-devex_main_pyproject.toml",
+        "domain": "pypi.example.com",
+        "urls": [
+          "://pypi.example.com/pypi/example-repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_opsi-org_python-opsi-legacy_v4.3_pyproject.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hhru_frontik_master_pyproject.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hhru_balancing-http-client_master_pyproject.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_genomics-dev_ukb-pret_main_pyproject.toml",
+        "domain": "artifactory.genomicsplc.com",
+        "urls": [
+          "://artifactory.genomicsplc.com/api/pypi/pypi-local/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_poetry_comments_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_dermatty_ABTEIM_main_pyproject.toml",
+        "domain": "btec.iv.at",
+        "urls": [
+          "http://btec.iv.at:8123"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/1d7dc6d9.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/2b6a6914.toml",
+        "domain": "pypi.example.com",
+        "urls": [
+          "://pypi.example.com/pypi/example-repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/157a5659.toml",
+        "domain": "btec.iv.at",
+        "urls": [
+          "http://btec.iv.at:8123"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/064cc15a.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/9fb78b17.toml",
+        "domain": "artifactory.genomicsplc.com",
+        "urls": [
+          "://artifactory.genomicsplc.com/api/pypi/pypi-local/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/7b8b1a51.toml",
+        "domain": "devpi.pyn.ru",
+        "urls": [
+          "://devpi.pyn.ru/root/pypi/+"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/af3914f4.toml",
+        "domain": "pypi.asci.synchrotron.org.au",
+        "urls": [
+          "://pypi.asci.synchrotron.org.au/root/pypi/+"
+        ]
+      }
+    ]
+  },
+  "tool.flit.metadata": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/ShahriyarR_MySQL-AutoXtraBackup_master_pyproject.toml",
+        "domain": "autoxtrabackup.azepug.az",
+        "urls": [
+          "://autoxtrabackup.azepug.az/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/30a3c35f.toml",
+        "domain": "autoxtrabackup.azepug.az",
+        "urls": [
+          "://autoxtrabackup.azepug.az/"
+        ]
+      }
+    ]
+  },
+  "tool.pytest_env.REDASH_API_QUERY_URL": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mozilla-services_remote-settings-lambdas_master_pyproject.toml",
+        "domain": "sql.telemetry.example.com",
+        "urls": [
+          "://sql.telemetry.example.com/api/querie"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/b8716bc9.toml",
+        "domain": "sql.telemetry.example.com",
+        "urls": [
+          "://sql.telemetry.example.com/api/querie"
+        ]
+      }
+    ]
+  },
+  "tool.pytest_env.SENTRY_DSN": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_mozilla-services_remote-settings-lambdas_master_pyproject.toml",
+        "domain": "sentry.example.com",
+        "urls": [
+          "ecret@sentry.example.com/001"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/b8716bc9.toml",
+        "domain": "sentry.example.com",
+        "urls": [
+          "ecret@sentry.example.com/001"
+        ]
+      }
+    ]
+  },
+  "tool.cibuildwheel.linux": {
+    "count": 14,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_gadial_qiskit-aer_master_pyproject.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_SeaOtocinclus_projectaria_tools_main_pyproject.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "eurl=http://mirror.centos.org|ba",
+          "http://mirror.centos.org|ba"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_SeaOtocinclus_projectaria_tools_main_pyproject.toml",
+        "domain": "vault.centos.org|g",
+        "urls": [
+          "eurl=http://vault.centos.org|g"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_ubc-systopia_gosdt-guesses_main_pyproject.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_PetrosPoly_NILOA_main_pyproject.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "eurl=http://mirror.centos.org|ba",
+          "http://mirror.centos.org|ba"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_PetrosPoly_NILOA_main_pyproject.toml",
+        "domain": "vault.centos.org|g",
+        "urls": [
+          "eurl=http://vault.centos.org|g"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Qiskit_qiskit-aer_main_pyproject.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/9ab6b681.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/3031b355.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "eurl=http://mirror.centos.org|ba",
+          "http://mirror.centos.org|ba"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/3031b355.toml",
+        "domain": "vault.centos.org|g",
+        "urls": [
+          "eurl=http://vault.centos.org|g"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/72348635.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "eurl=http://mirror.centos.org|ba",
+          "http://mirror.centos.org|ba"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/72348635.toml",
+        "domain": "vault.centos.org|g",
+        "urls": [
+          "eurl=http://vault.centos.org|g"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/c7264338.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/d6705691.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      }
+    ]
+  },
+  "tool.cibuildwheel.overrides": {
+    "count": 4,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_gadial_qiskit-aer_master_pyproject.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_Qiskit_qiskit-aer_main_pyproject.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/c7264338.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/d6705691.toml",
+        "domain": "mirror.centos.org",
+        "urls": [
+          "/mirror.centos.org/vault.cento"
+        ]
+      }
+    ]
+  },
+  "tool.uv.extra-index-url": {
+    "count": 8,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_opsi-org_opsi-utils_v4.3_pyproject.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_opsi-org_opsiclientd_v4.3_pyproject.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_NCI-GDC_aliquot-maf-tools_main_pyproject.toml",
+        "domain": "nexus.osdc.io",
+        "urls": [
+          "://nexus.osdc.io/repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_opsi-org_python-opsi-common_v4.3_pyproject.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/7caf67ee.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/42f94afb.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/c0601b92.toml",
+        "domain": "nexus.osdc.io",
+        "urls": [
+          "://nexus.osdc.io/repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/9686d0f5.toml",
+        "domain": "pypi.uib.gmbh",
+        "urls": [
+          "://pypi.uib.gmbh/"
+        ]
+      }
+    ]
+  },
+  "tool.poetry.scripts": {
+    "count": 4,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_python-poetry_poetry-plugin-export_main_tests_fixtures_simple_project_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "fuz.foo:bar.baz"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_simple_project_legacy_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "fuz.foo:bar.baz"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_with_multiple_dist_dir_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "fuz.foo:bar.baz"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/48e218f5.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "fuz.foo:bar.baz"
+        ]
+      }
+    ]
+  },
+  "table.tool.poetry": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_manifest_parse_error_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      }
+    ]
+  },
+  "table.tool.poetry.dependencies": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_semgrep_semgrep_develop_cli_tests_default_e2e_targets_dependency_aware_manifest_parse_error_pyproject.toml",
+        "domain": "artifact.semgrep.com",
+        "urls": [
+          "://artifact.semgrep.com/"
+        ]
+      }
+    ]
+  },
+  "tool.liccheck.authorized_licenses": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_fedora-infra_discourse2fedmsg_develop_pyproject.toml",
+        "domain": "unlicense.org>",
+        "urls": [
+          "Public Domain <http://unlicense.org>",
+          "http://unlicense.org>"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/2566fd4e.toml",
+        "domain": "unlicense.org>",
+        "urls": [
+          "Public Domain <http://unlicense.org>",
+          "http://unlicense.org>"
+        ]
+      }
+    ]
+  },
+  "tool.uv.pip": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_NCI-GDC_aliquot-maf-tools_main_pyproject.toml",
+        "domain": "nexus.osdc.io",
+        "urls": [
+          "://nexus.osdc.io/repo"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/c0601b92.toml",
+        "domain": "nexus.osdc.io",
+        "urls": [
+          "://nexus.osdc.io/repo"
+        ]
+      }
+    ]
+  },
+  "tool.pytest.ini_options": {
+    "count": 6,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_maykinmedia_open-api-framework_main_pyproject.toml",
+        "domain": "sentry.example.com",
+        "urls": [
+          "://public@sentry.example.com/1"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_RomeoDespres_lofi_main_pyproject.toml",
+        "domain": "spotipy_redirect_uri",
+        "urls": [
+          "SPOTIPY_REDIRECT_URI",
+          "SPOTIPY_REDIRECT_URI=http://",
+          "http://SPOTIPY_REDIRECT_URI"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject/mozilla-services_kinto-dist_main_pyproject.toml",
+        "domain": "settings-writer.prod.mozaws.net",
+        "urls": [
+          "://settings-writer.prod.mozaws.net/v1/admin"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/edac1830.toml",
+        "domain": "sentry.example.com",
+        "urls": [
+          "://public@sentry.example.com/1"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/62703839.toml",
+        "domain": "settings-writer.prod.mozaws.net",
+        "urls": [
+          "://settings-writer.prod.mozaws.net/v1/admin"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/18f3930f.toml",
+        "domain": "spotipy_redirect_uri",
+        "urls": [
+          "SPOTIPY_REDIRECT_URI",
+          "SPOTIPY_REDIRECT_URI=http://",
+          "http://SPOTIPY_REDIRECT_URI"
+        ]
+      }
+    ]
+  },
+  "tool.hatch.envs": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_deepset-ai_dc-custom-component-template_main_pyproject.toml",
+        "domain": "api.cloud.deepset.ai",
+        "urls": [
+          "://api.cloud.deepset.ai",
+          "://api.cloud.deepset.ai}}/api/v2/cu"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/1c39cd40.toml",
+        "domain": "api.cloud.deepset.ai",
+        "urls": [
+          "://api.cloud.deepset.ai",
+          "://api.cloud.deepset.ai}}/api/v2/cu"
+        ]
+      }
+    ]
+  },
+  "project.optional-dependencies": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_AustralianSynchrotron_mx3-beamline-library_main_pyproject.toml",
+        "domain": "bitbucket.synchrotron.org.au",
+        "urls": [
+          "://bitbucket.synchrotron.org.au/"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/2eabf990.toml",
+        "domain": "bitbucket.synchrotron.org.au",
+        "urls": [
+          "://bitbucket.synchrotron.org.au/"
+        ]
+      }
+    ]
+  },
+  "tool.briefcase.author_email": {
+    "count": 3,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_sachin-philip_Doom_main_pyproject.toml",
+        "domain": "labtocat.com",
+        "urls": [
+          "hello@labtocat.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/e4f8c663.toml",
+        "domain": "labtocat.com",
+        "urls": [
+          "hello@labtocat.com"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/001dfc3b.toml",
+        "domain": "labtocat.com",
+        "urls": [
+          "hello@labtocat.com"
+        ]
+      }
+    ]
+  },
+  "project.dependencies": {
+    "count": 2,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_harsha-mangena_meshdb_main_pyproject.toml",
+        "domain": "gitea.ksol.io",
+        "urls": [
+          "://gitea.ksol.io/karolyi/py3-validate-email#egg=@v1.0.9"
+        ]
+      },
+      {
+        "file": "/home/hello/finder/real_config/pyproject.new/1fd2f453.toml",
+        "domain": "gitea.ksol.io",
+        "urls": [
+          "://gitea.ksol.io/karolyi/py3-validate-email#egg=@v1.0.9"
+        ]
+      }
+    ]
+  },
+  "project.scripts": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_abn_poetry_main_tests_fixtures_simple_project_pyproject.toml",
+        "domain": "bar.baz",
+        "urls": [
+          "fuz.foo:bar.baz"
+        ]
+      }
+    ]
+  },
+  "tool.poe.tasks": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pyproject/_hongbo-miao_hongbomiao.com_main_cloud-computing_hm-ray_pyproject.toml",
+        "domain": "ray.example.com",
+        "urls": [
+          "://ray.example.com"
+        ]
+      }
+    ]
+  }
+}

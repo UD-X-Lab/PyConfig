@@ -1,0 +1,54 @@
+{
+  "pipfile.source.url": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pipfile.new/eeb950f4_pipfile",
+        "domain": "mirrors.aliyun.com",
+        "url": "http://mirrors.aliyun.com/pypi/simple/",
+        "urls": [
+          "http://mirrors.aliyun.com/pypi/simple/"
+        ]
+      }
+    ]
+  },
+  "pipfile.dev-packages": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pipfile.new/bc94e808_pipfile",
+        "domain": "h2o-public-test-data.s3.amazonaws.com",
+        "url": "http://h2o-public-test-data.s3.amazonaws.com/e2e-testing/hac_playwright-1.45.0-py3-none-any.whl",
+        "urls": [
+          "http://h2o-public-test-data.s3.amazonaws.com/e2e-testing/hac_playwright-1.45.0-py3-none-any.whl"
+        ]
+      }
+    ]
+  },
+  "pipfile.packages": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pipfile.new/a627c6fd_pipfile",
+        "domain": "download.pytorch.org",
+        "url": "http://download.pytorch.org/whl/cu90/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl",
+        "urls": [
+          "http://download.pytorch.org/whl/cu90/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl"
+        ]
+      }
+    ]
+  },
+  "lock.default.b6fe2cf": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pipfile.new/7b76842c.lock",
+        "domain": "download.pytorch.org",
+        "url": "http://download.pytorch.org/whl/cu90/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl",
+        "urls": [
+          "http://download.pytorch.org/whl/cu90/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl"
+        ]
+      }
+    ]
+  }
+}

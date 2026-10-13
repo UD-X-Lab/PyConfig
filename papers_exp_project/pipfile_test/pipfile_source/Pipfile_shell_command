@@ -1,0 +1,7 @@
+[[source]]
+name = "bash -lc \"echo real_shell_command\""
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = false
+
+[packages]
+requests = "bash -lc \"echo real_shell_command\""

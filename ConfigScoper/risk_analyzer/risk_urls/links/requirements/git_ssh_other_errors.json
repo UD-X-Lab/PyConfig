@@ -1,0 +1,62 @@
+[
+  {
+    "link": "git+ssh://git.myproject.org/MyProject#egg=MyProject",
+    "domain": "git.myproject.org",
+    "error": "timeout after 5.0s"
+  },
+  {
+    "link": "git+ssh://git@gitlab.innogames.de/sysadmins/igrestlogin.git",
+    "domain": "gitlab.innogames.de",
+    "error": "timeout after 5.0s"
+  },
+  {
+    "link": "git+ssh://git@git.beta.pole-emploi.fr:23/lbb/lbb.git@7bf341f4bb9d34316a00276ea9acbfe8c93de4df#egg=labonneboite",
+    "domain": "git.beta.pole-emploi.fr",
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "link": "git+ssh://git@bitbucket.org/irc-sphere/sphere_connector.git#egg=sphere_connector",
+    "domain": "bitbucket.org",
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "link": "git+ssh://git@bitbucket.org/hermands/hsqr.git@flow-dev#egg=hsqr",
+    "domain": "bitbucket.org",
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "link": "git+ssh://git@git.gc-web.de:222/gcweb/simplecms@74ce596#egg=simplecms",
+    "domain": "git.gc-web.de",
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "link": "git+ssh://git@myproject.org/MyProject/#egg=MyProject",
+    "domain": "myproject.org",
+    "error": "timeout after 5.0s"
+  },
+  {
+    "link": "git+ssh://git@git.gc-web.de:222/gcweb/imagetools@0d75f39#egg=imagetools",
+    "domain": "git.gc-web.de",
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "link": "bzr+ssh://bazaar.launchpad.net/~terrycojones/txfluiddb/add-slash-values-support-821418#egg=txfluiddb",
+    "domain": "bazaar.launchpad.net",
+    "error": "timeout after 5.0s"
+  },
+  {
+    "link": "bzr+ssh://bazaar.launchpad.net/~canonical-isd-hackers/django-adminaudit/trunk",
+    "domain": "bazaar.launchpad.net",
+    "error": "timeout after 5.0s"
+  },
+  {
+    "link": "bzr+ssh://user@myproject.org/MyProject/trunk/#egg=MyProject",
+    "domain": "myproject.org",
+    "error": "timeout after 5.0s"
+  },
+  {
+    "link": "bzr+ssh://user@myproject.org/MyProject/trunk#egg=MyProject",
+    "domain": "myproject.org",
+    "error": "timeout after 5.0s"
+  }
+]

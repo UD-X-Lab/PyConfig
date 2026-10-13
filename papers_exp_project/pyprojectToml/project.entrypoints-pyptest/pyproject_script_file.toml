@@ -1,0 +1,18 @@
+[project]
+name = "FieldHunter/mutator/real_script.py"
+version = "FieldHunter/mutator/real_script.py"
+requires-python = "FieldHunter/mutator/real_script.py"
+dependencies = ["FieldHunter/mutator/real_script.py"]
+
+[project.entry-points]
+[project.entry-points.pytest11]
+hello = "pytest_hello.plugin"
+
+[tool]
+[tool.setuptools]
+[tool.setuptools.package-dir]
+"" = "FieldHunter/mutator/real_script.py"
+
+[tool.setuptools.packages]
+[tool.setuptools.packages.find]
+where = ["FieldHunter/mutator/real_script.py"]

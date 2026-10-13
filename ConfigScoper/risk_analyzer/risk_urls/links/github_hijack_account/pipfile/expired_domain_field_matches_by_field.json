@@ -1,0 +1,14 @@
+{
+  "pipfile.source.url": {
+    "count": 1,
+    "items": [
+      {
+        "file": "/home/hello/finder/real_config/pipfile.new/76d6dcb2_pipfile",
+        "domain": "pypi.pubyun.com",
+        "urls": [
+          "http://pypi.pubyun.com/"
+        ]
+      }
+    ]
+  }
+}

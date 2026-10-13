@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+name = "bash -lc \"echo real_shell_command\""
+version = "bash -lc \"echo real_shell_command\""
+
+[tool.poetry.dependencies]
+python = "bash -lc \"echo real_shell_command\""
+requests = "bash -lc \"echo real_shell_command\""
+
+[[tool.poetry.source]]
+name = "bash -lc \"echo real_shell_command\""
+url = "https://mirrors.aliyun.com/pypi/simple/"
+default = true

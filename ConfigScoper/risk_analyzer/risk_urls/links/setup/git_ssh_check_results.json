@@ -1,0 +1,74 @@
+[
+  {
+    "raw": "git+ssh://git@bitbucket.org/mathrioshka/slisonner.git#egg=slisonner",
+    "normalized": "git+ssh://git@bitbucket.org/mathrioshka/slisonner.git#egg=slisonner",
+    "remote": "ssh://git@bitbucket.org/mathrioshka/slisonner.git",
+    "revision": null,
+    "ok": false,
+    "returncode": 128,
+    "error": "Host key verification failed.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+  },
+  {
+    "raw": "git+ssh://git@github.com/mvantellingen/python-zeep.git#egg=zeep=0.10.0.dev0",
+    "normalized": "git+ssh://git@github.com/mvantellingen/python-zeep.git#egg=zeep=0.10.0.dev0",
+    "remote": "ssh://git@github.com/mvantellingen/python-zeep.git",
+    "revision": null,
+    "ok": true,
+    "returncode": 0,
+    "error": null
+  },
+  {
+    "raw": "git+ssh://git@github.com/XertroV/nvblib.git",
+    "normalized": "git+ssh://git@github.com/XertroV/nvblib.git",
+    "remote": "ssh://git@github.com/XertroV/nvblib.git",
+    "revision": null,
+    "ok": true,
+    "returncode": 0,
+    "error": null
+  },
+  {
+    "raw": "git+ssh://git@github.com/goodmami/xigt.git",
+    "normalized": "git+ssh://git@github.com/goodmami/xigt.git",
+    "remote": "ssh://git@github.com/goodmami/xigt.git",
+    "revision": null,
+    "ok": true,
+    "returncode": 0,
+    "error": null
+  },
+  {
+    "raw": "git+ssh://git@github.com/afrancis13/bungiesearch.git@%s#egg=bungiesearch",
+    "normalized": "git+ssh://git@github.com/afrancis13/bungiesearch.git@%s#egg=bungiesearch",
+    "remote": "ssh://git@github.com/afrancis13/bungiesearch.git",
+    "revision": null,
+    "ok": true,
+    "returncode": 0,
+    "error": null
+  },
+  {
+    "raw": "git+ssh://git@github.com/richardkiss/pycoin.git",
+    "normalized": "git+ssh://git@github.com/richardkiss/pycoin.git",
+    "remote": "ssh://git@github.com/richardkiss/pycoin.git",
+    "revision": null,
+    "ok": true,
+    "returncode": 0,
+    "error": null
+  },
+  {
+    "raw": "git+ssh://git@github.com/BotDevGroup/marvin.git#egg=marvinbot",
+    "normalized": "git+ssh://git@github.com/BotDevGroup/marvin.git#egg=marvinbot",
+    "remote": "ssh://git@github.com/BotDevGroup/marvin.git",
+    "revision": null,
+    "ok": true,
+    "returncode": 0,
+    "error": null
+  },
+  {
+    "raw": "git+ssh://git@github.com/scraperwiki/scraperwiki-python#egg=scraperwiki",
+    "normalized": "git+ssh://git@github.com/scraperwiki/scraperwiki-python#egg=scraperwiki",
+    "remote": "ssh://git@github.com/scraperwiki/scraperwiki-python",
+    "revision": null,
+    "ok": true,
+    "returncode": 0,
+    "error": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "[build-system].requires": "which is a list of dependencies needed to build the project – this is typically just the build backend package, but it may also contain additional dependencies. You can also constrain the versions, e.g., requires = ['setuptools >= 61.0'].",
+  "[project].dependencies": "If your project has dependencies, list them.A dependency specification always specifies a distribution name.This is an example:[project] dependencies = ['https']",
+  "[project.optional-dependencies]": "You may want to make some of your dependencies optional, if they are only needed for a specific feature of your package. In that case, put them in optional-dependencies like [project.optional-dependencies] gui = ['PyQt5']",
+  "[build-system].build-backend": "The [build-system] table contains a build-backend key, which specifies the build backend to be used.",
+  "[project.scripts]": "To install a command as part of your package, declare it in the [project.scripts] table like [project.scripts] spam-cli = 'spam:main_cli'",
+  "[project.entry-points.'yourplugin.plugins']": "To create such a plugin, you need to declare it in a subtable of [project.entry-points] like this: [project.entry-points.'spam.magical'] tomatoes = 'spam:main_tomatoes'",
+  "[tool.setuptools].script-files": "equivalent to the script keyword in setup.py. Whenever possible, please use project.scripts instead."
+}

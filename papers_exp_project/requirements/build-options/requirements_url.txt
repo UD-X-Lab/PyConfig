@@ -1,0 +1,11 @@
+https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32
+	--global-option=build_ext \
+  --global-option="-I/usr/local/include/graphviz/" \
+  --global-option="-L/usr/local/lib/graphviz" \
+  --global-option="-I/opt/homebrew/include/graphviz/" \
+  --global-option="-L/opt/homebrew/lib/graphviz" \
+  --global-option="-DDEBUG" \
+  --global-option="-DVERSION=2"
+
+https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32
+https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32

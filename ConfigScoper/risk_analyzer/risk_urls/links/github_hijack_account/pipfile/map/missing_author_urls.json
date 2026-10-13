@@ -1,0 +1,10 @@
+[
+  {
+    "original_url": "git://github.com/Arlefreak/django-taggit-serializer.git",
+    "field": "pipfile.packages"
+  },
+  {
+    "original_url": "git://github.com/Arlefreak/django-taggit-serializer.git",
+    "field": "lock.default.django-taggit-serializer"
+  }
+]

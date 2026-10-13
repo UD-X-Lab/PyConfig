@@ -1,0 +1,8 @@
+git+ssh://git@git.20c.com/gh/squidfunk/mkdocs-material-insiders.git
+git+ssh://git@gitlab.cern.ch:7999/rx_run3/rx_common.git
+git+ssh://git@gitlab.cern.ch:7999/rx_run3/ecal_calibration.git
+git+ssh://git@gitlab.cern.ch:7999/rx_run3/dmu.git
+git+ssh://git@ssh.dev.azure.com/v3/wdodelta/DataHub/D0006_WDODAzureSQL
+git+ssh://aur@aur.archlinux.org/{args}.git
+git+ssh://git@gitlab.cern.ch:7999/rx_run3/ap_utilities.git
+git+ssh://git@gitlab.cern.ch:7999/rx_run3/rx_selection.git

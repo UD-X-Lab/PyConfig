@@ -1,0 +1,2 @@
+[packages]
+requests = {git = "git+ssh://git@github.com/psf/requests.git"}

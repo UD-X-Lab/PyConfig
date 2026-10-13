@@ -1,0 +1,12 @@
+{
+  "tool.poetry.repository": 26,
+  "tool.poetry.homepage": 18,
+  "tool.poetry.authors": 13,
+  "tool.poetry.urls": 8,
+  "tool.tbump.github_url": 2,
+  "tool.towncrier.issue_format": 2,
+  "tool.poetry.dependencies": 2,
+  "tool.help.repository": 2,
+  "project.dependencies": 2,
+  "tool.flit.metadata": 2
+}

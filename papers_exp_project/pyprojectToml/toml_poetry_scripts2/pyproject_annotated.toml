@@ -1,0 +1,6 @@
+[tool]
+[tool.poetry]
+[tool.poetry.scripts]
+[tool.poetry.scripts.my_executable]
+reference = "some_binary.exe"  # suspicious:function
+type = "file"

@@ -1,0 +1,6 @@
+hg+ssh://hg@bitbucket.org/cloisteredmonkey-admin/theape@ae625720ecec016ec57b913be2b856c24e9f503b#egg=theape-dev
+hg+ssh://hg@myproject.org/MyProject/#egg=MyProject
+hg+ssh://hg@bitbucket.org/multmeio/south#egg=South-dev
+hg+ssh://hg@bitbucket.org/ned/coveragepy@a621660fa6e671477500b723a8ead869c0bdfea5#egg=coverage-dev
+hg+ssh://hg@bitbucket.org/twanschik/django-autoload#egg=django-autoload
+hg+ssh://hg@bitbucket.org/paulswartz/ip2cc@tip#egg=ip2cc

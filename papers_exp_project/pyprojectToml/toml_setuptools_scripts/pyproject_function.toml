@@ -1,0 +1,12 @@
+[build-system]
+requires = ["FieldHunter.mutator.real_types.example_function"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "FieldHunter.mutator.real_types.example_function"
+version = "FieldHunter.mutator.real_types.example_function"
+requires-python = "FieldHunter.mutator.real_types.example_function"
+
+[tool]
+[tool.setuptools]
+script-files = ["FieldHunter.mutator.real_types.example_function"]

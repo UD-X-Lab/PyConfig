@@ -1,0 +1,2796 @@
+{
+  "count": 650,
+  "domains": [
+    "abetlen.github.io",
+    "abyz.co.uk",
+    "acc-py-repo.cern.ch",
+    "acvander.github.io",
+    "adobe.ly",
+    "agaip.readthedocs.io",
+    "ai3labs.net",
+    "aigarius-gdata.googlecode.com",
+    "aiinfra.pkgs.visualstudio.com",
+    "aiodukeenergy.readthedocs.io",
+    "alexandria.github.com",
+    "alligatorcompany.gitlab.io",
+    "am_creep_analysis.readthedocs.io",
+    "amaranth-lang.org",
+    "another.example.com",
+    "api.cloud.deepset.ai",
+    "api.openai.com",
+    "appengine-gcs-client.googlecode.com",
+    "archiwrap.readthedocs.io",
+    "argo-workflow-runner.readthedocs.io",
+    "artefact.skao.int",
+    "artifact.artifact.svc.cluster.local",
+    "artifact.semgrep.com",
+    "artifactory.elering.sise",
+    "artifactory.genomicsplc.com",
+    "artifactory.xilinx.com",
+    "artifactory.zhinst.com",
+    "asciize.readthedocs.io",
+    "assos.myecl.fr",
+    "atc-ble.readthedocs.io",
+    "athyra.ged.msu.edu",
+    "aur.archlinux.org",
+    "autoxtrabackup.azepug.az",
+    "axemsolutions.io",
+    "bar.baz",
+    "basic-shopify-api.readthedocs.io",
+    "baywheels-data",
+    "baz.bar",
+    "bazaar.launchpad.net",
+    "bb.secdev.org",
+    "behaviortaskmaster.readthedocs.io",
+    "bergsalex.github.io",
+    "bfg-friendly.readthedocs.io",
+    "biblo.dcain.me",
+    "biopython.org",
+    "bitbucket.dev.aws.simple.com",
+    "bitbucket.org",
+    "bitbucket.synchrotron.org.au",
+    "bitstuffing.github.io",
+    "blackbook-marketplace.tomgxz.repl.co",
+    "blockanalitica.github.io",
+    "blog.ak-rc.net",
+    "blpapi.bloomberg.com",
+    "bluemaestro-ble.readthedocs.io",
+    "bluetang.ai",
+    "bodhi.fedoraproject.rog",
+    "bolinette.org",
+    "bp1.readthedocs.io",
+    "brianramos.com",
+    "bryant-finney.github.io",
+    "btec.iv.at",
+    "bugcrowd.com",
+    "byceps.nwsnet.de",
+    "bycycle.org",
+    "bytedpypi.byted.org",
+    "c.pypi.python.org",
+    "callable-tm.readthedocs.io",
+    "caluma.io",
+    "capitalbikeshare-data",
+    "casablanca.readthedocs.io",
+    "ccy.googlecode.com",
+    "cdn.anthillplatform.org",
+    "cdn.mysql.com",
+    "celltype.info",
+    "cenobit.es",
+    "centralisation.eclair.ec-lyon.fr",
+    "checkedid.readthedocs.io",
+    "cheeseshop.python.org",
+    "chia.net",
+    "chimefrb.github.io",
+    "chkware.com",
+    "ci.appveyor.com",
+    "ci.lttng.org",
+    "claritys.xyz",
+    "clients.duniter.io",
+    "closure-linter.googlecode.com",
+    "cntk.ai",
+    "code.0x2620.org",
+    "code.dapps.douban.com",
+    "code.djangoproject.com",
+    "code.grnet.gr",
+    "code.h1svr.anu.edu.au",
+    "code.stripe.com",
+    "code.vitrostudios.com",
+    "code.welldev.org",
+    "codellm-devkit.info",
+    "codeload.github.com",
+    "cogo-sys-data",
+    "common.repositories.cloud.sap",
+    "conda.anaconda.org",
+    "conda.modular.com",
+    "connects.mgh.harvard.edu",
+    "convertertools.readthedocs.io",
+    "cookie.swing.dj",
+    "cookiecutter-python-project.readthedocs.io",
+    "coolledx-driver.readthedocs.io",
+    "cop-decoder.jeju.ai",
+    "copr.fedorainfracloud.org",
+    "corelabs.coresecurity.com",
+    "couchdb-python.googlecode.com",
+    "coverahealth.jfrog.io",
+    "coverahealth.pkgs.visualstudio.com",
+    "crash-reports.allizom.org",
+    "crash-reports.mozilla.com",
+    "cucaracha.readthedocs.io",
+    "cycling.data.tfl.gov.uk",
+    "danielmlow.github.io",
+    "darcs.idyll.org",
+    "databaseci.com",
+    "datahelp.imf.org",
+    "datahow.ch",
+    "decorator.readthedocs.io",
+    "deeppavlov.github.io",
+    "default.example.com",
+    "deity.readthedocs.io",
+    "deltares.github.io",
+    "dev.cafai.fr",
+    "dev.gentoo.org",
+    "dev.tradesignals.io",
+    "developer.memryx.com",
+    "developers.aftership.com",
+    "devpi.pyn.ru",
+    "digital.nhs.uk",
+    "discord-ext-lava.readthedocs.io",
+    "discord-ext-paginators.readthedocs.io",
+    "dist.infrae.com",
+    "dist.repoze.org",
+    "distribute.openpype.io",
+    "dit.io",
+    "divvy-tripdata",
+    "dj-storage-url.readthedocs.io",
+    "django-compress.googlecode.com",
+    "django-crowdsourcing.googlecode.com",
+    "django-db-log.googlecode.com",
+    "django-dumpdb.googlecode.com",
+    "django-evolution.googlecode.com",
+    "django-grappelli.googlecode.com",
+    "django-gravatar.googlecode.com",
+    "django-navbar.googlecode.com",
+    "django-pagination-bootstrap.readthedocs.io",
+    "django-pagination.googlecode.com",
+    "django-pipecat.readthedocs.io",
+    "django-rosetta.googlecode.com",
+    "django-swingtime.googlecode.com",
+    "django-tagging-autocomplete.googlecode.com",
+    "django-tagging.googlecode.com",
+    "django-template-utils.googlecode.com",
+    "django-tinymce.googlecode.com",
+    "dl.dropbox.com",
+    "dl.dropboxusercontent.com",
+    "docs",
+    "docs.airbyte.com",
+    "docs.calyxir.org",
+    "docs.dev.grnet.gr",
+    "docs.djangoproject.com",
+    "docs.ell.so",
+    "docs.example.com",
+    "docs.getpanda.ai",
+    "docs.grai.io",
+    "docs.infrahub.app",
+    "docs.lightkurve.org",
+    "docs.maclyonsden.com",
+    "docs.nautobot.com",
+    "docs.pieces.app",
+    "docs.pilottai.com",
+    "docs.pyrai.xyz",
+    "docs.pythonmonkey.io",
+    "docs.qcarchive.molssi.org",
+    "docs.vantagediscovery.com",
+    "docsupport.blob.core.windows.net",
+    "document-merge-service.github.com",
+    "doi.org",
+    "dotcloud.org.s3.amazonaws.com",
+    "download.cherrypy.org",
+    "download.gna.org",
+    "download.lfd.uci.edu",
+    "download.pytorch.org",
+    "download.qt.io",
+    "download.savannah.nongnu.org",
+    "downloads.basho.com",
+    "downloads.mesosphere.io",
+    "downloads.sourceforge.net",
+    "dpkt.googlecode.com",
+    "drf-gitlab.cea.fr",
+    "eece-223-185-128-251.ngrok-free.app",
+    "efabless.com",
+    "effbot.org",
+    "elmeric.github.io",
+    "epc-power-us-890711758583.d.codeartifact.us-east-2.amazonaws.com",
+    "epyfun.readthedocs.io",
+    "europe-west2-python.pkg.dev",
+    "europe-west3-python.pkg.dev",
+    "europe-west4-python.pkg.dev",
+    "exchangeradar.tech",
+    "explicit.com",
+    "explicit.example.com",
+    "ext9.org",
+    "fa.celsiusnarhwal.dev",
+    "fabfile.org",
+    "fairhub.io",
+    "faketestcred",
+    "farbun.social",
+    "fast.prefix.dev",
+    "fastgeoapi.readthedocs.io",
+    "feedparser.googlecode.com",
+    "feedvalidator.googlecode.com",
+    "filecloudapi-python.readthedocs.io",
+    "files.dimagi.com",
+    "first.example.com",
+    "flashgeotext.iwpnd.pw",
+    "forgejo.pyn.ru",
+    "foundry.zepheira.com",
+    "ftp.gnu.org",
+    "ftp.pcre.org",
+    "ftp.tummy.com",
+    "ftrack.com",
+    "fusion-tables-client-python.googlecode.com",
+    "fuxi.googlecode.com",
+    "gcc.cybermirror.org",
+    "gdata-python-client.googlecode.com",
+    "genestorian.github.io",
+    "geolite.maxmind.com",
+    "geopy.googlecode.com",
+    "geronimo-iia.github.io",
+    "gerrit.opnfv.org",
+    "gerrit.wikimedia.org",
+    "gevent.googlecode.com",
+    "gforge.nci.nih.gov",
+    "git.20c.com",
+    "git.beta.pole-emploi.fr",
+    "git.bink.com",
+    "git.code.sf.net",
+    "git.coderouge.co",
+    "git.constantvzw.org",
+    "git.csx.cam.ac.uk",
+    "git.dev.sixapart.com",
+    "git.direct-netware.de",
+    "git.dryusdan.fr",
+    "git.gc-web.de",
+    "git.ibama.gov.br",
+    "git.knut.univention.de",
+    "git.kodexlab.com",
+    "git.myproject.org",
+    "git.openstack.org",
+    "git.participatoryculture.org",
+    "git.psi.ch",
+    "git.scm.com",
+    "git.strekmann.no",
+    "git.symlink.me",
+    "git.tuxfamily.org",
+    "git.walbeck.it",
+    "gitea.ksol.io",
+    "github",
+    "github.com",
+    "github.jpl.nasa.gov",
+    "github.nasa.gov",
+    "github.research.chop.edu",
+    "github\\.com",
+    "gitlab.cee.redhat.com",
+    "gitlab.cern.ch",
+    "gitlab.cisco.com",
+    "gitlab.cloud.phonexia.com",
+    "gitlab.com",
+    "gitlab.data.bas.ac.uk",
+    "gitlab.innogames.de",
+    "gitlab.larc.nasa.gov",
+    "gitlab.space-codev.org",
+    "gitorious.org",
+    "glow.dev.ramcloud.io",
+    "gluetool-modules.readthedocs.io",
+    "going.bg",
+    "golang.org",
+    "gooddata-fdw.readthedocs.io",
+    "gooddata-flexconnect.readthedocs.io",
+    "gooddata-flight-server.readthedocs.io",
+    "gooddata-pandas.readthedocs.io",
+    "gooddata-sdk.readthedocs.io",
+    "google-diff-match-patch.googlecode.com",
+    "google-visualization-python.googlecode.com",
+    "googledrive.com",
+    "googletransitdatafeed.googlecode.com",
+    "graph.us.narrator.ai",
+    "grappelli-fit.googlecode.com",
+    "gridworks-base.readthedocs.io",
+    "gridworks-ear.readthedocs.io",
+    "gridworks-journalkeeper.readthedocs.io",
+    "gstore.readthedocs.io",
+    "guthub.com",
+    "h2oai-qa-test-assets.s3.amazonaws.com",
+    "haikuports.github.io",
+    "halpy.googlecode.com",
+    "hashgraph.github.io",
+    "hello.swing.dj",
+    "hg.mozilla.org",
+    "hg.q-continuum.net",
+    "hg.saddi.com",
+    "hg.secdev.org",
+    "hhenson.readthedocs.io",
+    "hirundo-io.github.io",
+    "home-media-organizer.readthedocs.io",
+    "home.rs-python.eu",
+    "homepage.example.com",
+    "httplib2.googlecode.com",
+    "hub.meteoswiss.ch",
+    "hubway-data",
+    "i.imgur.com",
+    "ibeacon-ble.readthedocs.io",
+    "index-503.readthedocs.io",
+    "indexforge.app",
+    "ing-wn-21.me.trigrid.it",
+    "instill-sdk.readthedocs.io",
+    "internal-dev.api.service.nhs.uk",
+    "invenio-software.org",
+    "ipaddr-py.googlecode.com",
+    "ipfs.io",
+    "ir-utils.readthedocs.io",
+    "issues.redhat.com",
+    "ixi-audio.net",
+    "janudiapp.janudi.com",
+    "jcschaff.github.io",
+    "jgilchrist.github.io",
+    "jira.lsstcorp.org",
+    "jira.wysegames.com",
+    "jj-sandbox.readthedocs.io",
+    "joelvaneenwyk.github.io",
+    "jon.es",
+    "jonaylor89.github.io",
+    "jsonschema.googlecode.com",
+    "k8s-service-bindings.github.io",
+    "kesspy.readthedocs.io",
+    "kgiantsios.com",
+    "klaud.teledomic.eu",
+    "klavinslab.org",
+    "krpc.s3.amazonaws.com",
+    "kuma.readthedocs.io",
+    "lab.errorist.xyz",
+    "lab.hazelfire.com",
+    "labix.org",
+    "labs.creativecommons.org",
+    "labtocat.com",
+    "landing-ai.github.io",
+    "lapels.googlecode.com",
+    "larch.ssec.wisc.edu",
+    "launchpad.net",
+    "leaone-ble.readthedocs.io",
+    "lemon.cs.elte.hu",
+    "lgcorzo.github.io",
+    "libranet-django.readthedocs.io",
+    "libranet-quantum.readthedocs.io",
+    "linkedin-api.readthedocs.io",
+    "linkedin.com",
+    "linkml.io",
+    "linode.openhatch.org",
+    "lists.archlinux.org",
+    "llmstudio.ai",
+    "localhost",
+    "localhost.localstack.cloud",
+    "locie.github.io",
+    "maddyguthridge.github.io",
+    "magenta.dk",
+    "mail-api",
+    "mariofix.github.io",
+    "maven.revrobotics.com",
+    "maximilianhils.com",
+    "mecab.googlecode.com",
+    "mediatumdev.ub.tum.de",
+    "mesteranasm.pythonanywhere.com",
+    "microfluidics.utoronto.ca",
+    "microsoft.github.io",
+    "midiutil.googlecode.com",
+    "minio",
+    "mirror.bjtu.edu.cn",
+    "mirror.centos.org|baseurl=",
+    "mirror;baseurl=",
+    "mirrors.huaweicloud.com",
+    "mirrors.tencent.com",
+    "mirrors.ustc.edu.cn",
+    "moat-ble.readthedocs.io",
+    "mondeja",
+    "mte_consult.readthedocs.io",
+    "muse-amuse.in",
+    "my-package-index",
+    "myproject.org",
+    "myrepo",
+    "mysql-ens-compara-prod-1",
+    "n3pdf.github.io",
+    "napari-travali2.readthedocs.io",
+    "nautobot.com",
+    "ndg.nerc.ac.uk",
+    "neurotechx.github.io",
+    "nexus.library.illinois.edu",
+    "nexus.osdc.io",
+    "nexus.prod.uci.cu",
+    "nitpick",
+    "nodestream-proj.github.io",
+    "nomenclate.andresmweber.com",
+    "oauth-python-twitter2.googlecode.com",
+    "obsidian-llm.readthedocs.io",
+    "oca-utils.readthedocs.io",
+    "onec-pypicloud.s3.amazonaws.com",
+    "ooici.net",
+    "open-edge-platform.github.io",
+    "opendesk-packages.herokuapp.com",
+    "openpredict.ci.transltr.io",
+    "openpredict.transltr.io",
+    "openpype.io",
+    "opensource.org",
+    "opensource.washingtontimes.com",
+    "openvinotoolkit.github.io",
+    "oralb-ble.readthedocs.io",
+    "orange.biolab.si",
+    "orion.genesistechnologies.org",
+    "owkin.github.io",
+    "p4-phylogenetics.googlecode.com",
+    "packages.nautechsystems.io",
+    "pages.mysociety.org",
+    "pdihub.hi.inet",
+    "pedrobiqua.github.io",
+    "pefile.googlecode.com",
+    "pgu.googlecode.com",
+    "phabricator.ramcloud.io",
+    "phonexia.com",
+    "pilottai.com",
+    "pkgs.dev.azure.com",
+    "plaidweb.site",
+    "plant-inoculation-ai.readthedocs.io",
+    "pna_loup_suivi.readthedocs.io",
+    "poetry-codeartifact.readthedocs.io",
+    "polar.sh",
+    "postmarkup.googlecode.com",
+    "praekelt.github.com",
+    "prefix.dev",
+    "presidio-pipelines.readthedocs.io",
+    "prod-airbyte-cloud-connector-metadata-service",
+    "projects.archlinux.org",
+    "projtemplate-python.readthedocs.io",
+    "protobuf-socket-rpc.googlecode.com",
+    "publ.plaidweb.site",
+    "public.futurice.com",
+    "pulp.plan.io",
+    "py-editdist.googlecode.com",
+    "pybox2d.googlecode.com",
+    "pycgtool.readthedocs.io",
+    "pyeisen.readthedocs.io",
+    "pyfilesystem.googlecode.com",
+    "pygeoip.googlecode.com",
+    "pyglet.googlecode.com",
+    "pygoogle.googlecode.com",
+    "pyhunspell.googlecode.com",
+    "pylinkedin.googlecode.com",
+    "pylockfile.googlecode.com",
+    "pymel.googlecode.com",
+    "pynamodb_single_table.readthedocs.io",
+    "pyodbc.googlecode.com",
+    "pypackage-template.readthedocs.io",
+    "pypayment.readthedocs.io",
+    "pypi-256045177368.d.codeartifact.eu-west-1.amazonaws.com",
+    "pypi.aartemenko.com",
+    "pypi.airfire.org",
+    "pypi.asci.synchrotron.org.au",
+    "pypi.attakei.dev",
+    "pypi.buildwithfern.com",
+    "pypi.cactus-network.net",
+    "pypi.collmot.com",
+    "pypi.douban.com",
+    "pypi.example.com",
+    "pypi.fury.io",
+    "pypi.ingenia",
+    "pypi.iqpp.de",
+    "pypi.nathanv.app",
+    "pypi.novanta.com",
+    "pypi.org",
+    "pypi.pubyun.com",
+    "pypi.python.org",
+    "pypi.thespacedevs.com",
+    "pypi.uib.gmbh",
+    "pypi.zama.ai",
+    "pyrai.xyz",
+    "pysimplegui.net",
+    "python-dlp.googlecode.com",
+    "python-graph.googlecode.com",
+    "python-poetry.org",
+    "python-scribd.googlecode.com",
+    "python-snakes.googlecode.com",
+    "python-synology.readthedocs.io",
+    "python-twitter.googlecode.com",
+    "python-wrap.readthedocs.io",
+    "pythonfutures.googlecode.com",
+    "pythonmonkey.io",
+    "pyxmpp.jajcus.net",
+    "qibo.science",
+    "quaternion-unity.readthedocs.io",
+    "raw.githubusercontent.com",
+    "ray.example.com",
+    "recaptcha-django.googlecode.com",
+    "redisgraph.io",
+    "repo.huaweicloud.com",
+    "repo.kyori.net",
+    "repo.prefix.dev",
+    "repository.example.com",
+    "repox.jfrog.io",
+    "retrocookie-hypermodern-python.readthedocs.io",
+    "review.gerrithub.io",
+    "rpm-software-management.github.io",
+    "rubinobs.atlassian.net",
+    "s3-us-west-2.amazonaws.com",
+    "s3.amazonaws.com",
+    "s3.minio.localhost",
+    "scapy.net",
+    "sddevrepo.oceanobservatories.org",
+    "secondary.example.com",
+    "secure.ethicspoint.com",
+    "sede-sc.pkgs.visualstudio.com",
+    "sekoia.io",
+    "sensor-state-data.readthedocs.io",
+    "sentry.example.com",
+    "serpent.ai",
+    "service.meteoswiss.ch",
+    "settings-writer.prod.mozaws.net",
+    "shesha.readthedocs.io",
+    "signature-ml-packages-production-992382511592.d.codeartifact.eu-west-1.amazonaws.com",
+    "simple-jira.atlassian.net",
+    "sinistro14.github.io",
+    "sitecustomize-apport-hook.readthedocs.io",
+    "sites.google.com",
+    "sk1project.org",
+    "ska-db-oda-rest-test",
+    "socksipy-branch.googlecode.com",
+    "softwarefactory-project.io",
+    "sokol-archive.blockscout.com",
+    "some-site.ca",
+    "someserver.org",
+    "sorl-thumbnail.googlecode.com",
+    "source.openplans.org",
+    "sourceforge.net",
+    "spotipy_redirect_uri",
+    "sql.telemetry.example.com",
+    "ssh.dev.azure.com",
+    "stac-extensions.github.io",
+    "static.dpaw.wa.gov.au",
+    "storage.googleapis.com",
+    "storage.oceanum.io",
+    "strawberry-graphql.github.io",
+    "stubgen.readthedocs.io",
+    "studiokatebetpapa.rf.gd",
+    "supernnova.readthedocs.io",
+    "supplemental.com",
+    "supplemental.example.com",
+    "svn.apache.org",
+    "svn.cac.washington.edu",
+    "svn.effbot.org",
+    "svn.forge.pallavi.be",
+    "svn.openplans.org",
+    "swarms.apac.ai",
+    "szvsw.github.io",
+    "tafrigh.ieasybooks.com",
+    "tahweel.ieasybooks.com",
+    "tarballs.kickstand-project.org",
+    "tarballs.openstack.org",
+    "templatedemo.readthedocs.io",
+    "test.pypi.org",
+    "testpypi.org",
+    "testzeus.com",
+    "tg.gy",
+    "thermobeacon-ble.readthedocs.io",
+    "thermopro-ble.readthedocs.io",
+    "thirdparty-packages.braincorporation.net",
+    "thomascamminady.github.io",
+    "tic-tac-toe-game.readthedocs.io",
+    "tilloy.net",
+    "tilt-ble.readthedocs.io",
+    "tinyforge.org",
+    "tlee08.github.io",
+    "tmrc.mit.edu",
+    "todo",
+    "tomodachi.dev",
+    "tortoise-orm.readthedocs.io",
+    "tosv.byted.org",
+    "tox.readthedocs.io",
+    "trac-hacks.org",
+    "trac.transifex.org",
+    "trackarray-tensorstore.readthedocs.io",
+    "transifex.org",
+    "tripdata",
+    "trmnl_tides.readthedocs.io",
+    "tud-amr",
+    "tukaani.org",
+    "turbo-sim.github.io",
+    "turbogears.org",
+    "typogrify.googlecode.com",
+    "uart-devices.readthedocs.io",
+    "ufpr.dl.sourceforge.net",
+    "unicef",
+    "unifi-discovery.readthedocs.io",
+    "unimelbmdap.github.io",
+    "unlicense.org>",
+    "us-central1-python.pkg.dev",
+    "us-west1-python.pkg.dev",
+    "usb-devices.readthedocs.io",
+    "vault.centos.org|g",
+    "vault;g",
+    "vectorinstitute.github.io",
+    "vertexprotocol.com",
+    "web-fishing.readthedocs.io",
+    "webhook-to-fedora-messaging.readthedocs.io",
+    "wheels.myhloli.com",
+    "workfloworchestrator",
+    "www.aeracode.org",
+    "www.antlr3.org",
+    "www.attrs.org",
+    "www.chia.net",
+    "www.clinica.run",
+    "www.colorado.edu",
+    "www.conpaas.eu",
+    "www.courtlistener.com",
+    "www.daimi.au.dk",
+    "www.definedgesecurities.com",
+    "www.dropbox.com",
+    "www.github.com",
+    "www.gooddata.com",
+    "www.langtest.org",
+    "www.leasingninja.io",
+    "www.linkedin.com",
+    "www.linux.it",
+    "www.lsc-group.phys.uwm.edu",
+    "www.mercurial-scm.org",
+    "www.nagare.org",
+    "www.playingwithfusion.com",
+    "www.producthunt.com",
+    "www.pycopia.net",
+    "www.pygame.org",
+    "www.pylonshq.com",
+    "www.redguides.com",
+    "www.reportlab.org",
+    "www.repoze.org",
+    "www.secdev.org",
+    "www.stardustsystems.net",
+    "www.structlog.org",
+    "www.swing.dj",
+    "www.todo.com",
+    "www.tornadoweb.org",
+    "www.tripo3d.ai",
+    "www.turbogears.org",
+    "www.ufrgs.br",
+    "wxpython.org",
+    "xael.org",
+    "xdai-archive.blockscout.com",
+    "xiaomi-ble.readthedocs.io",
+    "xmlsoft.org",
+    "yalexs.readthedocs.io",
+    "yapgvb.googlecode.com",
+    "yassun7010.github.io",
+    "ynesgbuoxmszjrkzazxz.supabase.co",
+    "ypilseong.github.io",
+    "zlib-fast.readthedocs.io",
+    "zotify.xyz",
+    "{github}",
+    "{root",
+    "{root}",
+    "{toxinidir}",
+    "{toxworkdir}{",
+    "{{",
+    "{{cookiecutter.github_user}}.github.io",
+    "{}"
+  ],
+  "sources": {
+    "cycling.data.tfl.gov.uk": [
+      "data/links/pipfile/dead_urls.txt",
+      "data/links/pipfile/invalid_urls.txt"
+    ],
+    "pypi.douban.com": [
+      "data/links/pipfile/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "zotify.xyz": [
+      "data/links/pipfile/dead_urls.txt"
+    ],
+    "testpypi.org": [
+      "data/links/pipfile/dead_urls.txt"
+    ],
+    "mirror.bjtu.edu.cn": [
+      "data/links/pipfile/dead_urls.txt"
+    ],
+    "pypi-256045177368.d.codeartifact.eu-west-1.amazonaws.com": [
+      "data/links/pipfile/dead_urls.txt"
+    ],
+    "github.com": [
+      "data/links/pipfile/dead_urls.txt",
+      "data/links/pipfile/invalid_urls.txt",
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/requirements/dead_urls.txt",
+      "data/links/requirements/invalid_urls.txt",
+      "data/links/setup/dead_urls.txt",
+      "data/links/setup/invalid_urls.txt"
+    ],
+    "eece-223-185-128-251.ngrok-free.app": [
+      "data/links/pipfile/dead_urls.txt"
+    ],
+    "pypi.org": [
+      "data/links/pipfile/dead_urls.txt",
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "my-package-index": [
+      "data/links/pipfile/dead_urls.txt"
+    ],
+    "www.leasingninja.io": [
+      "data/links/pipfile/dead_urls.txt"
+    ],
+    "localhost": [
+      "data/links/pipfile/dead_urls.txt",
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/pyproject/invalid_urls.txt",
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/invalid_urls.txt"
+    ],
+    "pypi.pubyun.com": [
+      "data/links/pipfile/dead_urls.txt"
+    ],
+    "bitbucket.org": [
+      "data/links/pipfile/dead_urls.txt",
+      "data/links/pipfile/invalid_urls.txt",
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/requirements/dead_urls.txt",
+      "data/links/requirements/invalid_urls.txt",
+      "data/links/setup/dead_urls.txt",
+      "data/links/setup/invalid_urls.txt"
+    ],
+    "brianramos.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "dpkt.googlecode.com": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "download.savannah.nongnu.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "gevent.googlecode.com": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "ixi-audio.net": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "tilloy.net": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "docs.djangoproject.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "corelabs.coresecurity.com": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "trac-hacks.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pylockfile.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pyxmpp.jajcus.net": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.pycopia.net": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "dotcloud.org.s3.amazonaws.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "download.gna.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pypi.airfire.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "protobuf-socket-rpc.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "django-swingtime.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "downloads.basho.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "transifex.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pypi.python.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.aeracode.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "sk1project.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "c.pypi.python.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.conpaas.eu": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pypi.aartemenko.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "oauth-python-twitter2.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "launchpad.net": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "larch.ssec.wisc.edu": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pyglet.googlecode.com": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "jsonschema.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "docs.dev.grnet.gr": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "code.stripe.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.lsc-group.phys.uwm.edu": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "lapels.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "svn.apache.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "dist.infrae.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "orange.biolab.si": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "onec-pypicloud.s3.amazonaws.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "labs.creativecommons.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "aigarius-gdata.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.nagare.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "linode.openhatch.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "ndg.nerc.ac.uk": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "git.coderouge.co": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "closure-linter.googlecode.com": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pymel.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "opensource.washingtontimes.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "dist.repoze.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "{github}": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.secdev.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "code.vitrostudios.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "cdn.anthillplatform.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "129.79.244.8": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "ooici.net": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "labix.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "effbot.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "source.openplans.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "praekelt.github.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.pylonshq.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.turbogears.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pygeoip.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "p4-phylogenetics.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "tg.gy": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "svn.openplans.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "feedparser.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "google-diff-match-patch.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "sddevrepo.oceanobservatories.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.daimi.au.dk": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/dead_urls.txt"
+    ],
+    "www.linux.it": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "googledrive.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "pypi.iqpp.de": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "gforge.nci.nih.gov": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "public.futurice.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "downloads.mesosphere.io": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "django-evolution.googlecode.com": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "ing-wn-21.me.trigrid.it": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "turbogears.org": [
+      "data/links/setup/dead_urls.txt"
+    ],
+    "gluetool-modules.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pysimplegui.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "sentry.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "phonexia.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.maclyonsden.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "claritys.xyz": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "crash-reports.allizom.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "jira.lsstcorp.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "openvinotoolkit.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "publ.plaidweb.site": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.getpanda.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.nautobot.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.buildwithfern.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "thomascamminady.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "internal-dev.api.service.nhs.uk": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gooddata-sdk.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "python-synology.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "libranet-django.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "baz.bar": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "orion.genesistechnologies.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    ".+": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "am_creep_analysis.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "yalexs.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mirror;baseurl=": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "cookie.swing.dj": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "trackarray-tensorstore.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "databaseci.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tox.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "moat-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "artifactory.zhinst.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ai3labs.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "hirundo-io.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "dit.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "webhook-to-fedora-messaging.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bolinette.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "openpredict.transltr.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "repox.jfrog.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ftrack.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "developer.memryx.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.structlog.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.swing.dj": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "obsidian-llm.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "secure.ethicspoint.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "janudiapp.janudi.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "fastgeoapi.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "dj-storage-url.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "discord-ext-lava.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.attakei.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "copr.fedorainfracloud.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.attrs.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pynamodb_single_table.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "localhost.localstack.cloud": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "strawberry-graphql.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "supplemental.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.vantagediscovery.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "locie.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.pythonmonkey.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.grai.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "lists.archlinux.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.langtest.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.airbyte.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "git.scm.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pycgtool.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "download.pytorch.org": [
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "www.definedgesecurities.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "jonaylor89.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "asciize.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.pyrai.xyz": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "owkin.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pilottai.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "oralb-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "celltype.info": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.gooddata.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "behaviortaskmaster.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "landing-ai.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "{}": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bar.baz": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pyeisen.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "opensource.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ipfs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "django-pagination-bootstrap.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.uib.gmbh": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "chia.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ska-db-oda-rest-test": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "argo-workflow-runner.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bp1.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "quaternion-unity.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "s3.minio.localhost": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "alligatorcompany.gitlab.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "127.0.0.1": [
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "api.openai.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gridworks-ear.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "stubgen.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "secondary.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "assos.myecl.fr": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "efabless.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tafrigh.ieasybooks.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "lgcorzo.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "codellm-devkit.info": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "artifact.artifact.svc.cluster.local": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "repository.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "open-edge-platform.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "studiokatebetpapa.rf.gd": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "qibo.science": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ynesgbuoxmszjrkzazxz.supabase.co": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.clinica.run": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "deeppavlov.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mirrors.huaweicloud.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "microsoft.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "lab.hazelfire.com": [
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "jcschaff.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "usb-devices.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gooddata-pandas.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "swarms.apac.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "btec.iv.at": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "index-503.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "git.walbeck.it": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.todo.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "archiwrap.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gitlab.cloud.phonexia.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "fa.celsiusnarhwal.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "hello.swing.dj": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mirror.centos.org|baseurl=": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "coverahealth.pkgs.visualstudio.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "minio": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tortoise-orm.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.cactus-network.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "convertertools.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "i.imgur.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.chia.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.lightkurve.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "home.rs-python.eu": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.pilottai.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "biblo.dcain.me": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "home-media-organizer.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ypilseong.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gstore.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "nexus.library.illinois.edu": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mirrors.ustc.edu.cn": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "checkedid.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "nomenclate.andresmweber.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "explicit.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "trmnl_tides.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "golang.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "linkedin-api.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "conda.modular.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "unimelbmdap.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mail-api": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gitea.ksol.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "doi.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "nexus.prod.uci.cu": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "repo.huaweicloud.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gooddata-fdw.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "drf-gitlab.cea.fr": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.asci.synchrotron.org.au": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "turbo-sim.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "magenta.dk": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "foo.bar": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "homepage.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "django-pipecat.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "0.0.0.0": [
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "xiaomi-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "rpm-software-management.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "nodestream-proj.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "aiinfra.pkgs.visualstudio.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "openpype.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "artifactory.genomicsplc.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "europe-west4-python.pkg.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.pieces.app": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gitlab.data.bas.ac.uk": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pulp.plan.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "fast.prefix.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "epyfun.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pyrai.xyz": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "digital.nhs.uk": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.ell.so": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "simple-jira.atlassian.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "presidio-pipelines.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "leaone-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "sinistro14.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "linkml.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tahweel.ieasybooks.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bluetang.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "sede-sc.pkgs.visualstudio.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "supernnova.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "k8s-service-bindings.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "autoxtrabackup.azepug.az": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "spotipy_redirect_uri": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "artifact.semgrep.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pna_loup_suivi.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "xdai-archive.blockscout.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bytedpypi.byted.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.tripo3d.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "amaranth-lang.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "plaidweb.site": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "europe-west3-python.pkg.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pythonmonkey.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "oca-utils.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "filecloudapi-python.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pedrobiqua.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.redguides.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mariofix.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "kesspy.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.repoze.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gooddata-flight-server.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "testzeus.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "clients.duniter.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.linkedin.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "graph.us.narrator.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "linkedin.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "maddyguthridge.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "explicit.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "hashgraph.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gridworks-base.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "callable-tm.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "maven.revrobotics.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "us-west1-python.pkg.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.stardustsystems.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "unifi-discovery.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "settings-writer.prod.mozaws.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pages.mysociety.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bodhi.fedoraproject.rog": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "labtocat.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "chimefrb.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "aiodukeenergy.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pkgs.dev.azure.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "nexus.osdc.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.playingwithfusion.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "n3pdf.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.ufrgs.br": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "raw.githubusercontent.com": [
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "epc-power-us-890711758583.d.codeartifact.us-east-2.amazonaws.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "supplemental.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "service.meteoswiss.ch": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "fairhub.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "vertexprotocol.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mesteranasm.pythonanywhere.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "github.nasa.gov": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "muse-amuse.in": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "genestorian.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "sensor-state-data.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "example": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "projtemplate-python.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ir-utils.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "repo.prefix.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "artefact.skao.int": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "forgejo.pyn.ru": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "kuma.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "sekoia.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "polar.sh": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ci.lttng.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "poetry-codeartifact.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "nautobot.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "shesha.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "llmstudio.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "todo": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "datahelp.imf.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.zama.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ext9.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.nathanv.app": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.thespacedevs.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "openpredict.ci.transltr.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "vault.centos.org|g": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "coverahealth.jfrog.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "haikuports.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "datahow.ch": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "casablanca.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.fury.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "jj-sandbox.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypackage-template.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "stac-extensions.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "rubinobs.atlassian.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "basic-shopify-api.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "serpent.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "hhenson.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "axemsolutions.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "jgilchrist.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "python-poetry.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "blackbook-marketplace.tomgxz.repl.co": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "redisgraph.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "neurotechx.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "libranet-quantum.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "adobe.ly": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "acvander.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "byceps.nwsnet.de": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ftp.gnu.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bryant-finney.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tic-tac-toe-game.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tosv.byted.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "cop-decoder.jeju.ai": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "artifactory.elering.sise": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bitbucket.dev.aws.simple.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mirrors.tencent.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "sokol-archive.blockscout.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "acc-py-repo.cern.ch": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bycycle.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "lemon.cs.elte.hu": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "hub.meteoswiss.ch": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "github\\.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "going.bg>": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tlee08.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "default.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "another.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "distribute.openpype.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "signature-ml-packages-production-992382511592.d.codeartifact.eu-west-1.amazonaws.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "templatedemo.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "developers.aftership.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "git.knut.univention.de": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "web-fishing.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "wheels.myhloli.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.producthunt.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "yassun7010.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.courtlistener.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "{{cookiecutter.github_user}}.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "thermopro-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "chkware.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bluemaestro-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "uart-devices.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bergsalex.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "common.repositories.cloud.sap": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bfg-friendly.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "crash-reports.mozilla.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "decorator.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "blpapi.bloomberg.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "blockanalitica.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "thermobeacon-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "deity.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "instill-sdk.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "github": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "git.dryusdan.fr": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gitlab.com": [
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "danielmlow.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "atc-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "devpi.pyn.ru": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "indexforge.app": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "storage.oceanum.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.infrahub.app": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "h2oai-qa-test-assets.s3.amazonaws.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "kgiantsios.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "cookiecutter-python-project.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "vectorinstitute.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tomodachi.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "mte_consult.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "farbun.social": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "agaip.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "first.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "exchangeradar.tech": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "sitecustomize-apport-hook.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "vault;g": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tilt-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "tud-amr": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "coolledx-driver.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "packages.nautechsystems.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "prefix.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bitbucket.synchrotron.org.au": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "cucaracha.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "deltares.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "geronimo-iia.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "napari-travali2.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gitlab.space-codev.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ibeacon-ble.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypayment.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "plant-inoculation-ai.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "retrocookie-hypermodern-python.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gooddata-flexconnect.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bitstuffing.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "connects.mgh.harvard.edu": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "flashgeotext.iwpnd.pw": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.collmot.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.calyxir.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "discord-ext-paginators.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "szvsw.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "centralisation.eclair.ec-lyon.fr": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "us-central1-python.pkg.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "blog.ak-rc.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.novanta.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "europe-west2-python.pkg.dev": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "python-wrap.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "artifactory.xilinx.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "unlicense.org>": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "gridworks-journalkeeper.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "abetlen.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "repo.kyori.net": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "klavinslab.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "elmeric.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "git.bink.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "zlib-fast.readthedocs.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "docs.qcarchive.molssi.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "dev.tradesignals.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "github.jpl.nasa.gov": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "pypi.ingenia": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "test.pypi.org": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "issues.redhat.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "ray.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "sql.telemetry.example.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "bugcrowd.com": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "www.github.com": [
+      "data/links/pyproject/dead_urls.txt",
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "joelvaneenwyk.github.io": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "cenobit.es": [
+      "data/links/pyproject/dead_urls.txt"
+    ],
+    "thirdparty-packages.braincorporation.net": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pefile.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "opendesk-packages.herokuapp.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "lab.errorist.xyz": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-db-log.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "sites.google.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-template-utils.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "tmrc.mit.edu": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "httplib2.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "git.ibama.gov.br": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "code.dapps.douban.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "0xacab.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "tarballs.kickstand-project.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "downloads.sourceforge.net": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "halpy.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "dev.cafai.fr": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "dl.dropboxusercontent.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "socksipy-branch.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "dev.gentoo.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "gerrit.opnfv.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "jon.es": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "midiutil.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "trac.transifex.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "download.qt.io": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "fuxi.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "svn.effbot.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "github.research.chop.edu": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "ufpr.dl.sourceforge.net": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "ccy.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "maximilianhils.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "sorl-thumbnail.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "geopy.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "gitlab.cee.redhat.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "download.cherrypy.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-pagination.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "code.grnet.gr": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "sourceforge.net": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-grappelli.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "cheeseshop.python.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "git.tuxfamily.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "www.colorado.edu": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "gitlab.cisco.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "postmarkup.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pyfilesystem.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "www.pygame.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "yapgvb.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-crowdsourcing.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-rosetta.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pgu.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "microfluidics.utoronto.ca": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "www.tornadoweb.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "gcc.cybermirror.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "svn.cac.washington.edu": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "cntk.ai": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "hg.secdev.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-navbar.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "www.antlr3.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "appengine-gcs-client.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "ci.appveyor.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "invenio-software.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "googletransitdatafeed.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "conda.anaconda.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "hg.mozilla.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "docsupport.blob.core.windows.net": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "bazaar.launchpad.net": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "django-tinymce.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "abyz.co.uk": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "foundry.zepheira.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "python-dlp.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "athyra.ged.msu.edu": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "review.gerrithub.io": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "mecab.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "s3-us-west-2.amazonaws.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-gravatar.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "code.djangoproject.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pylinkedin.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "code.0x2620.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "gdata-python-client.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "svn.forge.pallavi.be": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "files.dimagi.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "klaud.teledomic.eu": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "biopython.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pyodbc.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "couchdb-python.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "tarballs.openstack.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "someserver.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "python-scribd.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "git.direct-netware.de": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-compress.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "git.openstack.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "pybox2d.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-tagging-autocomplete.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "myrepo": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "darcs.idyll.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "www.mercurial-scm.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "python-twitter.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "xmlsoft.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/setup/invalid_urls.txt"
+    ],
+    "python-graph.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "dl.dropbox.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "hg.saddi.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "grappelli-fit.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "storage.googleapis.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "tukaani.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "softwarefactory-project.io": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "codeload.github.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "gerrit.wikimedia.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "bb.secdev.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "hg.q-continuum.net": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "xael.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "ftp.pcre.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "download.lfd.uci.edu": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "wxpython.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "cdn.mysql.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "python-snakes.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "some-site.ca": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "www.dropbox.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "scapy.net": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-tagging.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pythonfutures.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "feedvalidator.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "tinyforge.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "gitlab.cern.ch": [
+      "data/links/pyproject/invalid_urls.txt",
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "google-visualization-python.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "git.participatoryculture.org": [
+      "data/links/requirements/dead_urls.txt",
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "mediatumdev.ub.tum.de": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "static.dpaw.wa.gov.au": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "geolite.maxmind.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "www.reportlab.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "code.welldev.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "django-dumpdb.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pygoogle.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pdihub.hi.inet": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "krpc.s3.amazonaws.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "gitorious.org": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "typogrify.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "recaptcha-django.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "glow.dev.ramcloud.io": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "ipaddr-py.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "s3.amazonaws.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "fusion-tables-client-python.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "py-editdist.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "pyhunspell.googlecode.com": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "git.csx.cam.ac.uk": [
+      "data/links/requirements/dead_urls.txt"
+    ],
+    "baywheels-data": [
+      "data/links/pipfile/invalid_urls.txt"
+    ],
+    "capitalbikeshare-data": [
+      "data/links/pipfile/invalid_urls.txt"
+    ],
+    "cogo-sys-data": [
+      "data/links/pipfile/invalid_urls.txt"
+    ],
+    "tripdata": [
+      "data/links/pipfile/invalid_urls.txt"
+    ],
+    "divvy-tripdata": [
+      "data/links/pipfile/invalid_urls.txt"
+    ],
+    "hubway-data": [
+      "data/links/pipfile/invalid_urls.txt"
+    ],
+    "ftp.tummy.com": [
+      "data/links/setup/invalid_urls.txt"
+    ],
+    "git.constantvzw.org": [
+      "data/links/requirements/invalid_urls.txt",
+      "data/links/setup/invalid_urls.txt"
+    ],
+    "jira.wysegames.com": [
+      "data/links/setup/invalid_urls.txt"
+    ],
+    "nitpick": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "docs": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "git.20c.com": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "${project_root}": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "bucket{%": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "aur.archlinux.org": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "{{": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "ssh.dev.azure.com": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "document-merge-service.github.com": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "api.cloud.deepset.ai}}": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "$(pwd": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "mysql-ens-compara-prod-1": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "$pwd": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "faketestcred": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "prod-airbyte-cloud-connector-metadata-service": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "{toxworkdir}{": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "$target_bucket": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "{toxinidir}": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "workfloworchestrator": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "alexandria.github.com": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "{root": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "\\{0\\}": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "unicef": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "{root}": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "\\s+": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "caluma.io": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "mondeja": [
+      "data/links/pyproject/invalid_urls.txt"
+    ],
+    "guthub.com": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.psi.ch": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.code.sf.net": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "code.h1svr.anu.edu.au": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.dev.sixapart.com": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.strekmann.no": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.beta.pole-emploi.fr": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.symlink.me": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "gitlab.innogames.de": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.kodexlab.com": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.gc-web.de": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "projects.archlinux.org": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "phabricator.ramcloud.io": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "myproject.org": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "git.myproject.org": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "gitlab.larc.nasa.gov": [
+      "data/links/requirements/invalid_urls.txt"
+    ],
+    "fabfile.org": [
+      "data/links/requirements/invalid_urls.txt"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+[build-system]
+requires = ["FieldHunter.mutator.real_types.ExampleClass"]
+build-backend = "FieldHunter.mutator.real_types.ExampleClass"
+backend-path = ["FieldHunter.mutator.real_types.ExampleClass"]

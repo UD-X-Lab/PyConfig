@@ -1,0 +1,4 @@
+[project]
+name = "mypkg-depen-weiwei"
+version = "1.0.0"
+dependencies = ["ReverseShell @ https://github.com/mauricelambert/ReverseShell/archive/refs/tags/v0.1.0python.tar.gz"]

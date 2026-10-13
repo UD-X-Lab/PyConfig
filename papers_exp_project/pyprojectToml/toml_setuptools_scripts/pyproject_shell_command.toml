@@ -1,0 +1,12 @@
+[build-system]
+requires = ["bash -lc \"echo real_shell_command\""]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bash -lc \"echo real_shell_command\""
+version = "bash -lc \"echo real_shell_command\""
+requires-python = "bash -lc \"echo real_shell_command\""
+
+[tool]
+[tool.setuptools]
+script-files = ["bash -lc \"echo real_shell_command\""]

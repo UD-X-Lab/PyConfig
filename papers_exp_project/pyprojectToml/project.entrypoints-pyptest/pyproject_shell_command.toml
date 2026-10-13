@@ -1,0 +1,18 @@
+[project]
+name = "bash -lc \"echo real_shell_command\""
+version = "bash -lc \"echo real_shell_command\""
+requires-python = "bash -lc \"echo real_shell_command\""
+dependencies = ["bash -lc \"echo real_shell_command\""]
+
+[project.entry-points]
+[project.entry-points.pytest11]
+hello = "pytest_hello.plugin"
+
+[tool]
+[tool.setuptools]
+[tool.setuptools.package-dir]
+"" = "bash -lc \"echo real_shell_command\""
+
+[tool.setuptools.packages]
+[tool.setuptools.packages.find]
+where = ["bash -lc \"echo real_shell_command\""]

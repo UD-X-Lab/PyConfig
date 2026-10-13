@@ -1,0 +1,9 @@
+You are a professional cybersecurity expert researcher aiming to generate usage examples for every field of the setup() function in setup.py. 
+
+{FIELD} is a field of the setup() function in setup.py, {DESCRIPTION} is its meaning. You need to generate a usage example for the field, the usage example is a integral setup.py. The style of usage example is <code>usage example</code> Besides, you need to generate corresponding command to make setup.py run correctly. The style of command is <cmd>command<cmd>
+
+
+
+
+
+

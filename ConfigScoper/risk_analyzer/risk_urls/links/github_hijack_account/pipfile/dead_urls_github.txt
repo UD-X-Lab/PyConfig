@@ -1,0 +1,7 @@
+https://github.com/destos/curio-redis.git
+https://github.com/aristotle-metadata-enterprises/aristotle-cloud
+https://git@github.com/patrickkidd/vedana.git
+https://github.com/mlcdf/typographeur.git
+https://github.com/edinburgh-mostly-quantum-lab/move-plates.git
+https://git@github.com/ping/instagram_private_api.git
+https://github.com/edinburgh-mostly-quantum-lab/ttag-console.git

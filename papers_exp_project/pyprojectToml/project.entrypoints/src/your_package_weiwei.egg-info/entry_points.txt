@@ -1,0 +1,2 @@
+[yourplugin.plugins]
+hello = your_package.plugin:HelloPlugin

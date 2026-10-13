@@ -1,0 +1,4 @@
+bzr+ssh://bazaar.launchpad.net/~terrycojones/txfluiddb/add-slash-values-support-821418#egg=txfluiddb
+bzr+ssh://bazaar.launchpad.net/~canonical-isd-hackers/django-adminaudit/trunk
+bzr+ssh://user@myproject.org/MyProject/trunk/#egg=MyProject
+bzr+ssh://user@myproject.org/MyProject/trunk#egg=MyProject

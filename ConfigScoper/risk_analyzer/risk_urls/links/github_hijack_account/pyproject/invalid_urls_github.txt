@@ -1,0 +1,6 @@
+mock://document-merge-service.github.com/openid/userinfo
+py://nitpick/resources/python/github-workflow
+mock://alexandria.github.com/openid/introspect
+mock://alexandria.github.com/openid/userinfo
+github://workfloworchestrator/nitpick-style@main/nitpick-style-orchestrator-core.toml
+github://unicef/hope-code-conventions@main/django/django.toml

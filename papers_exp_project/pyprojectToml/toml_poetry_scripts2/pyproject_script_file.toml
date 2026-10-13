@@ -1,0 +1,6 @@
+[tool]
+[tool.poetry]
+[tool.poetry.scripts]
+[tool.poetry.scripts.my_executable]
+reference = "some_binary.exe"
+type = "FieldHunter/mutator/real_script.py"

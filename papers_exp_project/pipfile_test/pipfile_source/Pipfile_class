@@ -1,0 +1,7 @@
+[[source]]
+name = "FieldHunter.mutator.real_types.ExampleClass"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = false
+
+[packages]
+requests = "FieldHunter.mutator.real_types.ExampleClass"

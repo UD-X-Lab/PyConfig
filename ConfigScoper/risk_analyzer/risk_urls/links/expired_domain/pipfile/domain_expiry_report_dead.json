@@ -1,0 +1,301 @@
+[
+  {
+    "domain": "bitbucket.org",
+    "status": "active",
+    "expires_on": "2026-11-23T05:00:00+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.192.142.24",
+      "104.192.142.25",
+      "104.192.142.26"
+    ],
+    "dns_aaaa_records": [
+      "2401:1d80:321c:2:0:bbc:1:df7c",
+      "2401:1d80:321c::bbc:1:df7c",
+      "2401:1d80:321c:1:0:bbc:1:df7c"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": null,
+    "urls": [
+      "git+ssh://git@bitbucket.org/tata1mg/tortoise_wrapper.git",
+      "git+ssh://git@bitbucket.org/tata1mg/torpedo.git",
+      "git+ssh://git@bitbucket.org/tata1mg/cache_wrapper.git",
+      "git+ssh://git@bitbucket.org/tata1mg/commonutils.git"
+    ]
+  },
+  {
+    "domain": "cycling.data.tfl.gov.uk",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.16.97.104",
+      "104.16.98.104"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "s3://cycling.data.tfl.gov.uk/usage-stats"
+    ]
+  },
+  {
+    "domain": "eece-223-185-128-251.ngrok-free.app",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "3.134.39.220",
+      "3.17.7.232",
+      "3.13.191.225",
+      "3.22.30.40",
+      "3.14.182.203",
+      "3.134.125.175"
+    ],
+    "dns_aaaa_records": [
+      "2600:1f16:d83:1201::6e:4",
+      "2600:1f16:d83:1200::6e:0",
+      "2600:1f16:d83:1202::6e:2",
+      "2600:1f16:d83:1200::6e:3",
+      "2600:1f16:d83:1202::6e:5",
+      "2600:1f16:d83:1201::6e:1"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "https://eece-223-185-128-251.ngrok-free.app/browserstack-sdk.tar.gz"
+    ]
+  },
+  {
+    "domain": "github.com",
+    "status": "active",
+    "expires_on": "2026-10-09T18:20:50+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "140.82.113.4"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "git+git://github.com/SuLab/wikicurie.git",
+      "git+git://github.com/pinax/pinax.git",
+      "git+git://github.com/parogers/pgu/",
+      "git+git://github.com/kpu/kenlm.git",
+      "git+git://github.com/sourcegraph/jedi.git",
+      "git+git://github.com/Arlefreak/django-taggit-serializer.git",
+      "git+git://github.com/wjt/tweepy",
+      "git+git://github.com/shomah4a/sphinxcontrib.youtube.git",
+      "git+git://github.com/sourcegraph/requirements-parser.git",
+      "git+git://github.com/LegoStormtroopr/sphinx-selenium-screenshots.git",
+      "git+git://github.com/jtauber/inflexion.git",
+      "git+git://github.com/Akhail/events.git",
+      "https://git@github.com/ping/instagram_private_api.git",
+      "https://git@github.com/patrickkidd/vedana.git",
+      "https://github.com/edinburgh-mostly-quantum-lab/move-plates.git",
+      "https://github.com/destos/curio-redis.git",
+      "https://github.com/edinburgh-mostly-quantum-lab/ttag-console.git",
+      "https://github.com/aristotle-metadata-enterprises/aristotle-cloud"
+    ]
+  },
+  {
+    "domain": "localhost",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "127.0.0.1"
+    ],
+    "dns_aaaa_records": [
+      "::1"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://localhost:8080/repo/pypi"
+    ]
+  },
+  {
+    "domain": "mirror.bjtu.edu.cn",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "202.112.154.58"
+    ],
+    "dns_aaaa_records": [
+      "2001:da8:205::58"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "https://mirror.bjtu.edu.cn/pypi/web/simple/"
+    ]
+  },
+  {
+    "domain": "my-package-index",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "https://my-package-index/"
+    ]
+  },
+  {
+    "domain": "pypi-256045177368.d.codeartifact.eu-west-1.amazonaws.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "52.17.228.125",
+      "54.155.23.183",
+      "3.248.97.195"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "https://aws:eyJ2ZXIiOjEsImlzdSI6MTY3NDEyMDk1NSwiZW5jIjoiQTEyOEdDTSIsInRhZyI6IjlTakduQURLcXp3X254OWRBcHpQQUEiLCJleHAiOjE2NzQxNjQxNTUsImFsZyI6IkExMjhHQ01LVyIsIml2IjoiY2VHT1Ywd3huN1IzMEF5NyJ9.NhIgd9_EAB0Lim5B2YZXrg.7XVnKCBIhli6HLAP.ehKQ6ZGYsvFJpdDmQw8JVjoIkEQEM99LkmL1mFIHf8bJb6SQIqe_rHj5lNP49gxOqGg7XQC-sw8T9HZ1V_sb5lomydY0Xg7mIEkKr2a8bSC4EDrvQJuczKrlUV_PYmsak3EjjHDF8fimF_iPHuitQgdcx1IGZnaS1lckLHxj0r9N9tqArJoQ9-QzboIwFRYhBCfeNk6GVNwNvVaMSKHPDlv7s07earTlQPYesZpo5heganCk9S_3QiPFD2645beyrybTIykuVdTIIBwesuIfo8vn3fG57c3cF5L9BEvVDmqFPd51-7QZvxA3wuv_ok4CLqHkPIUmtbEu704nwrLykwIy8F3ojPTDA3oTZH5NqCvYma-_6L5B3sC3YLnw5MdFOuT3Rpx7nkxdgIFHc4s_i2ajDQn0RyQGTREq6ODsvkI3RzUk_Ti3urvibyAn6xBwvJQrMNy6iKPq8OrKQ74vUaAFG_cOqoiP8p10-86538Y7iWG07d1KKeTEdwxgGhN41SyYvrv4KTtwLE-KgBrrfRPMcNdcA0m9Ak8zjqFcGzQDhpCtwJNFXDnLSQm1GFuqwuw7ifEPiFg89hXsVSRf-qKvNKuWvmK1HBKvPj-9xd3d5A-gTEE0jTyd3sIFh5uVVJ3AGvfaQNoZG0Lcwhwvlrgq0pGy4WEmhjUeBi_rt8yGrP4BryS-uoycW2ad9ZEwLN3wc6zcJyHYZbmMjXT3AeG-g0bfsDWkvJJom4L47SWnCKV1vY31QX64fGNVnOCpvWNh-KNYaiOmFjoP5FCx-QHIyzOyFNlaeLaXY5zJAhC3xUPgD1q0fBnxFrJGZFAJ2trEET5nU86obxTpXJOpCjGZULyLJa7RsVHGd0G3Gp5Iy6_RiqsmeCBPLf8hF9b4IkWyIovxMee_UPHKN1pZAyoo3UdUBFeDNVXoSAX7g3viFskPHy3hQ_mQydE54ke0qBtH7dSoFamhLCkjlxdTLflJb3G9Q7_LRt9IfHtuQg5hPCDrEbbyy1G3Qi27ua-qrjkUiyZnnO_OKrQLkn5SQ4xWO6d_W-4Wb2SVRO1-FHp5ZSR9X8Vlk5JFFihbjy8_UQp7AXw2feZkU51iZcJQqSppLcu-JX8LWFeG3Md7BqOD6lfze1kXLo9mO8yvDNRIWrCNTUaaUOkskEdLXhVZ5zMZzDyiic9rD0_fFnihNh9dcFpns673WuVhiQT8yp3_WhhLbsKSPAOIR54IItNZ3T2LaDjs8ZBTsn5F6Rdo2Vrhh00OsggRgp-d0dm7-oKNB5-hXcJci2VCOwYuQoMM2ZYAqhnDABZ8bmNxo_87FZRGzAA.5t_xYPJaDCeQnoCL28h7WQ@pypi-256045177368.d.codeartifact.eu-west-1.amazonaws.com/pypi/pypi/simple/"
+    ]
+  },
+  {
+    "domain": "pypi.douban.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "120.53.130.158",
+      "81.70.124.99",
+      "140.143.177.206"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "https://pypi.douban.com/simple/"
+    ]
+  },
+  {
+    "domain": "pypi.org",
+    "status": "active",
+    "expires_on": "2032-07-24T15:13:23+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [],
+    "dns_aaaa_records": [
+      "2a04:4e42:400::223",
+      "2a04:4e42:600::223",
+      "2a04:4e42:200::223",
+      "2a04:4e42::223"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:LifetimeTimeout"
+    ],
+    "notes": "DNS errors: A:LifetimeTimeout",
+    "urls": [
+      "https://pypi.org/socketsecurity",
+      "https://pypi.org/Task"
+    ]
+  },
+  {
+    "domain": "pypi.pubyun.com",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://pypi.pubyun.com/simple"
+    ]
+  },
+  {
+    "domain": "testpypi.org",
+    "status": "active",
+    "expires_on": "2026-05-06T15:59:58+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "103.224.212.217"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "https://testpypi.org/simple"
+    ]
+  },
+  {
+    "domain": "www.leasingninja.io",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "185.199.110.153",
+      "185.199.109.153",
+      "185.199.108.153",
+      "185.199.111.153"
+    ],
+    "dns_aaaa_records": [
+      "2606:50c0:8000::153",
+      "2606:50c0:8002::153",
+      "2606:50c0:8001::153",
+      "2606:50c0:8003::153"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "https://www.leasingninja.io"
+    ]
+  },
+  {
+    "domain": "zotify.xyz",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "185.130.45.44"
+    ],
+    "dns_aaaa_records": [
+      "2a07:e01:3:133::1"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "git+https://zotify.xyz/zotify/music-tag"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[project]
+name = "FieldHunter.mutator.real_types.ExampleClass"
+version = "FieldHunter.mutator.real_types.ExampleClass"
+
+[project.entry-points]
+[project.entry-points.yourplugin.plugins]
+hello = "your_package.plugin:HelloPlugin"
+
+[tool]
+[tool.setuptools]
+[tool.setuptools.package-dir]
+"" = "FieldHunter.mutator.real_types.ExampleClass"
+
+[tool.setuptools.packages]
+[tool.setuptools.packages.find]
+where = ["FieldHunter.mutator.real_types.ExampleClass"]

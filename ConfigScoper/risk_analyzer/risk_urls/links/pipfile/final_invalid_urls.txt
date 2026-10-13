@@ -1,0 +1,8 @@
+s3://hubway-data
+s3://tripdata
+${KRUX_PIP_FOSS_URL}
+s3://cogo-sys-data
+s3://capitalbikeshare-data
+s3://baywheels-data
+s3://divvy-tripdata
+ssh://****@github.com/wtodom/flip7.git

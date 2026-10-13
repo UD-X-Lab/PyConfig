@@ -1,0 +1,18 @@
+[project]
+name = "FieldHunter.mutator.real_types.ExampleClass"
+version = "FieldHunter.mutator.real_types.ExampleClass"
+requires-python = "FieldHunter.mutator.real_types.ExampleClass"
+dependencies = ["FieldHunter.mutator.real_types.ExampleClass"]
+
+[project.entry-points]
+[project.entry-points.pytest11]
+hello = "pytest_hello.plugin"
+
+[tool]
+[tool.setuptools]
+[tool.setuptools.package-dir]
+"" = "FieldHunter.mutator.real_types.ExampleClass"
+
+[tool.setuptools.packages]
+[tool.setuptools.packages.find]
+where = ["FieldHunter.mutator.real_types.ExampleClass"]

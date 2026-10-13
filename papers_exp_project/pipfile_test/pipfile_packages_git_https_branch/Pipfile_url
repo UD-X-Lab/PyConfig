@@ -1,0 +1,2 @@
+[packages]
+requests = {git = "https://github.com/psf/requests.git", ref = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"}

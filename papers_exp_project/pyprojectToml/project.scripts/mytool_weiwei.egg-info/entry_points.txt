@@ -1,0 +1,2 @@
+[console_scripts]
+heroku = pre_commit.main:main

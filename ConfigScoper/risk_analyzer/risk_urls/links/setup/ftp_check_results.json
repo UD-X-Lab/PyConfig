@@ -1,0 +1,12 @@
+[
+  {
+    "url": "ftp://xmlsoft.org/libxml2/python/libxml2-python-2.6.21.tar.gz",
+    "ok": false,
+    "error": "[Errno 111] Connection refused"
+  },
+  {
+    "url": "ftp://ftp.tummy.com/pub/python-memcached/python-memcached-latest.tar.gz",
+    "ok": false,
+    "error": "[Errno -2] Name or service not known"
+  }
+]

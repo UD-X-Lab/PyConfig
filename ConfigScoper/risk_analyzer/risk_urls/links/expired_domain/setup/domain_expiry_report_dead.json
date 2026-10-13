@@ -1,0 +1,1630 @@
+[
+  {
+    "domain": "129.79.244.8",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://129.79.244.8/python-ethtool-0.7.tar#egg=ethtool-0.7"
+    ]
+  },
+  {
+    "domain": "aigarius-gdata.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "142.251.163.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c1b::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "https://aigarius-gdata.googlecode.com/archive/tip.zip#egg=gdata"
+    ]
+  },
+  {
+    "domain": "bitbucket.org",
+    "status": "active",
+    "expires_on": "2026-11-23T05:00:00+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.192.142.24",
+      "104.192.142.26",
+      "104.192.142.25"
+    ],
+    "dns_aaaa_records": [
+      "2401:1d80:321c:2:0:bbc:1:df7c",
+      "2401:1d80:321c::bbc:1:df7c",
+      "2401:1d80:321c:1:0:bbc:1:df7c"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": null,
+    "urls": [
+      "https://bitbucket.org/xi/pyyaml/get/3.11.zip",
+      "hg+https://bitbucket.org/jdiascarvalho/django-filetransfers@89c8381764da217d72f1fa396ce3929f0762b8f9#egg=django-filetransfers-0.1.1",
+      "http://bitbucket.org/sybren/flickrapi/get/tip.zip#egg=flickrapi",
+      "https://bitbucket.org/mirnylab/mirnylib/get/tip.tar.bz2",
+      "https://bitbucket.org/ubernostrum/django-registration/get/58eef8330b0f.tar.gz",
+      "https://bitbucket.org/zamboni/django-utils/get/tip.zip",
+      "https://bitbucket.org/tino/pyfirmata/get/0.9.4.tar.gz#egg=pyfirmata",
+      "https://bitbucket.org/pygame/pygame/get/release_1_9_1release.zip#egg=pygame-1.9.1release",
+      "hg+https://bitbucket.org/ronaldoussoren/py2app@25ce18b#egg=py2app",
+      "https://bitbucket.org/zamboni/connection-manager/get/tip.zip#egg=connection_manager",
+      "https://bitbucket.org/hardbyte/python-can/get/default.tar.gz",
+      "https://bitbucket.org/spirit/guess_language/downloads/guess_language-spirit-0.5a4.tar.bz2",
+      "hg+https://bitbucket.org/ssbb/django-cked#egg=django-cked",
+      "hg+https://bitbucket.org/emacsway/django-tree-select#egg=django-tree-select",
+      "hg+https://bitbucket.org/emacsway/django-ext#egg=django-ext",
+      "https://bitbucket.org/simplecodes/wtforms/get/tip.tar.gz#egg=wtforms-0.6.4dev",
+      "hg+http://bitbucket.org/pygame/pygame#egg=pygame-dev",
+      "hg+https://bitbucket.org/mozman/ezdxf@default#egg=ezdxf-0.7.0alpha",
+      "hg+https://bitbucket.org/TJG/pywin32#egg=pywin32",
+      "https://bitbucket.org/denis/gevent/get/82f623ff862a.tar.gz#egg=gevent",
+      "hg+https://edulix@bitbucket.org/edulix/apscheduler#egg=apscheduler",
+      "https://bitbucket.org/snegovick/dxfgrabber/downloads/dxfgrabber-0.7.4.tar.gz#egg=dxfgrabber-0.7.4",
+      "https://bitbucket.org/ahmetdal/river.io-python/tarball/master/#egg=0.0.1",
+      "https://bitbucket.org/weholt/dse2/get/545e114008b8.tar.bz2#egg=dse-hubspot",
+      "https://bitbucket.org/twanschik/django-autoload/get/tip.tar.gz#egg=django-autoload"
+    ]
+  },
+  {
+    "domain": "brianramos.com",
+    "status": "active",
+    "expires_on": "2032-11-26T02:29:05+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "162.243.35.178"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://brianramos.com/software/PyZenity/PyZenity-0.1.7.tar.gz#egg=PyZenity-0.1.7"
+    ]
+  },
+  {
+    "domain": "c.pypi.python.org",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://c.pypi.python.org/simple"
+    ]
+  },
+  {
+    "domain": "cdn.anthillplatform.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "68.70.205.3",
+      "68.70.205.4",
+      "68.70.205.2",
+      "68.70.205.1"
+    ],
+    "dns_aaaa_records": [
+      "2a0b:4d07:2::1",
+      "2a0b:4d07:2::4",
+      "2a0b:4d07:2::2",
+      "2a0b:4d07:2::3"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "https://cdn.anthillplatform.org/python/v8py"
+    ]
+  },
+  {
+    "domain": "closure-linter.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://closure-linter.googlecode.com/files/closure_linter-latest.tar.gz",
+      "http://closure-linter.googlecode.com/files/closure_linter-2.3.11.tar.gz"
+    ]
+  },
+  {
+    "domain": "code.stripe.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "54.187.119.242",
+      "54.186.23.98",
+      "54.187.159.182"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "https://code.stripe.com/stripe/stripe-1.12.0#egg=stripe",
+      "https://code.stripe.com/stripe/stripe-1.7.9#egg=stripe",
+      "https://code.stripe.com/stripe/stripe-1.9.8#egg=stripe"
+    ]
+  },
+  {
+    "domain": "code.vitrostudios.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "5.44.105.110"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "git+https://code.vitrostudios.com/phil/bricks.git@dev#egg=bricks"
+    ]
+  },
+  {
+    "domain": "corelabs.coresecurity.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "18.208.88.157",
+      "98.84.224.111"
+    ],
+    "dns_aaaa_records": [
+      "2600:1f18:16e:df01::258",
+      "2600:1f18:16e:df01::259"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://corelabs.coresecurity.com/index.php?module=Wiki&action=attachment&type=tool&page=Pcapy&file=pcapy-0.10.8.tar.gz"
+    ]
+  },
+  {
+    "domain": "dist.infrae.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "98.84.224.111",
+      "18.208.88.157"
+    ],
+    "dns_aaaa_records": [
+      "2600:1f18:16e:df01::259",
+      "2600:1f18:16e:df01::258"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://dist.infrae.com/thirdparty"
+    ]
+  },
+  {
+    "domain": "dist.repoze.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "192.241.181.224"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://dist.repoze.org/PIL-1.1.6.tar.gz#egg=PIL-1.1.6",
+      "http://dist.repoze.org/PIL-1.1.6.tar.gz"
+    ]
+  },
+  {
+    "domain": "django-evolution.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://django-evolution.googlecode.com/svn/trunk/"
+    ]
+  },
+  {
+    "domain": "django-swingtime.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://django-swingtime.googlecode.com/files/django-swingtime-0.2.1.tar.gz#egg=django-swingtime-0.2.1"
+    ]
+  },
+  {
+    "domain": "docs.dev.grnet.gr",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "194.177.210.155"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://docs.dev.grnet.gr/pypi"
+    ]
+  },
+  {
+    "domain": "docs.djangoproject.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "146.75.29.55"
+    ],
+    "dns_aaaa_records": [
+      "2a04:4e42:77::311"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "https://docs.djangoproject.com/en/1.9/ref/contrib/postgres/fields/#jsonfield"
+    ]
+  },
+  {
+    "domain": "dotcloud.org.s3.amazonaws.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "52.217.95.81",
+      "3.5.2.190",
+      "3.5.29.252",
+      "16.182.68.33",
+      "16.15.203.228",
+      "52.217.136.41",
+      "16.182.65.17",
+      "16.182.104.201"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://dotcloud.org.s3.amazonaws.com/vm2vm-0.0.3.tar.gz",
+      "http://dotcloud.org.s3.amazonaws.com/metashelf-0.0.1.tar.gz",
+      "http://dotcloud.org.s3.amazonaws.com/aufs-0.0.1.tar.gz",
+      "http://dotcloud.org.s3.amazonaws.com/ejs-0.0.1.tar.gz"
+    ]
+  },
+  {
+    "domain": "download.gna.org",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://download.gna.org/pychart/"
+    ]
+  },
+  {
+    "domain": "download.savannah.nongnu.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "209.51.188.200"
+    ],
+    "dns_aaaa_records": [
+      "2001:470:142:5::200"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "http://download.savannah.nongnu.org/releases/pyprof/hprof-0.1.1.tar.gz#egg=hprof"
+    ]
+  },
+  {
+    "domain": "downloads.basho.com",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://downloads.basho.com/support"
+    ]
+  },
+  {
+    "domain": "downloads.mesosphere.io",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://downloads.mesosphere.io/master/ubuntu/%s/mesos-%s-py2.7-linux-x86_64.egg#egg=mesos"
+    ]
+  },
+  {
+    "domain": "dpkt.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://dpkt.googlecode.com/files/dpkt-1.7.tar.gz#egg=dpkt-1.7"
+    ]
+  },
+  {
+    "domain": "effbot.org",
+    "status": "active",
+    "expires_on": "2026-10-28T12:22:03+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "64.68.200.44"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://effbot.org/downloads"
+    ]
+  },
+  {
+    "domain": "feedparser.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://feedparser.googlecode.com/files/feedparser-4.1.zip"
+    ]
+  },
+  {
+    "domain": "gevent.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://gevent.googlecode.com/files/gevent-1.0rc2.tar.gz"
+    ]
+  },
+  {
+    "domain": "gforge.nci.nih.gov",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "https://gforge.nci.nih.gov/frs/download.php/4655/pyCaCORE-0.2.0-py2.5.egg",
+      "https://gforge.nci.nih.gov/frs/download.php/4256/pyCaCORE-0.1.0-py2.5.egg",
+      "https://gforge.nci.nih.gov/frs/?group_id=525"
+    ]
+  },
+  {
+    "domain": "git.coderouge.co",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "https://git.coderouge.co/arkOS/python-cryptsetup/repository/archive.tar.gz?ref=1.7.2#egg=pycryptsetup-1.7.2"
+    ]
+  },
+  {
+    "domain": "github.com",
+    "status": "active",
+    "expires_on": "2026-10-09T18:20:50+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "140.82.114.3"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "git+https://github.com/infolab-csail/wikipediabase.git#egg=wikipediabase",
+      "https://github.com/qoda/mobile.sniffer/tarball/templateswitcher#egg=mobile.sniffer",
+      "https://github.com/StartTheShift/thunderdome-logging/archive/{0}.tar.gz#egg=thunderdome-logging-{0}",
+      "https://github.com/dragoon/pyutils/tarball/master#egg=pyutils-dev",
+      "https://github.com/danielBreitlauch/wunderpy2/zipball/master#egg=wunderpy2",
+      "git+https://github.com/mircealungu/zeeguu-core.git#egg=zeeguu",
+      "git+https://git@github.com/jakeogh/clicktool",
+      "https://github.com/dahlia/wand/tarball/warning-bugfix#egg=Wand-0.1.10",
+      "https://github.com/tgalal/yowlayer-store/archive/master.zip#egg=yowlayer-store-0.1",
+      "https://github.com/Hackerfleet/kamaelia/archive/master.zip#egg=Kamaelia-1.1.2.1",
+      "https://github.com/hylang/rply/zipball/master#egg=rply-0.6.2",
+      "https://github.com/mutalyzer/crossmapper/archive/v0.0.1.tar.gz#egg=crossmapper-0.0.1",
+      "https://github.com/prior/sanetime/tarball/v3.0.4",
+      "http://github.com/cloudify-cosmo/cloudify-rest-client/tarball/3.3m5#egg=cloudify-rest-client-3.3a5",
+      "http://github.com/facebook/python-sdk/tarball/master#egg=facebook-python-sdk",
+      "git+https://github.com/StorjPlatform/pyuecc.git#egg=pyuecc",
+      "https://github.com/jshipley/Flask-WhooshAlchemy/archive/master.zip#egg=Flask-WhooshAlchemy",
+      "http://github.com/chrysn/aiocoap/tarball/tinydtls#egg=aiocoap-0.3",
+      "git+https://git@github.com/jakeogh/asserttool",
+      "git+https://git@github.com/deepmind/enn",
+      "http://github.com/prashanthellina/funcserver/tarball/master#egg=funcserver",
+      "https://github.com/ak3n/flask-alembic/",
+      "git+https://github.com/RevSquare/gipsy_tools.git#egg=gipsy_tools-0.0.1",
+      "https://github.com/sh4nks/flask-babelex/tarball/master#egg=Flask-BabelEx",
+      "http://github.com/caseyjlaw/sdmpy",
+      "http://github.com/cloudify-cosmo/cloudify-dsl-parser/tarball/3.3m5#egg=cloudify-dsl-parser-3.3a5",
+      "http://github.com/downloads/praekelt/public-eggs/django_registration-0.8_alpha_1-py2.6.egg#egg=django-registration",
+      "http://github.com/cloudify-cosmo/cloudify-plugins-common/archive/3.3m5.zip#egg=cloudify-plugins-common-3.3a5",
+      "git+https://github.com/StorjPlatform/netifaces.git#egg=netifaces",
+      "git+https://github.com/mircealungu/Unified-Multilanguage-Reader.git#egg=umr",
+      "https://github.com/tgalal/yowsup/archive/develop.zip#egg=yowsup2-2.3.185",
+      "http://github.com/praekelt/django-socialregistration/tarball/0.4.1.tokenstore.1#egg=django-socialregistration-0.4.1.tokenstore.1",
+      "git+ssh://git@github.com/uh-nmb/robotActionController",
+      "https://github.com/geotagx/geotagx-tool-formatter/archive/v0.1.0.tar.gz#egg=geotagx_formatter-0.1.0",
+      "git+https://git@github.com/kov/django-bootstrap-toolkit.git@0f0ff43eeab8e19ee8d8021460f1a4abf8303bde#egg=django-bootstrap-toolkit-2.14",
+      "git+https://github.com/sadeghiafshin/pynion.git@0.0.4#egg=pynion-0.0.4",
+      "git+https://github.com/mircealungu/practice-as-a-service.git#egg=zeeguu_exercises",
+      "git+https://github.com/petrus-v/anybox_nose_selenium.git@master#egg=anybox_nose_selenium",
+      "git+https://github.com/synnefy/scapy.git@master#egg=scapy-python3",
+      "http://github.com/nltk/nltk/tarball/2and3#egg=nltk",
+      "https://github.com/coleifer/pysqlite/zipball/master#egg=pysqlite",
+      "git+https://git@github.com/jakeogh/pathtool",
+      "https://github.com/minddistrict/mr.scripty/archive/4bbfa2b48b7bc8a215c80a19e61ac39d0c9545aa.zip#egg=mr.scripty",
+      "git+https://github.com/StorjPlatform/heartbeat.git#egg=storj-heartbeat",
+      "https://github.com/gitpython-developers/GitPython/tarball/0.3#egg=GitPython-0.3git",
+      "git+https://github.com/vasily-v-ryabov/pywinauto-64#egg=pywinauto",
+      "https://github.com/StartTheShift/thunderdome-flask/archive/{0}.tar.gz#egg=thunderdome-flask-{0}",
+      "https://github.com/sumartoyo/hasel.git/tarball/master#egg=package-1.0.1",
+      "https://github.com/matplotlib/matplotlib/tarball/v1.3.x#egg=matplotlib-1.3.0",
+      "https://git@github.com/mishravikas/django-cas-consumer.git@0.3#egg=django-cas-consumer",
+      "https://github.com/lbryio/lbryum/tarball/master/#egg=lbryum",
+      "https://github.com/ctogle/modular/tree/nomodules.git",
+      "http://github.com/downloads/praekelt/public-eggs/django_notification-0.2.0.dev2-py2.6.egg=django-notification",
+      "https://github.com/prashanthellina/funcserver/archive/master.zip#egg=funcserver",
+      "git+https://git@github.com/pexpect/pexpect.git@e2ff2f47fc7719ebf4375eec81f996362816bb10#egg=pexpect-3.4",
+      "https://github.com/geotagx/geotagx-tool-builder/archive/v0.1.0.tar.gz#egg=geotagx_builder-0.1.0",
+      "http://github.com/umeat/parsec.py/tarball/master#egg=parsec-3.0",
+      "git+https://git@github.com:/ctsit/report_handler.git@1.3.0",
+      "https://github.com/PathoScope/PathoScope/tarball",
+      "https://github.com/zyegfryed/fabric/tarball/master#egg=Fabric",
+      "https://github.com/tgalal/yowsup/archive/develop.zip#egg=yowsup2-2.4.48",
+      "git+ssh://git@github.com/birnstiel/tbhmie/tarball/master#egg=tbhmie-0.0.3",
+      "git+https://github.com/rshk/datacat@master#egg=datacat-dev",
+      "git+https://github.com/cstrap/django-admin-sortable2.git#egg=django-admin-sortable2",
+      "git+https://git@github.com/chrismattmann/tika-python.git#egg=tika-1.6",
+      "git+https://github.com/numenta/nupic.tensorflow.git#egg=nupic.tensorflow",
+      "https://github.com/mumrah/kafka-python/tarball/0.7#egg=kafka-python-0.7.2-0",
+      "git+https://git@github.com/olhoneles/django-tastypie-swagger.git@fix-compatibility-django-1.10#egg=django-tastypie-swagger-0.1.4-django1.10",
+      "https://github.com/kimmobrunfeldt/colorama/tarball/master#egg=colorama",
+      "http://github.com/praekelt/django-activity-stream/tarball/master#egg=django-activity-stream-0.2.1.praekelt",
+      "https://github.com/webitup/py3k-mailsnake/zipball/master#egg=mailsnake",
+      "https://github.com/tb0hdan/mplayer.py/tarball/master#egg=mplayer.py-0.7.0beta",
+      "git+https://github.com/jaelsasser/CloudBot.git@setuptools",
+      "git+https://git@github.com/scieloorg/xylose.git@v0.34#egg=xylose",
+      "https://github.com/milesgranger/parallel-ssh/tarball/opt-monkey#egg=opt-monkey",
+      "git+https://git@github.com/deepmind/neural_testbed",
+      "https://github.com/mopidy/pyspotify/archive/v1.x/develop.zip#egg=pyspotify-1.11",
+      "git+https://git@github.com/jakeogh/mptool",
+      "https://github.com/geotagx/geotagx-tool-validator/archive/v0.1.0.tar.gz#egg=geotagx_validator-0.1.0",
+      "https://github.com/Hackerfleet/axon/archive/master.zip#egg=Axon-1.7.0",
+      "https://github.com/egemsoft/esef-auth/tarball/master/#egg=esef-auth-1.0.0.0",
+      "https://github.com/stefanofoulis/django-filer/zipball/develop#egg=django-filer-dev",
+      "http://github.com/mwilliammyers/nba_py/tarball/master#egg=nba_py",
+      "https://github.com/silverfernsys/pydruid.git=pydruid-0.4.0beta",
+      "git+https://github.com/oemof/oemof/releases/tag/v0.2.2#egg=oemof",
+      "git+ssh://git@github.com/ezbakethrift/ezbake-base-thrift.git@0.1-python#egg=ezbake-base-thrift-0.1",
+      "https://github.com/petertodd/python-bitcoinlib/archive/pythonize.zip",
+      "git+https://github.com/evidation-health/pymc3.git#egg=pymc3-dev",
+      "https://github.com/marcobiscaro2112/pyotp/tarball/python3#egg=pyotp",
+      "https://github.com/offlinehacker/scapy/tarball/master#egg=scapy-2.1.1-dev",
+      "https://github.com/bdeggleston/rexpro-python/archive/{0}.tar.gz#egg=rexpro-python-{0}",
+      "http://github.com/humbughq/python-humbug/tarball/master#egg=python-humbug-0.1.6",
+      "https://github.com/nasfarley88/pydice.git/tarball/master#egg",
+      "https://github.com/j08lue/oceanpy/tarball/master#egg=oceanpy-0.2.0",
+      "https://github.com/mckinseyacademy/django-upload-validator/tarball/v1.0.2#egg=django-upload-validator-1.0.2",
+      "git+https://github.com/lovasb/django-ordered-model.git#egg=django-ordered-model",
+      "https://github.com/StartTheShift/thunderdome/archive/{0}.tar.gz#egg=thunderdome-{0}",
+      "git+https://github.com/bearbones/py-moneyed/",
+      "git+https://github.com/StorjPlatform/StorjTelehash.git#egg=StorjTelehash",
+      "git+https://github.com/StorjPlatform/Storjutp.git#egg=Storjutp",
+      "https://github.com/geotagx/geotagx-tool-validator/archive/v0.1.2.tar.gz#egg=geotagx_validator-0.1.2",
+      "http://github.com/uw-it-aca/uw-restclients#egg=RestClients"
+    ]
+  },
+  {
+    "domain": "google-diff-match-patch.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://google-diff-match-patch.googlecode.com/svn/trunk/python2/diff_match_patch.py#egg=diff_match_patch-py2_svn"
+    ]
+  },
+  {
+    "domain": "googledrive.com",
+    "status": "active",
+    "expires_on": "2026-07-03T18:27:00+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "142.251.163.132"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c1b::84"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": null,
+    "urls": [
+      "https://googledrive.com/host/0B8wOEC5-v5lXRVJ5Skl2d0VsTjQ/"
+    ]
+  },
+  {
+    "domain": "ing-wn-21.me.trigrid.it",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://ing-wn-21.me.trigrid.it:8094/d/pyyamllib/",
+      "http://ing-wn-21.me.trigrid.it:8094/d/cwconfparser/",
+      "http://ing-wn-21.me.trigrid.it:8094/d/pyloglib/"
+    ]
+  },
+  {
+    "domain": "ixi-audio.net",
+    "status": "active",
+    "expires_on": "2026-05-01T18:31:05+00:00",
+    "dns_status": "delegated",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [
+      "NS5.PAIRNIC.COM",
+      "NS6.PAIRNIC.COM"
+    ],
+    "dns_errors": [
+      "A:NoAnswer",
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: A:NoAnswer, AAAA:NoAnswer",
+    "urls": [
+      "http://ixi-audio.net/content/download/SimpleOSC_0.3.2.zip#egg=SimpleOSC"
+    ]
+  },
+  {
+    "domain": "jsonschema.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://jsonschema.googlecode.com/files/jsonschema-0.2a.tar.gz"
+    ]
+  },
+  {
+    "domain": "labix.org",
+    "status": "active",
+    "expires_on": "2026-08-31T16:39:18+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "69.163.181.221"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://labix.org/download/python-constraint/"
+    ]
+  },
+  {
+    "domain": "labs.creativecommons.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "213.138.109.109"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://labs.creativecommons.org/~nathan/source/"
+    ]
+  },
+  {
+    "domain": "lapels.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://lapels.googlecode.com/files/pysam-0.6b.tar.gz"
+    ]
+  },
+  {
+    "domain": "larch.ssec.wisc.edu",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "128.104.111.211"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://larch.ssec.wisc.edu/cgi-bin/repos.cgi"
+    ]
+  },
+  {
+    "domain": "launchpad.net",
+    "status": "active",
+    "expires_on": "2026-01-26T19:16:09+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "185.125.189.222",
+      "185.125.189.223"
+    ],
+    "dns_aaaa_records": [
+      "2620:2d:4000:1009::3ba",
+      "2620:2d:4000:1009::f3"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": null,
+    "urls": [
+      "https://launchpad.net/dkimpy/trunk/0.5.4/+download/dkimpy-0.5.4.tar.gz#egg=dkimpy-0.5.4"
+    ]
+  },
+  {
+    "domain": "linode.openhatch.org",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://linode.openhatch.org/~paulproteus/django-debug-toolbar-0.8.4.tar.gz#egg=django-debug-toolbar"
+    ]
+  },
+  {
+    "domain": "ndg.nerc.ac.uk",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://ndg.nerc.ac.uk/dist"
+    ]
+  },
+  {
+    "domain": "oauth-python-twitter2.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://oauth-python-twitter2.googlecode.com/svn/trunk/oauthtwitter.py#egg=oauthtwitter-0.2"
+    ]
+  },
+  {
+    "domain": "onec-pypicloud.s3.amazonaws.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "16.15.187.158",
+      "52.216.39.89",
+      "3.5.20.54",
+      "54.231.134.249",
+      "52.217.197.209",
+      "54.231.167.121",
+      "3.5.27.127",
+      "52.216.152.60"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "https://onec-pypicloud.s3.amazonaws.com/6f45/django_configurations/django-configurations-0.9-sbrandtb.tar.gz#egg=django-configurations-0.9-sbrandtb",
+      "https://onec-pypicloud.s3.amazonaws.com/6f45/django_configurations/django-configurations-0.9-sbrandtb.tar.gz?Signature=y8rhdSkCqUWrslr0T%2B6ljrjz%2BU4%3D&Expires=1440344738&AWSAccessKeyId=AKIAIYMHQ75FUPRJ7C4Q#egg=django-configurations-0.9-sbrantdb"
+    ]
+  },
+  {
+    "domain": "ooici.net",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://ooici.net/releases"
+    ]
+  },
+  {
+    "domain": "opensource.washingtontimes.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.20.45.76",
+      "172.66.169.245"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://opensource.washingtontimes.com/static/dist/django-categories-0.2.1.tar.gz#md5=692714a07a18493c45e575cd26b07b09"
+    ]
+  },
+  {
+    "domain": "orange.biolab.si",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.25.56.40",
+      "104.25.55.40",
+      "172.67.99.210"
+    ],
+    "dns_aaaa_records": [
+      "2606:4700:20::6819:3728",
+      "2606:4700:20::ac43:63d2",
+      "2606:4700:20::6819:3828"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "http://orange.biolab.si/download/oasa-0.13.1.tar.gz"
+    ]
+  },
+  {
+    "domain": "p4-phylogenetics.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://p4-phylogenetics.googlecode.com/archive/4491de464e68fdb49c7a11e06737cd34a98143ec.tar.gz#egg=p4"
+    ]
+  },
+  {
+    "domain": "praekelt.github.com",
+    "status": "unknown",
+    "expires_on": null,
+    "dns_status": "no-ns",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoAnswer",
+      "AAAA:NoAnswer",
+      "NS:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoAnswer, AAAA:NoAnswer, NS:NoAnswer",
+    "urls": [
+      "http://praekelt.github.com/public-eggs/"
+    ]
+  },
+  {
+    "domain": "protobuf-socket-rpc.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "https://protobuf-socket-rpc.googlecode.com/files/protobuf.socketrpc-1.3.2.tar.gz#egg=protobuf.socketrpc"
+    ]
+  },
+  {
+    "domain": "public.futurice.com",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://public.futurice.com/~ekan/eggs"
+    ]
+  },
+  {
+    "domain": "pygeoip.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://pygeoip.googlecode.com/files/pygeoip-0.1.3.zip#egg=pygeoip"
+    ]
+  },
+  {
+    "domain": "pyglet.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://pyglet.googlecode.com/files/"
+    ]
+  },
+  {
+    "domain": "pylockfile.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz#egg=lockfile"
+    ]
+  },
+  {
+    "domain": "pymel.googlecode.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.63.82"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c08::52"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://pymel.googlecode.com/files/pymel-1.0.2.zip"
+    ]
+  },
+  {
+    "domain": "pypi.aartemenko.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.64.80.1"
+    ],
+    "dns_aaaa_records": [
+      "2606:4700:3030::6815:15ed",
+      "2606:4700:3034::ac43:c96a"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "http://pypi.aartemenko.com/",
+      "http://pypi.aartemenko.com"
+    ]
+  },
+  {
+    "domain": "pypi.airfire.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "52.36.208.53"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "https://pypi.airfire.org/simple/apps-consume/",
+      "https://pypi.airfire.org/simple/afscripting/",
+      "https://pypi.airfire.org/simple/eflookup/"
+    ]
+  },
+  {
+    "domain": "pypi.douban.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "140.143.177.206",
+      "120.53.130.158",
+      "81.70.124.99"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://pypi.douban.com/simple/"
+    ]
+  },
+  {
+    "domain": "pypi.iqpp.de",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://pypi.iqpp.de/"
+    ]
+  },
+  {
+    "domain": "pypi.python.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "151.101.64.223",
+      "151.101.0.223",
+      "151.101.192.223",
+      "151.101.128.223"
+    ],
+    "dns_aaaa_records": [
+      "2a04:4e42:400::223",
+      "2a04:4e42:600::223",
+      "2a04:4e42::223",
+      "2a04:4e42:200::223"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "http://pypi.python.org/packages/source/d/django-model-utils/django-model-utils-0.6.0.tar.gz#egg=django-model-utils",
+      "http://pypi.python.org/simple"
+    ]
+  },
+  {
+    "domain": "pyxmpp.jajcus.net",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "31.179.132.94"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://pyxmpp.jajcus.net/downloads/"
+    ]
+  },
+  {
+    "domain": "sddevrepo.oceanobservatories.org",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://sddevrepo.oceanobservatories.org/releases",
+      "http://sddevrepo.oceanobservatories.org/releases/"
+    ]
+  },
+  {
+    "domain": "sk1project.org",
+    "status": "active",
+    "expires_on": "2026-06-28T22:36:07+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "104.21.91.120",
+      "172.67.218.51"
+    ],
+    "dns_aaaa_records": [
+      "2606:4700:3036::ac43:da33",
+      "2606:4700:3036::6815:5b78"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": null,
+    "urls": [
+      "http://sk1project.org/downloads/uniconvertor/v1.1.4/uniconvertor-1.1.4.tar.gz"
+    ]
+  },
+  {
+    "domain": "source.openplans.org",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "https://source.openplans.org/eggs/geopy-0.93dev-r84.tar.gz",
+      "https://source.openplans.org/eggs/django-basic-apps-0.6.tar.gz",
+      "https://source.openplans.org/eggs/django_flash_templatetag-0.1.tar.gz",
+      "https://source.openplans.org/eggs/FormAlchemy-1.2.tar.gz"
+    ]
+  },
+  {
+    "domain": "svn.apache.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "20.232.109.10"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "svn+http://svn.apache.org/repos/asf/qpid/trunk/qpid/python/"
+    ]
+  },
+  {
+    "domain": "svn.openplans.org",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://svn.openplans.org/eggs/geopy-0.93-f1.tar.gz#egg=geopy-0.93-f1",
+      "https://svn.openplans.org/eggs/python-bitly-0.1.tar.gz",
+      "http://svn.openplans.org/eggs/django-voting-0.1.tar.gz",
+      "https://svn.openplans.org/eggs/httplib2-0.4.0.zip",
+      "http://svn.openplans.org/eggs/wsgilog-0.2.tar.gz"
+    ]
+  },
+  {
+    "domain": "tg.gy",
+    "status": "active",
+    "expires_on": "2026-03-07T02:59:11+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "178.16.141.164"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://tg.gy/220",
+      "http://tg.gy/222",
+      "http://tg.gy/230"
+    ]
+  },
+  {
+    "domain": "tilloy.net",
+    "status": "active",
+    "expires_on": "2027-09-12T17:26:11+00:00",
+    "dns_status": "delegated",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [
+      "ns-5-b.gandi.net",
+      "ns-179-a.gandi.net",
+      "ns-243-c.gandi.net"
+    ],
+    "dns_errors": [
+      "A:NoAnswer",
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: A:NoAnswer, AAAA:NoAnswer",
+    "urls": [
+      "http://tilloy.net/dev/pyexiv2/download.html"
+    ]
+  },
+  {
+    "domain": "trac-hacks.org",
+    "status": "active",
+    "expires_on": "2027-01-14T14:29:12+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "94.130.182.14"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://trac-hacks.org/svn/trachoursplugin/0.11"
+    ]
+  },
+  {
+    "domain": "transifex.org",
+    "status": "active",
+    "expires_on": "2025-12-04T17:46:39+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "99.80.33.190",
+      "34.255.242.225",
+      "54.171.16.162"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://transifex.org/files/deps/"
+    ]
+  },
+  {
+    "domain": "turbogears.org",
+    "status": "active",
+    "expires_on": "2027-09-13T17:20:08+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "185.199.109.153",
+      "185.199.108.153",
+      "185.199.111.153",
+      "185.199.110.153"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://turbogears.org/download/filelist.html"
+    ]
+  },
+  {
+    "domain": "www.aeracode.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "172.253.122.121"
+    ],
+    "dns_aaaa_records": [
+      "2607:f8b0:4004:c09::79"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "http://www.aeracode.org/releases/south/south-0.6.2.tar.gz",
+      "http://www.aeracode.org/releases/south/"
+    ]
+  },
+  {
+    "domain": "www.conpaas.eu",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "131.254.150.59"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://www.conpaas.eu/dl/cpslib-%s.tar.gz"
+    ]
+  },
+  {
+    "domain": "www.daimi.au.dk",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "185.45.20.48"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://www.daimi.au.dk/~mailund/suffix_tree/suffix_tree-2.1.tar.gz"
+    ]
+  },
+  {
+    "domain": "www.linux.it",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "213.254.12.150"
+    ],
+    "dns_aaaa_records": [
+      "2001:1418:10:5::a"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "http://www.linux.it/~ema/conpaas/cpslib-%s.tar.gz"
+    ]
+  },
+  {
+    "domain": "www.lsc-group.phys.uwm.edu",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "129.89.61.49"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "https://www.lsc-group.phys.uwm.edu/daswg/download/software/source/glue-1.46.tar.gz#egg=glue-1.46"
+    ]
+  },
+  {
+    "domain": "www.nagare.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "185.199.110.153",
+      "185.199.109.153",
+      "185.199.108.153",
+      "185.199.111.153"
+    ],
+    "dns_aaaa_records": [
+      "2606:50c0:8002::153",
+      "2606:50c0:8000::153",
+      "2606:50c0:8001::153",
+      "2606:50c0:8003::153"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "http://www.nagare.org/snapshots/"
+    ]
+  },
+  {
+    "domain": "www.pycopia.net",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "http://www.pycopia.net/download/"
+    ]
+  },
+  {
+    "domain": "www.pylonshq.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "134.209.220.53"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://www.pylonshq.com/download/0.9.7",
+      "http://www.pylonshq.com/download/1.0"
+    ]
+  },
+  {
+    "domain": "www.secdev.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "217.25.178.5"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://www.secdev.org/projects/scapy/files/",
+      "http://www.secdev.org/projects/scapy/"
+    ]
+  },
+  {
+    "domain": "www.turbogears.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "185.199.109.153",
+      "185.199.110.153",
+      "185.199.111.153",
+      "185.199.108.153"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "http://www.turbogears.org/2.1/downloads/current/index",
+      "http://www.turbogears.org/2.1/downloads/current/"
+    ]
+  },
+  {
+    "domain": "{github}",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "git+https://{github}/{pkg}@{ver}#egg={pkg}-{ver}"
+    ]
+  }
+]

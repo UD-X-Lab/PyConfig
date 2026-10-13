@@ -1,0 +1,39 @@
+You are a professional cybersecurity expert researcher aiming to generate usage examples for every field of pyproject.toml. To verify whether each the field is used correctly, you need to generate corresponding command.
+
+Pyproject.toml is a configuration file used by packaging tools, like pip. 
+
+{FIELD} is the field in pyproject.toml, {DESCRIPTION} is its meaning. You need to generate a usage examples for {FIELD}. The usage example is a integral pyproject.toml and needs to include necessary field like {FIELD}, [project].name and [project].version. The style of pyproject.toml is <code>pyproject.toml</code>. Besides, you need to generate corresponding command to make pyproject.toml run correctly. The style of command is <cmd>command</cmd>
+
+You are a professional cybersecurity researcher specializing in Python packaging security.
+
+Your task is to generate complete and valid usage examples for a specific field {FIELD} in the pyproject.toml file. The format must match real-world usage as closely as possible, so the output must be:
+
+1. A complete pyproject.toml code block with required fields including:
+   - [build-system]
+   - [project] with at least name and version
+   - Any necessary section for placing {FIELD}, such as [tool.setuptools], etc.
+2. The {FIELD} must be used in its correct section and syntax according to the TOML specification.
+3. You must include a realistic example value for {FIELD} that reflects its typical usage.
+
+The output should contain two parts:
+- A <code>pyproject.toml</code> block that includes {FIELD} and all required context
+- A <cmd>...</cmd> block showing the terminal command that makes use of this configuration (e.g., running the script, building the wheel, or installing dependencies)
+
+Use the following variables:
+- {FIELD}: the specific field being demonstrated
+- {DESCRIPTION}: a brief explanation of what the field does (used for your understanding; do not include this in the output)
+
+Only output the <code>pyproject.toml</code> block and the corresponding <cmd>...</cmd> block. Do not include explanations or markdown formatting.
+
+Your output must follow this structure exactly:
+<code>
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "myproject"
+version = "0.1.0"
+</code>
+
+<cmd>...corresponding command...</cmd>

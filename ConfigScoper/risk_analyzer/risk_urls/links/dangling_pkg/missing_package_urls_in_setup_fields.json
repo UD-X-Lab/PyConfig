@@ -1,0 +1,327 @@
+[
+  {
+    "setup_file": "real_config/setup/1c20e6dd.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/1c20e6dd.py",
+    "field": "dependency_links",
+    "url": "http://pygeoip.googlecode.com/files/pygeoip-0.1.3.zip"
+  },
+  {
+    "setup_file": "real_config/setup/dab49fbc.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/2fc10a83.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/hardbyte/python-can/get/default.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/68a2e87a.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/68a2e87a.py",
+    "field": "dependency_links",
+    "url": "http://pygeoip.googlecode.com/files/pygeoip-0.1.3.zip"
+  },
+  {
+    "setup_file": "real_config/setup/42d6ad81.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/zamboni/django-utils/get/tip.zip"
+  },
+  {
+    "setup_file": "real_config/setup/069be485.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/denis/gevent/get/82f623ff862a.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/32ada9a8.py",
+    "field": "dependency_links",
+    "url": "https://onec-pypicloud.s3.amazonaws.com/6f45/django_configurations/django-configurations-0.9-sbrandtb.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/e3044d30.py",
+    "field": "dependency_links",
+    "url": "https://onec-pypicloud.s3.amazonaws.com/6f45/django_configurations/django-configurations-0.9-sbrandtb.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/f83c3332.py",
+    "field": "dependency_links",
+    "url": "http://django-swingtime.googlecode.com/files/django-swingtime-0.2.1.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/5806ea22.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/pygame/pygame/get/release_1_9_1release.zip"
+  },
+  {
+    "setup_file": "real_config/setup/10487b21.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/a98d50ef.py",
+    "field": "dependency_links",
+    "url": "https://protobuf-socket-rpc.googlecode.com/files/protobuf.socketrpc-1.3.2.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/08ac3d9c.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/3964d74b.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/3964d74b.py",
+    "field": "dependency_links",
+    "url": "http://pygeoip.googlecode.com/files/pygeoip-0.1.3.zip"
+  },
+  {
+    "setup_file": "real_config/setup/34e6b9c3.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/mirnylab/mirnylib/get/tip.tar.bz2"
+  },
+  {
+    "setup_file": "real_config/setup/d6fdb2a4.py",
+    "field": "dependency_links",
+    "url": "http://feedparser.googlecode.com/files/feedparser-4.1.zip"
+  },
+  {
+    "setup_file": "real_config/setup/2d566851.py",
+    "field": "dependency_links",
+    "url": "http://sk1project.org/downloads/uniconvertor/v1.1.4/uniconvertor-1.1.4.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/2bf1300f.py",
+    "field": "dependency_links",
+    "url": "http://closure-linter.googlecode.com/files/closure_linter-2.3.11.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/5b6c4341.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/ubernostrum/django-registration/get/58eef8330b0f.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/d890b33b.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/2fc22f23.py",
+    "field": "dependency_links",
+    "url": "http://dotcloud.org.s3.amazonaws.com/aufs-0.0.1.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/6eb05712.py",
+    "field": "dependency_links",
+    "url": "http://lapels.googlecode.com/files/pysam-0.6b.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/285690ca.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/spirit/guess_language/downloads/guess_language-spirit-0.5a4.tar.bz2"
+  },
+  {
+    "setup_file": "real_config/setup/8998f14f.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/65a8f55a.py",
+    "field": "dependency_links",
+    "url": "http://pymel.googlecode.com/files/pymel-1.0.2.zip"
+  },
+  {
+    "setup_file": "real_config/setup/f9971483.py",
+    "field": "dependency_links",
+    "url": "http://www.aeracode.org/releases/south/south-0.6.2.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/f9971483.py",
+    "field": "dependency_links",
+    "url": "http://dist.repoze.org/PIL-1.1.6.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/7233befc.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/twanschik/django-autoload/get/tip.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/c13696a3.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/2825850c.py",
+    "field": "dependency_links",
+    "url": "http://dist.repoze.org/PIL-1.1.6.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/7be1dbd5.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/snegovick/dxfgrabber/downloads/dxfgrabber-0.7.4.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/2a8d2ea6.py",
+    "field": "dependency_links",
+    "url": "http://brianramos.com/software/PyZenity/PyZenity-0.1.7.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/30b7e0f1.py",
+    "field": "dependency_links",
+    "url": "http://closure-linter.googlecode.com/files/closure_linter-latest.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/5823d59c.py",
+    "field": "dependency_links",
+    "url": "http://orange.biolab.si/download/oasa-0.13.1.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/203bfa2f.py",
+    "field": "dependency_links",
+    "url": "http://www.daimi.au.dk/~mailund/suffix_tree/suffix_tree-2.1.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/93824e06.py",
+    "field": "dependency_links",
+    "url": "http://dpkt.googlecode.com/files/dpkt-1.7.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/409c2e63.py",
+    "field": "dependency_links",
+    "url": "http://dotcloud.org.s3.amazonaws.com/vm2vm-0.0.3.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/409c2e63.py",
+    "field": "dependency_links",
+    "url": "http://jsonschema.googlecode.com/files/jsonschema-0.2a.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/409c2e63.py",
+    "field": "dependency_links",
+    "url": "http://dotcloud.org.s3.amazonaws.com/metashelf-0.0.1.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/409c2e63.py",
+    "field": "dependency_links",
+    "url": "http://dotcloud.org.s3.amazonaws.com/ejs-0.0.1.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/21ce9d5e.py",
+    "field": "dependency_links",
+    "url": "https://aigarius-gdata.googlecode.com/archive/tip.zip"
+  },
+  {
+    "setup_file": "real_config/setup/21ce9d5e.py",
+    "field": "dependency_links",
+    "url": "http://bitbucket.org/sybren/flickrapi/get/tip.zip"
+  },
+  {
+    "setup_file": "real_config/setup/19e771ce.py",
+    "field": "dependency_links",
+    "url": "http://gevent.googlecode.com/files/gevent-1.0rc2.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/5207cc6f.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/xi/pyyaml/get/3.11.zip"
+  },
+  {
+    "setup_file": "real_config/setup/2bdcc37e.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/c245d795.py",
+    "field": "dependency_links",
+    "url": "https://launchpad.net/dkimpy/trunk/0.5.4/+download/dkimpy-0.5.4.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/5f556934.py",
+    "field": "dependency_links",
+    "url": "http://orange.biolab.si/download/oasa-0.13.1.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/7bc5c19b.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/cc93882e.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/cc93882e.py",
+    "field": "dependency_links",
+    "url": "http://pygeoip.googlecode.com/files/pygeoip-0.1.3.zip"
+  },
+  {
+    "setup_file": "real_config/setup/b0e43616.py",
+    "field": "dependency_links",
+    "url": "http://p4-phylogenetics.googlecode.com/archive/4491de464e68fdb49c7a11e06737cd34a98143ec.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/21128533.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/snegovick/dxfgrabber/downloads/dxfgrabber-0.7.4.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/10f5293a.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/weholt/dse2/get/545e114008b8.tar.bz2"
+  },
+  {
+    "setup_file": "real_config/setup/4f6f2021.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/simplecodes/wtforms/get/tip.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/f8ed41c0.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/tino/pyfirmata/get/0.9.4.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/b36dbb00.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/denis/gevent/get/82f623ff862a.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/cce456e4.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/cce456e4.py",
+    "field": "dependency_links",
+    "url": "http://pygeoip.googlecode.com/files/pygeoip-0.1.3.zip"
+  },
+  {
+    "setup_file": "real_config/setup/04c36051.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/zamboni/connection-manager/get/tip.zip"
+  },
+  {
+    "setup_file": "real_config/setup/41c5e756.py",
+    "field": "dependency_links",
+    "url": "https://bitbucket.org/twanschik/django-autoload/get/tip.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/132b261a.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  },
+  {
+    "setup_file": "real_config/setup/4690110d.py",
+    "field": "dependency_links",
+    "url": "http://pylockfile.googlecode.com/files/lockfile-0.9.tar.gz"
+  }
+]

@@ -1,0 +1,11 @@
+[tool]
+[tool.poetry]
+name = "FieldHunter/mutator/real_script.py"
+version = "FieldHunter/mutator/real_script.py"
+
+[tool.poetry.requires-plugins]
+poetry-plugin-expor = "FieldHunter/mutator/real_script.py"
+
+[build-system]
+requires = ["FieldHunter/mutator/real_script.py"]
+build-backend = "poetry.core.masonry.api"

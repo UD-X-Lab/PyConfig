@@ -1,0 +1,11 @@
+[tool]
+[tool.poetry]
+name = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+version = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+
+[tool.poetry.requires-plugins]
+poetry-plugin-expor = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+
+[build-system]
+requires = ["https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"]
+build-backend = "poetry.core.masonry.api"

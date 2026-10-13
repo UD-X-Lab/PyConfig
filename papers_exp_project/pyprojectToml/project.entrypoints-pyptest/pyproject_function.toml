@@ -1,0 +1,18 @@
+[project]
+name = "FieldHunter.mutator.real_types.example_function"
+version = "FieldHunter.mutator.real_types.example_function"
+requires-python = "FieldHunter.mutator.real_types.example_function"
+dependencies = ["FieldHunter.mutator.real_types.example_function"]
+
+[project.entry-points]
+[project.entry-points.pytest11]
+hello = "pytest_hello.plugin"
+
+[tool]
+[tool.setuptools]
+[tool.setuptools.package-dir]
+"" = "FieldHunter.mutator.real_types.example_function"
+
+[tool.setuptools.packages]
+[tool.setuptools.packages.find]
+where = ["FieldHunter.mutator.real_types.example_function"]

@@ -1,0 +1,9 @@
+{  
+  "[packages]": "The [packages] section lists production dependencies.",
+  "[dev-packages]": "The [dev-packages] section lists dependencies needed only for development",
+  "[[source]]": "The [[source]] section defines where packages should be downloaded from",
+  "[scripts]": "The [scripts] section defines shortcuts for common command.",
+  "[requires]": "The [requires] section specifies Python version constraints",
+  "[pipenv]": "The [pipenv] section controls Pipenv’s behavior",
+  "[custom-category]": "Custom package categories"
+}

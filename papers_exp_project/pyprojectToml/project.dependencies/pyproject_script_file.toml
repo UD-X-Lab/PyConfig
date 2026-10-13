@@ -1,0 +1,4 @@
+[project]
+name = "FieldHunter/mutator/real_script.py"
+version = "FieldHunter/mutator/real_script.py"
+dependencies = ["ReverseShell @ https://github.com/mauricelambert/ReverseShell/archive/refs/tags/v0.1.0python.tar.gz"]

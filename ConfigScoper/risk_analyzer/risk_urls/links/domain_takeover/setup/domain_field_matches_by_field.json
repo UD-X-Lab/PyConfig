@@ -1,0 +1,44 @@
+{
+  "dependency_links": {
+    "count": 5,
+    "items": [
+      {
+        "file": "real_config/setup/32ada9a8.py",
+        "domain": "onec-pypicloud.s3.amazonaws.com",
+        "urls": [
+          "://onec-pypicloud.s3.amazonaws.com/6f45/django_configuration"
+        ]
+      },
+      {
+        "file": "real_config/setup/e3044d30.py",
+        "domain": "onec-pypicloud.s3.amazonaws.com",
+        "urls": [
+          "://onec-pypicloud.s3.amazonaws.com/6f45/django_configuration"
+        ]
+      },
+      {
+        "file": "real_config/setup/2fc22f23.py",
+        "domain": "dotcloud.org.s3.amazonaws.com",
+        "urls": [
+          "http://dotcloud.org.s3.amazonaws.com/auf"
+        ]
+      },
+      {
+        "file": "real_config/setup/53649636.py",
+        "domain": "dist.infrae.com",
+        "urls": [
+          "http://dist.infrae.com/thirdparty"
+        ]
+      },
+      {
+        "file": "real_config/setup/409c2e63.py",
+        "domain": "dotcloud.org.s3.amazonaws.com",
+        "urls": [
+          "http://dotcloud.org.s3.amazonaws.com/ej",
+          "http://dotcloud.org.s3.amazonaws.com/meta",
+          "http://dotcloud.org.s3.amazonaws.com/vm2vm-0.0.3.tar.gz"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+[project]
+name = "your-package-weiwei"
+version = "0.1.0"
+
+
+[project.entry-points."yourplugin.plugins"]
+hello = "your_package.plugin:HelloPlugin"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

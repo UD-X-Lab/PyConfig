@@ -1,0 +1,7 @@
+[project]
+name = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+version = "https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"
+dependencies = ["https://github.com/mhammond/pywin32/archive/refs/tags/b306.tar.gz#egg=pywin32"]
+
+[project.scripts]
+heroku = "pre_commit.main:main"

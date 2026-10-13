@@ -1,0 +1,51 @@
+{
+  "dependency_links": {
+    "count": 6,
+    "items": [
+      {
+        "file": "real_config/setup/5f532d03.py",
+        "domain": "trac-hacks.org",
+        "urls": [
+          "http://trac-hacks.org/wiki/Te"
+        ]
+      },
+      {
+        "file": "real_config/setup/9455efe6.py",
+        "domain": "trac-hacks.org",
+        "urls": [
+          "http://trac-hacks.org/wiki/Te"
+        ]
+      },
+      {
+        "file": "real_config/setup/e6ebda1a.py",
+        "domain": "trac-hacks.org",
+        "urls": [
+          "http://trac-hacks.org/"
+        ]
+      },
+      {
+        "file": "real_config/setup/6a01d2db.py",
+        "domain": "trac-hacks.org",
+        "urls": [
+          "http://trac-hacks.org/wiki/Te",
+          "http://trac-hacks.org/wiki/TracGenericWorkflowPlugin"
+        ]
+      },
+      {
+        "file": "real_config/setup/f5ebb64f.py",
+        "domain": "trac-hacks.org",
+        "urls": [
+          "http://trac-hacks.org/wiki/Te"
+        ]
+      },
+      {
+        "file": "real_config/setup/97ce31a7.py",
+        "domain": "trac-hacks.org",
+        "urls": [
+          "http://trac-hacks.org/wiki/Te",
+          "http://trac-hacks.org/wiki/TracGenericWorkflowPlugin"
+        ]
+      }
+    ]
+  }
+}

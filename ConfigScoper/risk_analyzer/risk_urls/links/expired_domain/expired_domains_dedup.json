@@ -1,0 +1,567 @@
+{
+  "count": 108,
+  "domains": [
+    "acc-py-repo.cern.ch",
+    "another.example.com",
+    "api.cloud.deepset.ai",
+    "artifact.artifact.svc.cluster.local",
+    "artifact.semgrep.com",
+    "artifactory.elering.sise",
+    "artifactory.genomicsplc.com",
+    "athyra.ged.msu.edu",
+    "autoxtrabackup.azepug.az",
+    "biblo.dcain.me",
+    "bitbucket.synchrotron.org.au",
+    "blackbook-marketplace.tomgxz.repl.co",
+    "blog.ak-rc.net",
+    "bluetang.ai",
+    "bodhi.fedoraproject.rog",
+    "btec.iv.at",
+    "bytedpypi.byted.org",
+    "c.pypi.python.org",
+    "clients.duniter.io",
+    "code.dapps.douban.com",
+    "code.welldev.org",
+    "cookie.swing.dj",
+    "darcs.idyll.org",
+    "datahelp.imf.org",
+    "default.example.com",
+    "devpi.pyn.ru",
+    "docs.ell.so",
+    "docs.example.com",
+    "docs.vantagediscovery.com",
+    "docsupport.blob.core.windows.net",
+    "download.cherrypy.org",
+    "download.gna.org",
+    "downloads.basho.com",
+    "downloads.mesosphere.io",
+    "exchangeradar.tech",
+    "explicit.example.com",
+    "ext9.org",
+    "first.example.com",
+    "ftp.tummy.com",
+    "geolite.maxmind.com",
+    "gforge.nci.nih.gov",
+    "git.coderouge.co",
+    "git.csx.cam.ac.uk",
+    "git.dev.sixapart.com",
+    "git.ibama.gov.br",
+    "git.knut.univention.de",
+    "git.kodexlab.com",
+    "git.participatoryculture.org",
+    "git.psi.ch",
+    "git.strekmann.no",
+    "gitea.ksol.io",
+    "github.nasa.gov",
+    "gitlab.cee.redhat.com",
+    "gitlab.cisco.com",
+    "gitlab.larc.nasa.gov",
+    "glow.dev.ramcloud.io",
+    "going.bg",
+    "hello.swing.dj",
+    "homepage.example.com",
+    "hub.meteoswiss.ch",
+    "ing-wn-21.me.trigrid.it",
+    "jira.wysegames.com",
+    "kgiantsios.com",
+    "klaud.teledomic.eu",
+    "labtocat.com",
+    "linode.openhatch.org",
+    "mirror.centos.org",
+    "ndg.nerc.ac.uk",
+    "nexus.osdc.io",
+    "nexus.prod.uci.cu",
+    "ooici.net",
+    "orion.genesistechnologies.org",
+    "pdihub.hi.inet",
+    "phabricator.ramcloud.io",
+    "plaidweb.site",
+    "projects.archlinux.org",
+    "publ.plaidweb.site",
+    "public.futurice.com",
+    "pypi.asci.synchrotron.org.au",
+    "pypi.cactus-network.net",
+    "pypi.example.com",
+    "pypi.ingenia",
+    "pypi.iqpp.de",
+    "pypi.pubyun.com",
+    "pypi.uib.gmbh",
+    "ray.example.com",
+    "repository.example.com",
+    "sddevrepo.oceanobservatories.org",
+    "secondary.example.com",
+    "sentry.example.com",
+    "settings-writer.prod.mozaws.net",
+    "some-site.ca",
+    "source.openplans.org",
+    "spotipy_redirect_uri",
+    "sql.telemetry.example.com",
+    "supplemental.example.com",
+    "svn.cac.washington.edu",
+    "svn.effbot.org",
+    "svn.openplans.org",
+    "tarballs.kickstand-project.org",
+    "tosv.byted.org",
+    "unlicense.org",
+    "vault.centos.org|g",
+    "www.pycopia.net",
+    "www.swing.dj",
+    "www.todo.com"
+  ],
+  "source_files": {
+    "0.0.0.0": [
+      "pyproject/domain_expiry_summary_dead.txt",
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "127.0.0.1": [
+      "pyproject/domain_expiry_summary_dead.txt",
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "acc-py-repo.cern.ch": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "another.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "artifact.artifact.svc.cluster.local": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "artifact.semgrep.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "artifactory.elering.sise": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "artifactory.genomicsplc.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "autoxtrabackup.azepug.az": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "bar.baz": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "biblo.dcain.me": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "bitbucket.synchrotron.org.au": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "blackbook-marketplace.tomgxz.repl.co": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "blog.ak-rc.net": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "bluetang.ai": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "bodhi.fedoraproject.rog": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "btec.iv.at": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "bytedpypi.byted.org": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "clients.duniter.io": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "cookie.swing.dj": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "datahelp.imf.org": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "default.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "devpi.pyn.ru": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "docs.ell.so": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "docs.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "docs.vantagediscovery.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "example": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "exchangeradar.tech": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "explicit.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "ext9.org": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "first.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "foo.bar": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "git.knut.univention.de": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "gitea.ksol.io": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "github": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "github.nasa.gov": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "going.bg>": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "hello.swing.dj": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "homepage.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "hub.meteoswiss.ch": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "kgiantsios.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "labtocat.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "mail-api": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "minio": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "mirror.centos.org|baseurl=": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "mirror;baseurl=": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "nexus.osdc.io": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "nexus.prod.uci.cu": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "orion.genesistechnologies.org": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "plaidweb.site": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "publ.plaidweb.site": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "pypi.asci.synchrotron.org.au": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "pypi.cactus-network.net": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "pypi.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "pypi.ingenia": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "pypi.uib.gmbh": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "ray.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "repository.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "secondary.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "sentry.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "settings-writer.prod.mozaws.net": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "ska-db-oda-rest-test": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "spotipy_redirect_uri": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "sql.telemetry.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "supplemental.example.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "todo": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "tosv.byted.org": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "tud-amr": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "unlicense.org>": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "vault.centos.org|g": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "vault;g": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "www.swing.dj": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "www.todo.com": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "{}": [
+      "pyproject/domain_expiry_summary_dead.txt"
+    ],
+    "$(pwd": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "$pwd": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "$target_bucket": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "${project_root}": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "\\s+": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "\\{0\\}": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "api.cloud.deepset.ai}}": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "bucket{%": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "faketestcred": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "mondeja": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "mysql-ens-compara-prod-1": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "nitpick": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "prod-airbyte-cloud-connector-metadata-service": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "unicef": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "workfloworchestrator": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "{root": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "{root}": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "{toxinidir}": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "{toxworkdir}{": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "{{": [
+      "pyproject/domain_expiry_summary_invalid.txt"
+    ],
+    "athyra.ged.msu.edu": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "code.dapps.douban.com": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "code.welldev.org": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "darcs.idyll.org": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "docsupport.blob.core.windows.net": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "download.cherrypy.org": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "download.gna.org": [
+      "requirements/domain_expiry_summary_dead.txt",
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "geolite.maxmind.com": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "git.coderouge.co": [
+      "requirements/domain_expiry_summary_dead.txt",
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "git.csx.cam.ac.uk": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "git.ibama.gov.br": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "git.participatoryculture.org": [
+      "requirements/domain_expiry_summary_dead.txt",
+      "requirements/domain_expiry_summary_invalid.txt"
+    ],
+    "gitlab.cee.redhat.com": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "gitlab.cisco.com": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "glow.dev.ramcloud.io": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "klaud.teledomic.eu": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "myrepo": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "pdihub.hi.inet": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "some-site.ca": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "source.openplans.org": [
+      "requirements/domain_expiry_summary_dead.txt",
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "svn.cac.washington.edu": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "svn.effbot.org": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "svn.openplans.org": [
+      "requirements/domain_expiry_summary_dead.txt",
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "tarballs.kickstand-project.org": [
+      "requirements/domain_expiry_summary_dead.txt"
+    ],
+    "git.dev.sixapart.com": [
+      "requirements/domain_expiry_summary_invalid.txt"
+    ],
+    "git.kodexlab.com": [
+      "requirements/domain_expiry_summary_invalid.txt"
+    ],
+    "git.psi.ch": [
+      "requirements/domain_expiry_summary_invalid.txt"
+    ],
+    "git.strekmann.no": [
+      "requirements/domain_expiry_summary_invalid.txt"
+    ],
+    "gitlab.larc.nasa.gov": [
+      "requirements/domain_expiry_summary_invalid.txt"
+    ],
+    "phabricator.ramcloud.io": [
+      "requirements/domain_expiry_summary_invalid.txt"
+    ],
+    "projects.archlinux.org": [
+      "requirements/domain_expiry_summary_invalid.txt"
+    ],
+    "129.79.244.8": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "c.pypi.python.org": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "downloads.basho.com": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "downloads.mesosphere.io": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "gforge.nci.nih.gov": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "ing-wn-21.me.trigrid.it": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "linode.openhatch.org": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "ndg.nerc.ac.uk": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "ooici.net": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "public.futurice.com": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "pypi.iqpp.de": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "sddevrepo.oceanobservatories.org": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "www.pycopia.net": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "{github}": [
+      "setup/domain_expiry_summary_dead.txt"
+    ],
+    "ftp.tummy.com": [
+      "setup/domain_expiry_summary_invalid.txt"
+    ],
+    "jira.wysegames.com": [
+      "setup/domain_expiry_summary_invalid.txt"
+    ],
+    "my-package-index": [
+      "pipfile/domain_expiry_summary_dead.txt"
+    ],
+    "pypi.pubyun.com": [
+      "pipfile/domain_expiry_summary_dead.txt"
+    ],
+    "baywheels-data": [
+      "pipfile/domain_expiry_summary_invalid.txt"
+    ],
+    "capitalbikeshare-data": [
+      "pipfile/domain_expiry_summary_invalid.txt"
+    ],
+    "cogo-sys-data": [
+      "pipfile/domain_expiry_summary_invalid.txt"
+    ],
+    "divvy-tripdata": [
+      "pipfile/domain_expiry_summary_invalid.txt"
+    ],
+    "hubway-data": [
+      "pipfile/domain_expiry_summary_invalid.txt"
+    ],
+    "tripdata": [
+      "pipfile/domain_expiry_summary_invalid.txt"
+    ]
+  }
+}

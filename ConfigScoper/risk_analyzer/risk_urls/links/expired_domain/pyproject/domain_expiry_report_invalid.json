@@ -1,0 +1,643 @@
+[
+  {
+    "domain": "$(pwd",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "file://$(pwd"
+    ]
+  },
+  {
+    "domain": "$pwd",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "file://$PWD/src/book/_build/html/index.html"
+    ]
+  },
+  {
+    "domain": "$target_bucket",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "gs://$TARGET_BUCKET/metadata/$CONNECTOR/$VERSION",
+      "gs://$TARGET_BUCKET/metadata/$CONNECTOR/latest"
+    ]
+  },
+  {
+    "domain": "${project_root}",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "file://${PROJECT_ROOT}/rastervision_core/dist/rastervision_core-0.31.2.dev0-py3-none-any.whl",
+      "file://${PROJECT_ROOT}/rastervision_aws_batch/dist/rastervision_aws_batch-0.31.2.dev0-py3-none-any.whl",
+      "file://${PROJECT_ROOT}/rastervision_aws_s3/dist/rastervision_aws_s3-0.31.2.dev0-py3-none-any.whl",
+      "file://${PROJECT_ROOT}/rastervision_pytorch_backend/dist/rastervision_pytorch_backend-0.31.2.dev0-py3-none-any.whl",
+      "file://${PROJECT_ROOT}/rastervision_gdal_vsi/dist/rastervision_gdal_vsi-0.31.2.dev0-py3-none-any.whl",
+      "file://${PROJECT_ROOT}/rastervision_pipeline/dist/rastervision_pipeline-0.31.2.dev0-py3-none-any.whl",
+      "file://${PROJECT_ROOT}/rastervision_pytorch_learner/dist/rastervision_pytorch_learner-0.31.2.dev0-py3-none-any.whl",
+      "file://${PROJECT_ROOT}/rastervision_aws_sagemaker/dist/rastervision_aws_sagemaker-0.31.2.dev0-py3-none-any.whl"
+    ]
+  },
+  {
+    "domain": "0.0.0.0",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "postgresql://postgres:happy@0.0.0.0:15432/llm_chatbot_for_messengers",
+      "redis://0.0.0.0:6379"
+    ]
+  },
+  {
+    "domain": "127.0.0.1",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "postgresql://postgres:postgres@127.0.0.1:54322/postgres"
+    ]
+  },
+  {
+    "domain": "\\s+",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "uid://\\S+"
+    ]
+  },
+  {
+    "domain": "\\{0\\}",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "file://\\{0\\}"
+    ]
+  },
+  {
+    "domain": "alexandria.github.com",
+    "status": "unknown",
+    "expires_on": null,
+    "dns_status": "no-ns",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoAnswer",
+      "AAAA:NoAnswer",
+      "NS:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoAnswer, AAAA:NoAnswer, NS:NoAnswer",
+    "urls": [
+      "mock://alexandria.github.com/openid/introspect",
+      "mock://alexandria.github.com/openid/userinfo"
+    ]
+  },
+  {
+    "domain": "api.cloud.deepset.ai}}",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NXDOMAIN",
+    "urls": [
+      "https://api.cloud.deepset.ai}}/api/v2/custom_components/logs"
+    ]
+  },
+  {
+    "domain": "aur.archlinux.org",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "46.62.192.80"
+    ],
+    "dns_aaaa_records": [
+      "2a01:4f9:c013:9a2d::1"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "ssh://aur@aur.archlinux.org/{args}.git"
+    ]
+  },
+  {
+    "domain": "bucket{%",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "s3://bucket{%"
+    ]
+  },
+  {
+    "domain": "caluma.io",
+    "status": "active",
+    "expires_on": "2026-09-26T12:58:31+00:00",
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "149.126.4.77"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "mock://caluma.io/openid/userinfo",
+      "mock://caluma.io/openid/introspect"
+    ]
+  },
+  {
+    "domain": "docs",
+    "status": "active (dns-delegated)",
+    "expires_on": null,
+    "dns_status": "delegated",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [
+      "ns-tld4.charlestonroadregistry.com",
+      "ns-tld3.charlestonroadregistry.com",
+      "ns-tld2.charlestonroadregistry.com",
+      "ns-tld1.charlestonroadregistry.com",
+      "ns-tld5.charlestonroadregistry.com"
+    ],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers",
+    "urls": [
+      "file://docs"
+    ]
+  },
+  {
+    "domain": "document-merge-service.github.com",
+    "status": "unknown",
+    "expires_on": null,
+    "dns_status": "no-ns",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoAnswer",
+      "AAAA:NoAnswer",
+      "NS:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoAnswer, AAAA:NoAnswer, NS:NoAnswer",
+    "urls": [
+      "mock://document-merge-service.github.com/openid/userinfo"
+    ]
+  },
+  {
+    "domain": "faketestcred",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "postgresql+asyncpg://faketestcred:faketestcred@faketestcred/faketestcred"
+    ]
+  },
+  {
+    "domain": "git.20c.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "204.130.133.165"
+    ],
+    "dns_aaaa_records": [
+      "2607:fae0:f202:44c::165"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "ssh://git@git.20c.com/gh/squidfunk/mkdocs-material-insiders.git"
+    ]
+  },
+  {
+    "domain": "gitlab.cern.ch",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "188.185.31.211",
+      "188.185.15.160",
+      "188.185.15.101",
+      "188.185.11.106",
+      "188.185.25.203",
+      "188.185.22.120",
+      "188.185.25.125",
+      "188.185.35.37",
+      "188.185.34.83"
+    ],
+    "dns_aaaa_records": [
+      "2001:1458:d00:69::100:1fb",
+      "2001:1458:d00:66::100:39c",
+      "2001:1458:d00:63::100:377",
+      "2001:1458:d00:64::100:ac",
+      "2001:1458:d00:67::100:313",
+      "2001:1458:d00:64::100:2c3",
+      "2001:1458:d00:67::100:327",
+      "2001:1458:d00:69::100:d0",
+      "2001:1458:d00:68::100:18"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS returned no recognizable expiry date",
+    "urls": [
+      "ssh://git@gitlab.cern.ch:7999/rx_run3/rx_common.git",
+      "ssh://git@gitlab.cern.ch:7999/rx_run3/ecal_calibration.git",
+      "ssh://git@gitlab.cern.ch:7999/rx_run3/dmu.git",
+      "ssh://git@gitlab.cern.ch:7999/rx_run3/ap_utilities.git",
+      "ssh://git@gitlab.cern.ch:7999/rx_run3/rx_selection.git"
+    ]
+  },
+  {
+    "domain": "localhost",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "127.0.0.1"
+    ],
+    "dns_aaaa_records": [
+      "::1"
+    ],
+    "dns_ns_records": [],
+    "dns_errors": [],
+    "notes": "WHOIS lookup unavailable or timed out",
+    "urls": [
+      "presto://localhost:8080/memory/default",
+      "mysql://mysqluser:mysqluserpassword@localhost/superset?charset=utf8",
+      "trino://trino@localhost:8080/",
+      "mysql+pymysql://root@localhost:33060/asphalttest",
+      "mongodb://mongo:mongo@localhost:27017",
+      "postgresql+psycopg2://superset:superset@localhost/test",
+      "postgresql+psycopg://postgres:secret@localhost:54320/asphalttest",
+      "redis://localhost",
+      "mongodb://localhost:27020/",
+      "crate://crate@localhost/",
+      "hive://localhost:10000/default",
+      "crate://crate@localhost/?ssl=false&schema=testdrive",
+      "postgresql://metricflow@localhost:5432/metricflow",
+      "redis://localhost:6379",
+      "postgresql://gitspatch:gitspatch@localhost:5432/gitspatch"
+    ]
+  },
+  {
+    "domain": "mondeja",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "gh://mondeja/project-config-styles@v5.4/python/readthedocs.json5",
+      "gh://mondeja/project-config-styles@v5.4/python/mypy.json5",
+      "gh://mondeja/project-config-styles@v5.4/python/base.json5",
+      "gh://mondeja/project-config-styles@v5.4/base/pre-commit/md2po2md.json5",
+      "gh://mondeja/project-config-styles@v5.4/python/sphinx.json5"
+    ]
+  },
+  {
+    "domain": "mysql-ens-compara-prod-1",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "mysql://ensadmin:${ENSADMIN_PSW}@mysql-ens-compara-prod-1:4485/"
+    ]
+  },
+  {
+    "domain": "nitpick",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "py://nitpick/resources/any/codeclimate",
+      "py://nitpick/resources/python/flake8",
+      "py://nitpick/resources/python/311",
+      "py://nitpick/resources/python/310",
+      "py://nitpick/resources/python/github-workflow",
+      "py://nitpick/resources/any/commitlint",
+      "py://nitpick/resources/shell/shellcheck",
+      "py://nitpick/resources/shell/bashate",
+      "py://nitpick/resources/python/ipython",
+      "py://nitpick/resources/any/pre-commit-hooks",
+      "py://nitpick/resources/javascript/package-json",
+      "py://nitpick/resources/shell/shfmt",
+      "py://nitpick/resources/any/prettier",
+      "py://nitpick/resources/python/sonar-python",
+      "py://nitpick/resources/python/mypy",
+      "py://nitpick/resources/python/isort",
+      "py://nitpick/resources/python/39",
+      "py://nitpick/resources/toml/toml-sort",
+      "py://nitpick/resources/python/312",
+      "py://nitpick/resources/python/absent",
+      "py://nitpick/resources/python/pylint",
+      "py://nitpick/resources/python/stable",
+      "py://nitpick/resources/python/black",
+      "py://nitpick/resources/python/radon",
+      "py://nitpick/resources/python/38.toml",
+      "py://nitpick/resources/any/commitizen",
+      "py://nitpick/resources/python/poetry-venv",
+      "py://nitpick/resources/python/readthedocs",
+      "py://nitpick/resources/any/editorconfig",
+      "py://nitpick/resources/any/git-legal",
+      "py://nitpick/resources/python/tox",
+      "py://nitpick/resources/python/poetry-editable",
+      "py://nitpick/resources/markdown/markdownlint",
+      "py://nitpick/resources/python/pre-commit-hooks",
+      "py://nitpick/resources/python/bandit",
+      "py://nitpick/resources/python/autoflake"
+    ]
+  },
+  {
+    "domain": "prod-airbyte-cloud-connector-metadata-service",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS returned no recognizable expiry date; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "gs://prod-airbyte-cloud-connector-metadata-service/metadata/$CONNECTOR/$VERSION"
+    ]
+  },
+  {
+    "domain": "ssh.dev.azure.com",
+    "status": "active (dns-only)",
+    "expires_on": null,
+    "dns_status": "has-address",
+    "dns_a_records": [
+      "20.41.6.12"
+    ],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "AAAA:NoAnswer"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: AAAA:NoAnswer",
+    "urls": [
+      "git+ssh://git@ssh.dev.azure.com/v3/wdodelta/DataHub/D0006_WDODAzureSQL"
+    ]
+  },
+  {
+    "domain": "unicef",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "github://unicef/hope-code-conventions@main/django/django.toml"
+    ]
+  },
+  {
+    "domain": "workfloworchestrator",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "github://workfloworchestrator/nitpick-style@main/nitpick-style-orchestrator-core.toml"
+    ]
+  },
+  {
+    "domain": "{root",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "file://{root:uri}/htmlcov/index.html"
+    ]
+  },
+  {
+    "domain": "{root}",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "file://{root}"
+    ]
+  },
+  {
+    "domain": "{toxinidir}",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "file://{toxinidir}/docs/build/html/index.html"
+    ]
+  },
+  {
+    "domain": "{toxworkdir}{",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "file://{toxworkdir}{/}docs_out{/}index.html"
+    ]
+  },
+  {
+    "domain": "{{",
+    "status": "likely-expired",
+    "expires_on": null,
+    "dns_status": "nxdomain",
+    "dns_a_records": [],
+    "dns_aaaa_records": [],
+    "dns_ns_records": [],
+    "dns_errors": [
+      "A:NoNameservers",
+      "AAAA:NoNameservers",
+      "NS:NXDOMAIN"
+    ],
+    "notes": "WHOIS lookup unavailable or timed out; DNS errors: A:NoNameservers, AAAA:NoNameservers, NS:NXDOMAIN",
+    "urls": [
+      "ssh://{{"
+    ]
+  }
+]

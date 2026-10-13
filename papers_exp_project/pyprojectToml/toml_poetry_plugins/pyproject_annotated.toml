@@ -1,0 +1,5 @@
+[tool]
+[tool.poetry]
+[tool.poetry.plugins]
+[tool.poetry.plugins.poetry.application.plugin]
+export = "poetry_plugin_export.plugins:ExportApplicationPlugin"  # suspicious:function

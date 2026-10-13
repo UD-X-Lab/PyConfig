@@ -1,0 +1,2 @@
+tensroflow
+certifi==2022.6.15

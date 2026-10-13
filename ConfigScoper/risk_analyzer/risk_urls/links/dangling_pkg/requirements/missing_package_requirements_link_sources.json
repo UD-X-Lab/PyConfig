@@ -1,0 +1,343 @@
+{
+  "vcs_raw_sources": {},
+  "direct_file_by_url_sources": {
+    "https://py-editdist.googlecode.com/files/py-editdist-0.3.tar.gz": [
+      "real_config/requirements.new/000f925b.txt",
+      "real_config/requirements.new/0a3e8fcb.txt",
+      "real_config/requirements.new/0fa575a5.txt",
+      "real_config/requirements.new/2d3bdd6d.txt",
+      "real_config/requirements.new/34390099.txt",
+      "real_config/requirements.new/467fdbcd.txt",
+      "real_config/requirements.new/679b759b.txt",
+      "real_config/requirements.new/8ff96f58.txt",
+      "real_config/requirements.new/93befabe.txt",
+      "real_config/requirements.new/9bccac80.txt",
+      "real_config/requirements.new/9dd4b973.txt",
+      "real_config/requirements.new/b2c72974.txt",
+      "real_config/requirements.new/b98525c1.txt",
+      "real_config/requirements.new/dab0a4ac.txt",
+      "real_config/requirements.new/e2f7f7a3.txt",
+      "real_config/requirements.new/eb211118.txt"
+    ],
+    "https://google-visualization-python.googlecode.com/files/gviz_api_py-1.8.2.tar.gz": [
+      "real_config/requirements.new/26e2c861.txt",
+      "real_config/requirements.new/3500867a.txt",
+      "real_config/requirements.new/3aac14c7.txt",
+      "real_config/requirements.new/3f8f66f0.txt",
+      "real_config/requirements.new/419accde.txt",
+      "real_config/requirements.new/4ae00eb4.txt",
+      "real_config/requirements.new/4e55052b.txt",
+      "real_config/requirements.new/4f4cb1ae.txt",
+      "real_config/requirements.new/525c08ae.txt",
+      "real_config/requirements.new/545e6b1b.txt",
+      "real_config/requirements.new/65584c67.txt",
+      "real_config/requirements.new/780ab950.txt",
+      "real_config/requirements.new/85d2de57.txt",
+      "real_config/requirements.new/8f4381e5.txt",
+      "real_config/requirements.new/92a636b2.txt",
+      "real_config/requirements.new/a371f8bd.txt",
+      "real_config/requirements.new/b52217e8.txt",
+      "real_config/requirements.new/c3d94da7.txt",
+      "real_config/requirements.new/c7430243.txt",
+      "real_config/requirements.new/e1373630.txt",
+      "real_config/requirements.new/f3752eb1.txt"
+    ],
+    "http://effbot.org/downloads/Imaging-1.1.7.tar.gz": [
+      "real_config/requirements.new/00a7f7e0.txt",
+      "real_config/requirements.new/0f18d21b.txt",
+      "real_config/requirements.new/104079a2.txt",
+      "real_config/requirements.new/3ae069c2.txt",
+      "real_config/requirements.new/545719c3.txt",
+      "real_config/requirements.new/580daa9f.txt",
+      "real_config/requirements.new/58599b41.txt",
+      "real_config/requirements.new/67320055.txt",
+      "real_config/requirements.new/81a29290.txt",
+      "real_config/requirements.new/83ea9461.txt",
+      "real_config/requirements.new/88201ec8.txt",
+      "real_config/requirements.new/9127ce63.txt",
+      "real_config/requirements.new/9b262b4c.txt",
+      "real_config/requirements.new/a4cb2eae.txt",
+      "real_config/requirements.new/bc96cbda.txt",
+      "real_config/requirements.new/c0a1a2aa.txt",
+      "real_config/requirements.new/c42cc4db.txt",
+      "real_config/requirements.new/d7da8625.txt",
+      "real_config/requirements.new/e132ea1a.txt",
+      "real_config/requirements.new/e4486ab3.txt",
+      "real_config/requirements.new/eba3cd18.txt",
+      "real_config/requirements.new/ed2a6440.txt"
+    ],
+    "http://wxpython.org/Phoenix/snapshot-builds/wxPython_Phoenix-3.0.3.dev1820+49a8884-cp34-none-win_amd64.whl": [
+      "real_config/requirements.new/469d938c.txt",
+      "real_config/requirements.new/48f25614.txt",
+      "real_config/requirements.new/49237c40.txt",
+      "real_config/requirements.new/509f7a60.txt",
+      "real_config/requirements.new/56306631.txt",
+      "real_config/requirements.new/7cc88d80.txt",
+      "real_config/requirements.new/930b6371.txt",
+      "real_config/requirements.new/99a0f957.txt",
+      "real_config/requirements.new/a5525e5a.txt",
+      "real_config/requirements.new/aa68f45f.txt",
+      "real_config/requirements.new/ab282125.txt",
+      "real_config/requirements.new/b48b42bf.txt",
+      "real_config/requirements.new/c25649b8.txt",
+      "real_config/requirements.new/c42f25e0.txt",
+      "real_config/requirements.new/ccf17393.txt",
+      "real_config/requirements.new/d6a4ba58.txt",
+      "real_config/requirements.new/d7bf2045.txt",
+      "real_config/requirements.new/dd81ca86.txt",
+      "real_config/requirements.new/eaa2a6d1.txt",
+      "real_config/requirements.new/fcee2566.txt",
+      "real_config/requirements.new/fea1d89b.txt"
+    ],
+    "https://dl.dropboxusercontent.com/u/165239/mcn_cc_sdk.tgz": [
+      "real_config/requirements.new/0a7c0069.txt",
+      "real_config/requirements.new/719bcaac.txt",
+      "real_config/requirements.new/aa825095.txt",
+      "real_config/requirements.new/aece14dd.txt"
+    ],
+    "https://bitbucket.org/zikzakmedia/trytond-sale_shop/get/c08a55a96f605e96c72253ce22a24251c86c5bb9.tar.gz": [
+      "real_config/requirements.new/93ee53a0.txt",
+      "real_config/requirements.new/a3479605.txt",
+      "real_config/requirements.new/d943d3a0.txt"
+    ],
+    "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.0.3.zip": [
+      "real_config/requirements.new/1f856af1.txt"
+    ],
+    "http://microfluidics.utoronto.ca/git/python___path.git/snapshot/da43890764f1ee508fe6c32582acd69b87240365.zip": [
+      "real_config/requirements.new/489ebe3c.txt",
+      "real_config/requirements.new/87783988.txt"
+    ],
+    "https://bitbucket.org/spirit/guess_language/downloads/guess_language-spirit-0.5a4.tar.bz2": [
+      "real_config/requirements.new/36c7411e.txt"
+    ],
+    "http://thirdparty-packages.braincorporation.net/pytest-xdist-2013-bc-b.tar.gz": [
+      "real_config/requirements.new/d9ad6dc0.txt",
+      "real_config/requirements.new/f9ce8472.txt"
+    ],
+    "http://effbot.org/downloads/Imaging-1.1.6.tar.gz": [
+      "real_config/requirements.new/db36df33.txt"
+    ],
+    "http://www.reportlab.org/ftp/ReportLab_2_3.tar.gz": [
+      "real_config/requirements.new/db36df33.txt"
+    ],
+    "http://closure-linter.googlecode.com/files/closure_linter-latest.tar.gz": [
+      "real_config/requirements.new/420e4dad.txt",
+      "real_config/requirements.new/6f0d1b45.txt",
+      "real_config/requirements.new/c8e0effe.txt"
+    ],
+    "https://bitbucket.org/brandon/backports.ssl_match_hostname/get/tip.zip": [
+      "real_config/requirements.new/01f6787b.txt"
+    ],
+    "http://tmrc.mit.edu/mirror/twisted/Twisted/10.1/Twisted-10.1.0.tar.bz2": [
+      "real_config/requirements.new/2a076db4.txt",
+      "real_config/requirements.new/e453cc01.txt"
+    ],
+    "https://s3.amazonaws.com/finddeps/numpy-1.9.2%2Bmkl-cp27-none-win_amd64.whl": [
+      "real_config/requirements.new/800e3692.txt",
+      "real_config/requirements.new/ad57f094.txt"
+    ],
+    "https://s3.amazonaws.com/finddeps/scipy-0.16.0-cp27-none-win_amd64.whl": [
+      "real_config/requirements.new/800e3692.txt",
+      "real_config/requirements.new/ad57f094.txt"
+    ],
+    "https://s3.amazonaws.com/finddeps/PySAL-1.10.0-py2-none-any.whl": [
+      "real_config/requirements.new/800e3692.txt",
+      "real_config/requirements.new/ad57f094.txt"
+    ],
+    "https://s3.amazonaws.com/finddeps/psycopg2-2.6.1-cp27-none-win_amd64.whl": [
+      "real_config/requirements.new/800e3692.txt",
+      "real_config/requirements.new/ad57f094.txt"
+    ],
+    "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.1.3.zip": [
+      "real_config/requirements.new/e985efee.txt",
+      "real_config/requirements.new/f64cf16d.txt"
+    ],
+    "https://sites.google.com/site/nmftool/home/source-code/nmfv1_4.zip": [
+      "real_config/requirements.new/dd9177a6.txt"
+    ],
+    "http://www.colorado.edu/conflict/peace/download/peace_essay.ZIP": [
+      "real_config/requirements.new/dd9177a6.txt"
+    ],
+    "https://bitbucket.org/zalew/django-online-status/get/tip.zip": [
+      "real_config/requirements.new/16448ceb.txt",
+      "real_config/requirements.new/214251b2.txt",
+      "real_config/requirements.new/7ae34248.txt",
+      "real_config/requirements.new/9a1b2139.txt",
+      "real_config/requirements.new/d02c63a8.txt",
+      "real_config/requirements.new/d8e8050a.txt",
+      "real_config/requirements.new/ea07ddd3.txt"
+    ],
+    "https://bitbucket.org/zamboni/django-helper-forms/get/tip.zip": [
+      "real_config/requirements.new/86877e93.txt"
+    ],
+    "http://pyodbc.googlecode.com/files/pyodbc-3.0.7.zip": [
+      "real_config/requirements.new/2c93f7d0.txt"
+    ],
+    "https://bitbucket.org/schinckel/django-postgres/get/ada11ed1caef.zip": [
+      "real_config/requirements.new/baaca78e.txt"
+    ],
+    "http://www.tornadoweb.org/static/tornado-0.2.tar.gz": [
+      "real_config/requirements.new/8eafd53a.txt"
+    ],
+    "https://python-graph.googlecode.com/files/python-graph-core-1.8.2.tar.gz": [
+      "real_config/requirements.new/81e1de7c.txt",
+      "real_config/requirements.new/8c8c15af.txt",
+      "real_config/requirements.new/90661ab0.txt",
+      "real_config/requirements.new/a0e0c8e1.txt",
+      "real_config/requirements.new/b1ec3348.txt"
+    ],
+    "https://www.dropbox.com/static/developers/dropbox-python-sdk-1.5.1.zip": [
+      "real_config/requirements.new/7950c0ef.txt"
+    ],
+    "http://scapy.net/scapy-latest.zip": [
+      "real_config/requirements.new/b54070ce.txt"
+    ],
+    "https://pythonfutures.googlecode.com/archive/168453acb1ee.zip": [
+      "real_config/requirements.new/bb0193d3.txt"
+    ],
+    "http://www.secdev.org/projects/scapy/files/scapy-latest.tar.gz": [
+      "real_config/requirements.new/ca80600f.txt"
+    ],
+    "https://dpkt.googlecode.com/files/dpkt-1.8.tar.gz": [
+      "real_config/requirements.new/ca80600f.txt"
+    ],
+    "https://conda.anaconda.org/conda-forge/linux-64/jpeg-9b-2.tar.bz2": [
+      "real_config/requirements.new/dfacb215.txt"
+    ],
+    "https://conda.anaconda.org/conda-forge/linux-64/libiconv-1.15-0.tar.bz2": [
+      "real_config/requirements.new/dfacb215.txt"
+    ],
+    "https://conda.anaconda.org/conda-forge/linux-64/libxml2-2.9.8-0.tar.bz2": [
+      "real_config/requirements.new/dfacb215.txt"
+    ],
+    "https://conda.anaconda.org/conda-forge/linux-64/qt-5.6.2-7.tar.bz2": [
+      "real_config/requirements.new/dfacb215.txt"
+    ],
+    "https://conda.anaconda.org/conda-forge/linux-64/matplotlib-2.2.2-py36_1.tar.bz2": [
+      "real_config/requirements.new/dfacb215.txt"
+    ],
+    "https://conda.anaconda.org/conda-forge/noarch/nbconvert-5.3.1-py_1.tar.bz2": [
+      "real_config/requirements.new/dfacb215.txt"
+    ],
+    "https://bitbucket.org/onepercentclub/suds/get/afe727f50704.zip": [
+      "real_config/requirements.new/69cb152b.txt"
+    ],
+    "https://bitbucket.org/onepercentclub/django-registration/get/ae9e9ed265ed.zip": [
+      "real_config/requirements.new/69cb152b.txt"
+    ],
+    "https://bitbucket.org/wkornewald/django-filetransfers/get/32ddeac.zip": [
+      "real_config/requirements.new/69cb152b.txt"
+    ],
+    "https://bitbucket.org/bjornswift/django-requestlogging/get/tip.tar.gz": [
+      "real_config/requirements.new/c9e19dcb.txt"
+    ],
+    "https://bitbucket.org/marekbrzoska/django-registration/get/fd14433.zip": [
+      "real_config/requirements.new/ccc4d1ed.txt"
+    ],
+    "https://s3-us-west-2.amazonaws.com/packages.dualspark.com/dev/cfn-environment-base/cfn-environment-base-0.3.3.tar.gz": [
+      "real_config/requirements.new/4f98ca02.txt"
+    ],
+    "http://gcc.cybermirror.org/releases/gcc-4.4.0/gcc-core-4.4.0.tar.bz2": [
+      "real_config/requirements.new/b21786f2.txt"
+    ],
+    "https://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.1.3.tar.gz": [
+      "real_config/requirements.new/41514e54.txt",
+      "real_config/requirements.new/8c8a7788.txt",
+      "real_config/requirements.new/8d9d3c46.txt"
+    ],
+    "http://downloads.sourceforge.net/project/pyaiml/PyAIML%20%28unstable%29/0.8.6/PyAIML-0.8.6.zip": [
+      "real_config/requirements.new/7db8cdc6.txt",
+      "real_config/requirements.new/880988a5.txt"
+    ],
+    "http://yapgvb.googlecode.com/files/yapgvb-1.2.3-source.tar.gz": [
+      "real_config/requirements.new/68aebc9b.txt"
+    ],
+    "http://hg.q-continuum.net/libloader/archive/tip.tar.gz": [
+      "real_config/requirements.new/b43e8004.txt"
+    ],
+    "http://hg.q-continuum.net/sound_lib/archive/tip.tar.gz": [
+      "real_config/requirements.new/b43e8004.txt"
+    ],
+    "http://hg.q-continuum.net/accessible_output2/archive/tip.tar.gz": [
+      "real_config/requirements.new/b43e8004.txt"
+    ],
+    "http://gevent.googlecode.com/files/gevent-1.0rc2.tar.gz": [
+      "real_config/requirements.new/d53a3f22.txt"
+    ],
+    "http://invenio-software.org/download/python/pyRXP-1.16-daily-unix.tar.gz": [
+      "real_config/requirements.new/e004187a.txt"
+    ],
+    "http://invenio-software.org/download/python/py-editdist-0.3.tar.gz": [
+      "real_config/requirements.new/e004187a.txt"
+    ],
+    "http://dist.repoze.org/PIL-1.1.6.tar.gz": [
+      "real_config/requirements.new/01c11efa.txt",
+      "real_config/requirements.new/f5d7701e.txt"
+    ],
+    "http://www.aeracode.org/releases/south/south-0.6.1.tar.gz": [
+      "real_config/requirements.new/01c11efa.txt",
+      "real_config/requirements.new/f5d7701e.txt"
+    ],
+    "https://opendesk-packages.herokuapp.com/ntorque-0.3.2.tar.gz": [
+      "real_config/requirements.new/61cdc479.txt"
+    ],
+    "https://opendesk-packages.herokuapp.com/colander-1.0b3.tar.gz": [
+      "real_config/requirements.new/61cdc479.txt"
+    ],
+    "https://opendesk-packages.herokuapp.com/cornice-0.17.tar.gz": [
+      "real_config/requirements.new/61cdc479.txt"
+    ],
+    "https://pyglet.googlecode.com/files/pyglet-1.2alpha1.tar.gz": [
+      "real_config/requirements.new/179e7d50.txt",
+      "real_config/requirements.new/35c3471e.txt"
+    ],
+    "http://typogrify.googlecode.com/files/typogrify-1.0.tar.gz": [
+      "real_config/requirements.new/0471c3a5.txt"
+    ],
+    "https://gdata-python-client.googlecode.com/files/gdata-2.0.17.tar.gz": [
+      "real_config/requirements.new/ef742ccb.txt"
+    ],
+    "https://cntk.ai/PythonWheel/CPU-Only/cntk-2.1-cp35-cp35m-win_amd64.whl": [
+      "real_config/requirements.new/3cace9c2.txt"
+    ],
+    "http://files.dimagi.com/pygooglechart-0.3.0.tar.gz": [
+      "real_config/requirements.new/69da2f82.txt"
+    ],
+    "http://effbot.org/media/downloads/Imaging-1.1.7.tar.gz": [
+      "real_config/requirements.new/577c52a7.txt"
+    ],
+    "http://download.qt.io/snapshots/ci/pyside/5.11/latest/pyside2/PySide2-5.11.0a1.dev1525359714-5.11.0-cp36-cp36m-win_amd64.whl": [
+      "real_config/requirements.new/9f3cdeab.txt"
+    ],
+    "https://s3-us-west-2.amazonaws.com/artifacts.numenta.org/numenta/nupic.core/releases/nupic.bindings/nupic.bindings-0.4.0-cp27-none-linux_x86_64.whl": [
+      "real_config/requirements.new/11dbc3e6.txt"
+    ],
+    "https://bitbucket.org/axiacore/django-autoslug/get/d163a44269a0.zip": [
+      "real_config/requirements.new/bfe4fda5.txt"
+    ],
+    "https://fuxi.googlecode.com/hg/layercake-python.tar.bz2": [
+      "real_config/requirements.new/99feb326.txt"
+    ],
+    "https://bitbucket.org/jone_eide/django-localeurl/get/tip.tar.gz": [
+      "real_config/requirements.new/e25685f1.txt"
+    ],
+    "https://download.lfd.uci.edu/pythonlibs/s2jqpv5t/cp27/pycairo-1.18.2-cp27-cp27m-win32.whl": [
+      "real_config/requirements.new/aa8a1e2b.txt"
+    ],
+    "http://dev.gentoo.org/~dolsen/releases/ssl-fetch/ssl-fetch-0.4.tar.gz": [
+      "real_config/requirements.new/a2437f22.txt"
+    ],
+    "https://bitbucket.org/jespern/django-piston/get/5b3ef294fe89.zip": [
+      "real_config/requirements.new/ebb5ccff.txt"
+    ],
+    "https://bitbucket.org/zikzakmedia/trytond-sale_shop/get/default.tar.gz": [
+      "real_config/requirements.new/483c9687.txt"
+    ],
+    "https://bitbucket.org/prologic/pydot/get/ac76697320d6.zip": [
+      "real_config/requirements.new/f0dfaca5.txt"
+    ],
+    "https://dl.dropboxusercontent.com/u/165239/sm-0.4.tgz": [
+      "real_config/requirements.new/0a7c0069.txt"
+    ]
+  }
+}
